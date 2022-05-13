@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/491911983/15908308-d269-45b0-84e0-22a68d370a91">
+<img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/cover-repo.jpg">
 
 # Hello friends 🖐️
 
