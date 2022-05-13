@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/491911983/da7f2185-5d79-4eff-ac04-97d24c4ff657">
+<img src="https://repository-images.githubusercontent.com/491911983/15908308-d269-45b0-84e0-22a68d370a91">
 
 # Hello friends 🖐️
 
