@@ -103,7 +103,10 @@ A Curated list of Badges used in GitHub
 Improve your README.md profile with these amazing badges.
 
 <br/>
-📍 For example : &nbsp; <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+📍 For example :
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 <br/>
 <br/>
 
@@ -113,7 +116,11 @@ Gitwar - Compete with Github Check your Github Score. Based on -
 Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Followers ,Joined Github Organisations ...
 
 <br/>
-📍 For example : &nbsp; <img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/5a7bb22b0aa8d11e1d01515ce6e942d09a6b51c6ca94fa8602461a8a082faf0d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4749545741522b50524f46494c452b53434f5245266d6573736167653d3132333435363738393026636f6c6f723d303037656336" alt="" data-canonical-src="https://img.shields.io/static/v1?label=PROFILE+SCORE&amp;message=1234567890&amp;color=007ec6" style="max-width: 100%;">
+📍 For example :
+<br/>
+<br/>
+
+<img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/5a7bb22b0aa8d11e1d01515ce6e942d09a6b51c6ca94fa8602461a8a082faf0d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4749545741522b50524f46494c452b53434f5245266d6573736167653d3132333435363738393026636f6c6f723d303037656336" alt="" data-canonical-src="https://img.shields.io/static/v1?label=PROFILE+SCORE&amp;message=1234567890&amp;color=007ec6" style="max-width: 100%;">
 <br/>
 <br/>
 
@@ -122,7 +129,10 @@ Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Follo
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 <br/>
-📍 For example : &nbsp; <img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> &nbsp; <img src="https://camo.githubusercontent.com/f7119a5d8e7bcbca5a6cce287a7dad354ea144ecff9fa322777346e3e330a08e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d706c6173746963" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=plastic" style="max-width: 100%;">
+📍 For example : 
+<br/>
+<br/>
+<img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> &nbsp; <img src="https://camo.githubusercontent.com/f7119a5d8e7bcbca5a6cce287a7dad354ea144ecff9fa322777346e3e330a08e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d706c6173746963" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=plastic" style="max-width: 100%;">
 <br/>
 <br/>
 
@@ -131,7 +141,10 @@ It counts how many times your GitHub profile has been viewed. Free cloud micro-s
 Github new features README profile views counter made with Yii2 framework.
 
 <br/>
-📍 For example : &nbsp; <img src="https://camo.githubusercontent.com/70efda0ea25590e8ec1d45dad689865a24485a757d9359a4547218d25c0fa352/68747470733a2f2f677076632e6172747572696f2e6465762f6769746875622d70726f66696c652d76696577732d636f756e746572" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/github-profile-views-counter" style="max-width: 100%;">
+📍 For example : 
+<br/>
+<br/>
+<img src="https://camo.githubusercontent.com/70efda0ea25590e8ec1d45dad689865a24485a757d9359a4547218d25c0fa352/68747470733a2f2f677076632e6172747572696f2e6465762f6769746875622d70726f66696c652d76696577732d636f756e746572" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/github-profile-views-counter" style="max-width: 100%;">
 <br/>
 <br/>
 
