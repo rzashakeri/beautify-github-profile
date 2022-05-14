@@ -389,7 +389,7 @@ Add dynamically generated GitHub Stat Trophies on your readme
 <br/>
 <br/>
 
-#### 19 . [Github Readme Twitter](https://github.com/ryo-ma/github-profile-trophy)
+#### 19 . [Github Readme Twitter](https://github.com/gazf/github-readme-twitter)
 
 Add Twitter to your github readme
 <br/>
@@ -401,13 +401,13 @@ Add Twitter to your github readme
 <br/>
 <br/>
 
-#### 20 . [Random Memer](https://github.com/ryo-ma/github-profile-trophy)
+#### 20 . [Random Memer](https://github.com/techytushar/random-memer)
 
 Returns random meme images scraped from Memedroid
 <br/>
 <br/>
 
-#### 21 . [Github Profilinator](https://github.com/ryo-ma/github-profile-trophy)
+#### 21 . [Github Profilinator](https://github.com/rishavanand/github-profilinator)
 
 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 <br/>
