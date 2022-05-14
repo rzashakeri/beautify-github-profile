@@ -991,7 +991,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 
 ----------
 
-### If you like, you can also help me develop this repository so that from now on we have more beautiful GateHub profiles 💙
+### If you like, you can also help me develop this repository so that from now on we have more beautiful github profiles 💙
 
 # Give A Star ⭐
 
