@@ -240,7 +240,7 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 <br/>
 <br/>
 
-#### 8 . [Github Action Dynamic Profile Page](https://rahuldkjain.github.io/gh-profile-readme-generator)
+#### 8 . [Github Action Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page/)
 
 GitHub Action to push updates to your special profile repository.
 <br/>
