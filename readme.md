@@ -297,7 +297,7 @@ Show your Spotify playing on your Github profile
 <br/>
 <br/>
 
-#### 12 . [Blog Post Workflow](https://github.com/kittinan/spotify-github-profile)
+#### 12 . [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 
 Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 <br/>
