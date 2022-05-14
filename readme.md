@@ -164,7 +164,7 @@ Updates README with Todoist Stats of a user
 <br/>
 <br/>
 
-#### 2 . [github readme stats](https://github.com/anuraghazra/github-readme-statss)
+#### 2 . [github readme stats](https://github.com/anuraghazra/github-readme-stats)
 
 Dynamically generated stats for your github readmes
 <br/>
