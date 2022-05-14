@@ -972,6 +972,21 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 <br/>
 <br/>
 
+
+#### 38 . [Action Devcard](https://github.com/dailydotdev/action-devcard)
+
+ GitHub Action to download the devcard from https://daily.dev 
+
+<br/>
+📍 For example : &nbsp;
+
+<br/>
+
+<a href="https://app.daily.dev/rzashakeri"><img src="https://api.daily.dev/devcards/6ae35a9240b4445ab6b12d50bea77589.png?r=fpe" width="200" alt="Reza Shakeri's Dev Card"/></a>
+<br/>
+<br/>
+
+
 ---
 
 ## ✅ Icons 👇
