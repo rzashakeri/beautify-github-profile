@@ -32,7 +32,7 @@ Now that we have built the repository, we come to the interesting part: **design
 
 You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them 👇
 
-## [🔗 Awesome Github Profile ](https://zzetao.github.io/awesome-github-profile/)
+### [🔗 Awesome Github Profile ](https://zzetao.github.io/awesome-github-profile/)
 
 # 🚩 What do we do after seeing these profiles ?
 
