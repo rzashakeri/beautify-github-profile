@@ -180,7 +180,7 @@ Dynamically generated stats for your github readmes
 <br/>
 <br/>
 
-#### 3 . [GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)
+#### 3 . [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 <br/>
