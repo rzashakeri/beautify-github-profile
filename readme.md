@@ -36,7 +36,7 @@ You must have been asked which profiles to get ideas from? You can see the profi
 
 # 🚩 What do we do after seeing these profiles ?
 
-Well, so far you have been able to find cool ideas from the profiles of different people. Now it's time to use different tools to beautify your gate hub profile, which you can access from the list below.
+Well, so far you have been able to find cool ideas from the profiles of different people. Now it's time to use different tools to beautify your github profile, which you can access from the list below.
 
 ## 🧩 Badges 👇
 
