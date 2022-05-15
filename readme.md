@@ -1018,6 +1018,19 @@ Generate an image of all your Github contributions
 
 <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676">
 
+
+#### 41 . [Wrapped](https://github.com/neat-run/wrapped)
+
+GitHub Wrapped, inspired by Spotify Wrapped 
+
+<br/>
+📍 For example : &nbsp;
+
+<br/>
+
+<img src="wrapped.png" style="max-width: 100%;" max-width="100%">
+
+
 ---
 
 ## ✅ Icons 👇
