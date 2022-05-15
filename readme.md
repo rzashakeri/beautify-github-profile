@@ -28,7 +28,7 @@ Example : 👇
 
 Now that we have built the repository, we come to the interesting part: **designing our README.md.**
 
-You can also access the guide in **Persian** through the following [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
+You can also access the Persian guide to make such a repository through the following [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
 
 # 💡 Where do we get ideas ?
 
