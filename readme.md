@@ -28,6 +28,8 @@ Example : 👇
 
 Now that we have built the repository, we come to the interesting part: **designing our README.md.**
 
+You can also access the guide in **Persian** through the following [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
+
 # 💡 Where do we get ideas ?
 
 You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them 👇
