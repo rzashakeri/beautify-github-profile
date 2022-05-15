@@ -982,7 +982,6 @@ GitHub Action to download the devcard from https://daily.dev
 
 <a href="https://app.daily.dev/rzashakeri"><img src="https://api.daily.dev/devcards/6ae35a9240b4445ab6b12d50bea77589.png?r=fpe" width="200" alt="Reza Shakeri's Dev Card"/></a>
 <br/>
-<br/>
 
 #### 39 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
 
@@ -991,6 +990,7 @@ Pimp my README is an open source profile builder that you can use to add some co
 <br/>
 📍 For example : &nbsp;
 
+<br/>
 <br/>
 
 <a href="https://pimp-my-readme.webapp.io" rel="nofollow"><img src="https://camo.githubusercontent.com/88bddfba73d62d64c703ef1c75bbe2a2dc2deb4c214e851f5e7a882332a755fd/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f776176792d62616e6e65723f7375627469746c653d416e2532306f70656e253230736f7572636525323070726f6a656374253230253341253239267469746c653d50696d702532306d79253230524541444d45" alt="Pimp my README, An open source project :)" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=An%20open%20source%20project%20%3A%29&amp;title=Pimp%20my%20README" style="max-width: 100%;"></a>
