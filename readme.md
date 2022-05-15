@@ -1003,8 +1003,19 @@ Pimp my README is an open source profile builder that you can use to add some co
 
 <img src="https://camo.githubusercontent.com/5ad62aa314f320a330c539e266964d5371a3b0f5efdbdfbb270000688a977f35/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f746563686e6f6c6f67793f746563686e6f6c6f67793d4a6176615363726970745f48544d4c5f4353535f4e6f64654a535f457870726573735f" alt="JavaScript_HTML_CSS_NodeJS_Express_" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_Express_" style="max-width: 100%;">
 
+
+#### 40 . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
+
+Generate an image of all your Github contributions  
+
+<br/>
+📍 For example : &nbsp;
+
 <br/>
 <br/>
+
+
+<img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676">
 
 ---
 
