@@ -975,6 +975,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 
 GitHub Action to download the devcard from https://daily.dev
 
+
 <br/>
 📍 For example : &nbsp;
 
