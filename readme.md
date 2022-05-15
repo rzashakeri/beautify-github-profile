@@ -1047,6 +1047,17 @@ GitHub Wrapped, inspired by Spotify Wrapped
 <br/>
 <br/>
 
+
+#### 2 . [Skill Icons](https://github.com/tandpfun/skill-icons)
+
+Showcase your skills on your Github readme or resumé with ease ✨ 
+<br/>
+
+📍 For example : &nbsp;
+<br/>
+
+<img src="https://skillicons.dev/icons?i=all">
+
 ---
 
 ### If you like, you can also help me develop this repository so that from now on we have more beautiful github profiles 💙
