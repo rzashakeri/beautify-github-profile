@@ -1027,7 +1027,7 @@ GitHub Wrapped, inspired by Spotify Wrapped
 📍 For example : &nbsp;
 
 <br/>
-
+<br/>
 <img src="wrapped.png" style="max-width: 100%;" max-width="100%">
 
 
