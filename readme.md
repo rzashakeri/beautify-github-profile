@@ -1152,6 +1152,14 @@ Display your recent Last.fm scrobbles on your GitHub profile README.
 <img src="https://camo.githubusercontent.com/6b9790cabcaa9e6515761c7817ba08db06e3f1b60a34751acfcd45ed9c475e3a/68747470733a2f2f6c617374666d2d726563656e746c792d706c617965642e76657263656c2e6170702f6170693f757365723d4a65666672657943413031" alt="My scrobbles" data-canonical-src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01" style="max-width: 100%;">
 
 
+#### 51 . [Github Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style)
+
+Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme 
+
+📍 For example : &nbsp;
+
+<img src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" style="max-width: 100%;" align="middle">
+
 ---
 
 ## ✅ Icons 👇
