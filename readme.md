@@ -1168,6 +1168,16 @@ Dynamically generated LeetCode stats for your GitHub READMEs!
 
 <img alt="LeetCode Stat Card" src="https://camo.githubusercontent.com/1eebccd44222e88e734e4b4972493af998af8fa27f2008244f3e9b90f85497d4/68747470733a2f2f6170753572683867786b2e657865637574652d6170692e75732d656173742d312e616d617a6f6e6177732e636f6d2f64656661756c742f6c656574636f64652d73746174733f757365726e616d653d4b6e6c6e4b53267468656d653d6461726b" data-canonical-src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS&amp;theme=dark" style="max-width: 100%;" width="400">
 
+
+
+#### 53 . [Quote Readme](https://github.com/siddharth2016/quote-readme)
+
+ A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts ! 
+
+📍 For example : &nbsp;
+
+<img src="https://raw.githubusercontent.com/siddharth2016/quote-readme/main/images/result.png" alt="Random Quote On Readme Result" style="max-width: 100%;">
+
 ---
 
 ## ✅ Icons 👇
