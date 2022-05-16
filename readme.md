@@ -1178,6 +1178,16 @@ Dynamically generated LeetCode stats for your GitHub READMEs!
 
 <img src="https://raw.githubusercontent.com/siddharth2016/quote-readme/main/images/result.png" alt="Random Quote On Readme Result" style="max-width: 100%;">
 
+
+#### 54 . [Readme Ascii](https://github.com/ajmeese7/readme-ascii)
+
+ A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts ! 
+
+📍 For example : &nbsp;
+
+<img src="https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png" alt="readme-ascii" style="max-width: 100%;">
+
+
 ---
 
 ## ✅ Icons 👇
