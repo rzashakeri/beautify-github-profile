@@ -1125,6 +1125,15 @@ This GitHub action helps to add cool Stats to your GitHub profile README.
 
 </code><div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
+#### 48 . [Github Readme Medium Recent Article](https://github.com/bxcodec/github-readme-medium-recent-article)
+
+Add Your Recently Published Medium Articles to Your GitHub Readme 
+
+📍 For example : &nbsp;
+
+<img src="https://camo.githubusercontent.com/d788a9c92a195880c6bbb59a2be51537808cafd3ffd943505eec3cd9b4b5734f/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f40696d616e74756d6f72616e672f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" style="max-width: 100%;">
+
+
 ---
 
 ## ✅ Icons 👇
