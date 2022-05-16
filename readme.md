@@ -688,10 +688,8 @@ A header image generator for your Github profile Readme
 
 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <table>
   <tbody><tr>
@@ -1035,10 +1033,8 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 GitHub Action to download the devcard from https://daily.dev
 
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <a href="https://app.daily.dev/rzashakeri"><img src="https://api.daily.dev/devcards/6ae35a9240b4445ab6b12d50bea77589.png?r=fpe" width="200" alt="Reza Shakeri's Dev Card"/></a>
 <br/>
@@ -1047,11 +1043,8 @@ GitHub Action to download the devcard from https://daily.dev
 
 Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
-<br/>
 
 <a href="https://pimp-my-readme.webapp.io" rel="nofollow"><img src="https://camo.githubusercontent.com/88bddfba73d62d64c703ef1c75bbe2a2dc2deb4c214e851f5e7a882332a755fd/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f776176792d62616e6e65723f7375627469746c653d416e2532306f70656e253230736f7572636525323070726f6a656374253230253341253239267469746c653d50696d702532306d79253230524541444d45" alt="Pimp my README, An open source project :)" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=An%20open%20source%20project%20%3A%29&amp;title=Pimp%20my%20README" style="max-width: 100%;"></a>
 
@@ -1068,13 +1061,9 @@ Pimp my README is an open source profile builder that you can use to add some co
 
 Generate an image of all your Github contributions  
 
-<br/>
 📍 For example : &nbsp;
 
 <br/>
-<br/>
-
-
 <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676">
 
 
@@ -1082,11 +1071,8 @@ Generate an image of all your Github contributions
 
 GitHub Wrapped, inspired by Spotify Wrapped 
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
-<br/>
 <img src="wrapped.png" style="max-width: 100%;" max-width="100%">
 
 
@@ -1095,11 +1081,8 @@ GitHub Wrapped, inspired by Spotify Wrapped
 
 Draw on your GitHub contribution graph ░▒▓█
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
-<br/>
 <p dir="auto" align="center">
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966"><img src="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%;" width="200" height="200"></a>
 </p>
@@ -1108,11 +1091,9 @@ Draw on your GitHub contribution graph ░▒▓█
 
 Level up your GitHub profile readme with customizable cards including LOC statistics! 
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
-<br/>
+
 <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" style="max-width: 100%;">
 
 
@@ -1120,11 +1101,8 @@ Level up your GitHub profile readme with customizable cards including LOC statis
 
 Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes 
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
-<br/>
 <img src="https://camo.githubusercontent.com/4f89632167b7a39fb7f92d4f634da0ce577b0a5c5ceee4578c71d12fc4417c77/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6461726b" alt="Quote" data-canonical-src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" style="max-width: 100%;">
 
 
