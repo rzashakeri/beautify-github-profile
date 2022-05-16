@@ -1076,6 +1076,14 @@ Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 <img src="https://camo.githubusercontent.com/4f89632167b7a39fb7f92d4f634da0ce577b0a5c5ceee4578c71d12fc4417c77/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6461726b" alt="Quote" data-canonical-src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" style="max-width: 100%;">
 
 
+#### 45 . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
+
+Display your recently played Spotify tracks on your GitHub profile README. 
+
+📍 For example : &nbsp;
+
+<img src="https://camo.githubusercontent.com/1676021262b12981eddcf68a66a9565b75ce82d4d1d1d8f3dd173d28c3cbf5f3/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d6a65666672657963613136" alt="Spotify recently played" data-canonical-src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" style="max-width: 100%;">
+
 
 ---
 
