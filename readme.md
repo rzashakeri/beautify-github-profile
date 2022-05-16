@@ -425,8 +425,6 @@ Showcase your github stats on your profile README.md
 
 <img src="readme.png">
 
-<br/>
-<br/>
 
 #### 17 . [Readme Jokes](https://github.com/ABSphreak/readme-jokes)
 
@@ -437,6 +435,7 @@ Showcase your github stats on your profile README.md
 
  <img src="https://camo.githubusercontent.com/d22e78d4de47eff2328eddf6944835f9296a8134ec8b557ae6bb4afc89c4f741/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f68696465426f72646572" alt="Jokes Card" data-canonical-src="https://readme-jokes.vercel.app/api?hideBorder" style="max-width: 100%;" align='left'>
 
+<br/>
 <br/>
 <br/>
 <br/>
