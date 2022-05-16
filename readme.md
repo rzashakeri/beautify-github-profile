@@ -195,6 +195,8 @@ Do you use Grunt in a project and want to proudly display that in your project R
 📍 For example : 
 
 <br/>
+<br/>
+
 <img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
 
 
@@ -205,6 +207,7 @@ create a badge that displays your project's current build status. The build stat
 <br/>
 📍 For example : 
 
+<br/>
 <br/>
 <img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
 
