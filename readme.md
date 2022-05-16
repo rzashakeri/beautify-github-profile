@@ -1106,6 +1106,17 @@ Draw on your GitHub contribution graph ░▒▓█
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966"><img src="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%;" width="200" height="200"></a>
 </p>
 
+#### 43 . [Github Trends](https://github.com/avgupta456/github-trends)
+
+Level up your GitHub profile readme with customizable cards including LOC statistics! 
+
+<br/>
+📍 For example : &nbsp;
+
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" style="max-width: 100%;">
+
 
 ---
 
