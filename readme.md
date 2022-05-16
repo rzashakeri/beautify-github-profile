@@ -152,6 +152,51 @@ Github new features README profile views counter made with Yii2 framework.
 <br/>
 <br/>
 
+#### 13 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
+
+Some badges I created for my GitHub profile readme. 
+
+<br/>
+📍 For example : 
+<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
+<br/>
+<br/>
+
+
+#### 14 . [AppVeyor](https://www.appveyor.com/docs/status-badges/)
+
+A Project status badge is a dynamically generated image displaying the status of the last build. You can put a status badge on the home page of your GitHub project or intranet portal:
+
+<br/>
+📍 For example : 
+<br/>
+<br/>
+<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Grunt status"> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&amp;passingText=master%20-%20OK" alt="Project Badge">
+
+<br/>
+<br/>
+
+
+
+#### 15 . [For The Badge](https://github.com/BraveUX/for-the-badge)
+
+Badges for badges' sake. 
+
+<br/>
+📍 For example : 
+<br/>
+<br/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
+<img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
+
+<br/>
+<br/>
+
+
+
 ---
 
 ## 🛠️ Widgets 👇
