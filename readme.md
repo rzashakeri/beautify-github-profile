@@ -218,6 +218,15 @@ Github Action to update the badges of your Readme to show your current Advent of
 
 <img alt="GithubBadges" src="https://camo.githubusercontent.com/9b49974fc2ff46828045e867a959e0502e14bf954c9ffb6b36b995f9ac114ad9/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
 
+
+#### 20 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
+
+Add to your GitHub readme a badge that shows your Discord username and presence! 
+
+📍 For example : 
+
+<img src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true" style="max-width: 100%;"> 
+
 ---
 
 ## 🛠️ Widgets 👇
