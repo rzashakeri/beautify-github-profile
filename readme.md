@@ -106,7 +106,7 @@ A Curated list of Badges used in GitHub
 
 Improve your README.md profile with these amazing badges.
 
-<br/>
+
 📍 For example :
 <br/>
 <br/>
@@ -119,7 +119,7 @@ Improve your README.md profile with these amazing badges.
 Gitwar - Compete with Github Check your Github Score. Based on -
 Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Followers ,Joined Github Organisations ...
 
-<br/>
+
 📍 For example :
 <br/>
 <br/>
@@ -132,7 +132,6 @@ Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Follo
 
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
-<br/>
 📍 For example : 
 <br/>
 <br/>
@@ -144,7 +143,6 @@ It counts how many times your GitHub profile has been viewed. Free cloud micro-s
 
 Github new features README profile views counter made with Yii2 framework.
 
-<br/>
 📍 For example : 
 <br/>
 <br/>
@@ -156,7 +154,6 @@ Github new features README profile views counter made with Yii2 framework.
 
 Some badges I created for my GitHub profile readme. 
 
-<br/>
 📍 For example : 
 <br/>
 <br/>
@@ -169,7 +166,6 @@ Some badges I created for my GitHub profile readme.
 
 A Project status badge is a dynamically generated image displaying the status of the last build. You can put a status badge on the home page of your GitHub project or intranet portal:
 
-<br/>
 📍 For example : 
 <br/>
 <br/>
@@ -180,7 +176,6 @@ A Project status badge is a dynamically generated image displaying the status of
 
 Badges for badges' sake. 
 
-<br/>
 📍 For example : 
 <br/>
 <br/>
@@ -191,11 +186,7 @@ Badges for badges' sake.
 
 Do you use Grunt in a project and want to proudly display that in your project README or on your project website? Now you can with the "Built with Grunt" badge!
 
-<br/>
 📍 For example : 
-
-<br/>
-<br/>
 
 <img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
 
@@ -204,12 +195,19 @@ Do you use Grunt in a project and want to proudly display that in your project R
 
 create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
 
-<br/>
 📍 For example : 
 
-<br/>
-<br/>
 <img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
+
+
+
+#### 18 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
+
+Github Action to update the badges of your Readme to show your current Advent of Code stats 
+
+📍 For example : 
+
+<img src="https://camo.githubusercontent.com/604c50b3ae16d7373a6a162f22e8e0354e1bb2081dfd61ce68b1007af2faa70f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6461792532302546302539462539332538352d32322d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/day%20%F0%9F%93%85-22-blue" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c3d63f570446277a9c3381343581ce07ebbde605d58e866da3fd4d52c9adaae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746172732532302545322541442539302d33342d79656c6c6f77" alt="" data-canonical-src="https://img.shields.io/badge/stars%20%E2%AD%90-34-yellow" style="max-width: 100%;">
 
 ---
 
