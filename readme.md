@@ -187,21 +187,7 @@ Badges for badges' sake.
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
 <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
 
-
-#### 16 . [For The Badge](https://github.com/BraveUX/for-the-badge)
-
-Badges for badges' sake. 
-
-<br/>
-
-📍 For example : 
-<br/>
-<br/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
-<img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
-
-
-#### 17 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
+#### 16 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
 
 Do you use Grunt in a project and want to proudly display that in your project README or on your project website? Now you can with the "Built with Grunt" badge!
 
@@ -212,7 +198,7 @@ Do you use Grunt in a project and want to proudly display that in your project R
 <img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
 
 
-#### 18 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
+#### 17 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
 
 create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
 
