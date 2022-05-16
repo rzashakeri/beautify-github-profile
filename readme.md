@@ -268,7 +268,7 @@ Wakatime Weekly Metrics on your Profile Readme.
 #### 5 . [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator)
 
 Generate custom profile activity for your profile README  
-<br/>
+
 
 📍 For example : &nbsp;
 <br/>
@@ -348,7 +348,7 @@ Show your Spotify playing on your Github profile
 
 📍 For example : &nbsp;
 
-<br/>
+
 <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
 
 <br/>
@@ -365,7 +365,7 @@ Show your latest blog posts from any sources or StackOverflow activity or Youtub
 
 📍 For example : &nbsp;
 
-<br/>
+
 <img src="https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png" alt="preview" style="max-width: 100%;">
 
 <br/>
@@ -378,7 +378,7 @@ Dynamically generated your latest Medium article on your GitHub readmes!
 
 📍 For example : &nbsp;
 
-<br/>
+
 <img src="https://camo.githubusercontent.com/3374294011592525208ac3765e216aced5a5962769bfe8507e719bf5c589f7f5/68747470733a2f2f6769746875622d726561646d652d6d656469756d2e76657263656c2e6170702f3f757365726e616d653d6f6d69646e696b726168" alt="Omid Nikrah Medium" data-canonical-src="https://github-readme-medium.vercel.app/?username=omidnikrah" style="max-width: 100%;">
 
 <br/>
@@ -390,7 +390,7 @@ Dynamically generated your StackOverflow status on your GitHub READMEs!
 
 📍 For example : &nbsp;
 
-<br/>
+
 <img src="https://camo.githubusercontent.com/a98eeb0429d81008fe5c1320d11983627b8f7365a3896e65764b73727275576d/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" style="max-width: 100%;">  <img src="https://camo.githubusercontent.com/551c5992d60f859b25ebe54384966ede70d00fef9a36a07855a1690bb93fb36b/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432266c61796f75743d636f6d70616374" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&amp;layout=compact" style="max-width: 100%;">
 
 <br/>
@@ -403,7 +403,6 @@ GitHub profile readme generator allows you to create nice and simple GitHub prof
 
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://camo.githubusercontent.com/37ecf5fc6ed20ef415e3e81bb9104771e7557ca3d828a06dee981d4c18fe9212/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f6769662e6769663f763d313233" alt="Github readme generator" data-canonical-src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123" style="max-width: 100%;">
 
@@ -414,7 +413,6 @@ Showcase your github stats on your profile README.md
 
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="readme.png">
 
@@ -483,8 +481,6 @@ This tool contains mini GUI components that you can hook together to automatical
 #### 22 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 
 Google lighthouse stats of your website that you can put in readme
-<br/>
-<br/>
 
 📍 For example : &nbsp;
 
@@ -498,12 +494,9 @@ Google lighthouse stats of your website that you can put in readme
 #### 23 . [REHeader](https://github.com/khalby786/REHeader)
 
 Generate beautiful header images for your GitHub profile READMEs.
-<br/>
-<br/>
 
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://camo.githubusercontent.com/59e8ef4da1462be13abb2865a3503da9d8611c38f99e9d70b41a26218526cb97/68747470733a2f2f63646e2e676c697463682e636f6d2f30613466363732652d376435632d343235342d386635612d38343763323932346264663625324653637265656e25323053686f74253230323032302d30372d31372532306174253230352e31392e3138253230504d2e706e673f763d31353934393931393934353038" alt="Another image which is a use case of this generator - again you shouldn't be seeing this" data-canonical-src="https://cdn.glitch.com/0a4f672e-7d5c-4254-8f5a-847c2924bdf6%2FScreen%20Shot%202020-07-17%20at%205.19.18%20PM.png?v=1594991994508" style="max-width: 100%;">
 
@@ -513,12 +506,8 @@ Generate beautiful header images for your GitHub profile READMEs.
 #### 24 . [Goodreads Readme](https://github.com/theFr1nge/goodreads-readme)
 
 This project provides a badge for sharing your current book in your github profile.
-<br/>
-<br/>
 
 📍 For example : &nbsp;
-
-<br/>
 
 <img src="https://camo.githubusercontent.com/b0ef9e82ab336e6938b5f2bc878958d5130a22ea5196244e4fb8f0e713099bf8/68747470733a2f2f676f6f6472656164732d726561646d652e76657263656c2e6170702f6170692f626f6f6b" alt="GoodReads" data-canonical-src="https://goodreads-readme.vercel.app/api/book" style="max-width: 100%;">
 
@@ -528,12 +517,10 @@ This project provides a badge for sharing your current book in your github profi
 #### 25 . [Readme Typing svg](https://github.com/DenverCoder1/readme-typing-svg)
 
 Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
-<br/>
-<br/>
+
 
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://camo.githubusercontent.com/21f4ff7dadd9c5bb09f90942dc78f02bd49c67939c17a403253d2e3690dcb758/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d547970652b6d657373616765732b65766572797768657265213b4164642b612b62696f2b746f2b796f75722b70726f66696c65213b4164642b612b6465736372697074696f6e2b746f2b796f75722b7265706f213b4d616b652b796f75722b726561646d652b7374616e642b6f75742126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&amp;font=Fira%20Code&amp;center=true&amp;width=380&amp;height=50" style="max-width: 100%;">
 
@@ -550,7 +537,6 @@ Tool for visualizing GitHub profiles
 <br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG" alt="screenshot" style="max-width: 100%;">
 
@@ -564,7 +550,6 @@ A tool to generate your github summary card for profile README
 
 📍 For example : &nbsp;
 
-<br/>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="" style="max-width: 100%;"></a>
@@ -578,10 +563,8 @@ A tool to generate your github summary card for profile README
 #### 29 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 Generates a snake game from a github user contributions graph
-<br/>
-📍 For example : &nbsp;
 
-<br/>
+📍 For example : &nbsp;
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
@@ -592,10 +575,8 @@ Generates a snake game from a github user contributions graph
 
 Generate a cool README/About me page for your Github Profile
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/screencast_ghub_profile_gen_v1.gif" alt="Screencast of Github AboutMe/Profile ReadMe Generator" title="Go to web app" style="max-width: 100%;">
 
@@ -606,10 +587,8 @@ Generate a cool README/About me page for your Github Profile
 
 Automatically generate summary GitHub statistics images for your profile using Actions, no server required
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <p dir="auto"><img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
@@ -621,10 +600,8 @@ Automatically generate summary GitHub statistics images for your profile using A
 
 Write your name using the github commits and make your profile awesome
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://github.com/ironmaniiith/Github-profile-name-writer/raw/master/extras/ironmanGithub.jpg" alt="Image of Ironman on github Profile" style="max-width: 100%;">
 
@@ -635,10 +612,8 @@ Write your name using the github commits and make your profile awesome
 
 Create a nice pie chart with the user's programming languages from their GitHub profile.
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://camo.githubusercontent.com/6353b997c388ea9e649e46ccb0bdf18475c40cfdb4a7c8857b05c2af7c6c96e0/687474703a2f2f692e696d6775722e636f6d2f514736476835492e706e67" alt="github-profile-languages" data-canonical-src="http://i.imgur.com/QG6Gh5I.png" style="max-width: 100%;">
 
@@ -649,10 +624,8 @@ Create a nice pie chart with the user's programming languages from their GitHub 
 
 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://github.com/VishwaGauravIn/Images/raw/main/screencapture-gprm.png?raw=true" alt="" style="max-width: 100%;">
 <br/>
@@ -662,10 +635,8 @@ Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best po
 
 This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
-<br/>
 📍 For example : &nbsp;
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" style="max-width: 100%;">
 <br/>
@@ -675,11 +646,10 @@ This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
 A header image generator for your Github profile Readme
 
-<br/>
 📍 For example : &nbsp;
 
 <br/>
-
+<br/>
 <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" alt="Example 1" style="max-width: 100%;">
 <br/>
 <br/>
