@@ -1107,17 +1107,14 @@ This GitHub action helps to add cool Stats to your GitHub profile README.
 
 📍 For example : &nbsp;
 
-I'm a night 🦉
-<br/>
+<pre class="notranslate" style="position: relative;" lang="text"><code class="notranslate">I'm a night 🦉
 
 🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
-<br/>
 🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
-<br/>
 🌃 Evening    128 commits    █████████░░░░░░░░░░░░░░░░   37.65%
-<br/>
 🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
 
+</code><div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 ---
 
