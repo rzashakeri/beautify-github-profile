@@ -1101,6 +1101,20 @@ Generate user-friendly, intuitive and dynamic markdown for your profile README, 
 
 <img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/raw/master/screenshots/Demo.gif" alt="Demo" style="max-width: 100%;">
 
+#### 47 . [Github Readme Info](https://github.com/th3c0d3br34ker/github-readme-info)
+
+This GitHub action helps to add cool Stats to your GitHub profile README. 
+
+📍 For example : &nbsp;
+
+I'm a night 🦉
+
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
+🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🌃 Evening    128 commits    █████████░░░░░░░░░░░░░░░░   37.65%
+🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
+
+
 ---
 
 ## ✅ Icons 👇
