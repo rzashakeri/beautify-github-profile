@@ -175,10 +175,6 @@ A Project status badge is a dynamically generated image displaying the status of
 <br/>
 <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Grunt status"> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&amp;passingText=master%20-%20OK" alt="Project Badge">
 
-<br/>
-<br/>
-
-
 
 #### 15 . [For The Badge](https://github.com/BraveUX/for-the-badge)
 
@@ -191,10 +187,40 @@ Badges for badges' sake.
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
 <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
 
-<br/>
+
+#### 16 . [For The Badge](https://github.com/BraveUX/for-the-badge)
+
+Badges for badges' sake. 
+
 <br/>
 
+📍 For example : 
+<br/>
+<br/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
+<img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
 
+
+#### 17 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
+
+Do you use Grunt in a project and want to proudly display that in your project README or on your project website? Now you can with the "Built with Grunt" badge!
+
+<br/>
+📍 For example : 
+
+<br/>
+<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
+
+
+#### 18 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
+
+create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
+
+<br/>
+📍 For example : 
+
+<br/>
+<img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
 
 ---
 
