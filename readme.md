@@ -1143,6 +1143,14 @@ Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 <img src="https://camo.githubusercontent.com/33fa2f9d71dd331c729c8a3bac1bc1b0c3ded069d4602b29559925c843b48ce0/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f70726f66696c653f757365726e616d653d4a75727265647226646174613d666f6c6c6f776572732c7265706f7369746f726965732c73746172732c636f6d6d697473" alt="GitHub WidgetBox" data-canonical-src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&amp;data=followers,repositories,stars,commits" style="max-width: 100%;">
 
 
+#### 50 . [lastfm Recently Played Readme](https://github.com/JeffreyCA/lastfm-recently-played-readme)
+
+Display your recent Last.fm scrobbles on your GitHub profile README. 
+
+📍 For example : &nbsp;
+
+<img src="https://camo.githubusercontent.com/6b9790cabcaa9e6515761c7817ba08db06e3f1b60a34751acfcd45ed9c475e3a/68747470733a2f2f6c617374666d2d726563656e746c792d706c617965642e76657263656c2e6170702f6170693f757365723d4a65666672657943413031" alt="My scrobbles" data-canonical-src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01" style="max-width: 100%;">
+
 
 ---
 
