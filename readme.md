@@ -1134,6 +1134,16 @@ Add Your Recently Published Medium Articles to Your GitHub Readme
 <img src="https://camo.githubusercontent.com/d788a9c92a195880c6bbb59a2be51537808cafd3ffd943505eec3cd9b4b5734f/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f40696d616e74756d6f72616e672f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" style="max-width: 100%;">
 
 
+#### 49 . [Github Widgetbox](https://github.com/Jurredr/github-widgetbox)
+
+Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.) 
+
+📍 For example : &nbsp;
+
+<img src="https://camo.githubusercontent.com/33fa2f9d71dd331c729c8a3bac1bc1b0c3ded069d4602b29559925c843b48ce0/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f70726f66696c653f757365726e616d653d4a75727265647226646174613d666f6c6c6f776572732c7265706f7369746f726965732c73746172732c636f6d6d697473" alt="GitHub WidgetBox" data-canonical-src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&amp;data=followers,repositories,stars,commits" style="max-width: 100%;">
+
+
+
 ---
 
 ## ✅ Icons 👇
