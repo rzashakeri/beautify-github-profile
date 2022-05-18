@@ -1229,6 +1229,44 @@ Dynamic Coloful Image Render
 <img src="https://camo.githubusercontent.com/0da1f68bf3ed97f972472f31e1dbf68514bc3f72761bf300f8474f53ffab7932/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d63617073756c6525323072656e64657226666f6e7453697a653d393026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d4465636f7261746525323047697448756225323050726f66696c652532306f72253230616e792532305265706f2532306c696b652532306d65212664657363416c69676e593d35312664657363416c69676e3d3632" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=capsule%20render&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&amp;descAlignY=51&amp;descAlign=62" style="max-width: 100%;">
 
 
+#### 57 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
+
+Show npm packages downloads ⏬ in GitHub README Show npm packages downloads ⏬ in GitHub README 
+
+📍 For example : &nbsp;
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.npmjs.com/package/post-merge-install" rel="nofollow">post-merge-install</a></td>
+<td>185021</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/types-directory" rel="nofollow">types-directory</a></td>
+<td>59207</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/install-types" rel="nofollow">install-types</a></td>
+<td>23071</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/engines-ok" rel="nofollow">engines-ok</a></td>
+<td>19752</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/npmtotal" rel="nofollow">npmtotal</a></td>
+<td>18267</td>
+</tr>
+</tbody>
+</table>
+
+
 ---
 
 ## ✅ Icons 👇
