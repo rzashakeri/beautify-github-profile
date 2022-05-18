@@ -24,7 +24,7 @@ Example : 👇
 
     https://github.com/rzashakeri/rzashakeri
 
-### **Create a README.md** and Done ✅
+### After Create Repository, **Create a README.md** in Repository and Done ✅
 
 Now that we have built the repository, we come to the interesting part: **designing our README.md.**
 > Persian guide for first step 👉 [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
