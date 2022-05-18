@@ -1231,7 +1231,7 @@ Dynamic Coloful Image Render
 
 #### 57 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
 
-Show npm packages downloads ⏬ in GitHub README Show npm packages downloads ⏬ in GitHub README 
+Show npm packages downloads ⏬ in GitHub README 
 
 📍 For example : &nbsp;
 
