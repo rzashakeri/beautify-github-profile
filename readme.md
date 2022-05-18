@@ -227,6 +227,16 @@ Add to your GitHub readme a badge that shows your Discord username and presence!
 
 <img src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true" style="max-width: 100%;"> 
 
+
+#### 21 . [simple badges](https://github.com/developStorm/simple-badges)
+
+Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today! 
+
+📍 For example : 
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Iconify Badge](https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=fff&style=flat-square) ![FIFA Badge](https://img.shields.io/badge/FIFA-326295?logo=fifa&logoColor=fff&style=plastic)
+
+
 ---
 
 ## 🛠️ Widgets 👇
