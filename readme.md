@@ -237,6 +237,16 @@ Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Iconify Badge](https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=fff&style=flat-square) ![FIFA Badge](https://img.shields.io/badge/FIFA-326295?logo=fifa&logoColor=fff&style=plastic)
 
 
+
+#### 22 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+
+Clean badges for your GitHub Profile Readme 
+
+📍 For example : 
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> 
+
 ---
 
 ## 🛠️ Widgets 👇
