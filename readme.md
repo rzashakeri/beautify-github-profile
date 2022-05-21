@@ -1285,6 +1285,22 @@ Dynamically generated GitHub repository star chart. 📈 ⭐️
 [![Star History Chart](https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date)](https://star-history.com/#rzashakeri/beautify-github-profile&Date)
 
 
+#### 60 . [Moon.svg](https://github.com/hmu332233/moon.svg)
+
+Add real-time moon on your github profile!  
+Moon.svg shows the current moon phase in real time!
+
+<a href="https://moon-svg.minung.dev"><strong>Try it »</strong></a>
+
+📍 For example :  
+
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a>
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
+</a>
+
 ---
 
 ## ✅ Icons 👇
