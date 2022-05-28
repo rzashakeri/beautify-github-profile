@@ -1329,6 +1329,15 @@ Easily share your Stackoverflow's profile on your README
 
 <img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="profile" style="max-width: 100%;"> 
 
+#### 62 . [Github Readme Programming Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+
+Add Programming Quotes To Your GitHub Readme 
+
+📍 For example :  
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 ---
 
 ## ✅ Icons 👇
