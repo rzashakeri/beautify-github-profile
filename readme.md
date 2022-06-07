@@ -268,6 +268,16 @@ Allows users to more easily use Octicons and their own icons and logos in shield
 <a href="https://custom-icon-badges.herokuapp.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&amp;logoColor=white" rel="nofollow"><img src="https://camo.githubusercontent.com/349db4a1624a2abbadcfec87d248e21382ca4e3b910797b91f19a51fe210fc3f/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f6c6173742d636f6d6d69742f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d686973746f7279266c6f676f436f6c6f723d7768697465" alt="last commit" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&amp;logoColor=fff&amp;color=blue&amp;label=total%20contributions&amp;query=%24.totalContributions&amp;url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" rel="nofollow"><img src="https://camo.githubusercontent.com/4f9857c76e594acc5d15e5d7f4da909d259ba56625a4a7e0b45c05d7852e85d7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d6772617068266c6f676f436f6c6f723d66666626636f6c6f723d626c7565266c6162656c3d746f74616c253230636f6e747269627574696f6e732671756572793d2532342e746f74616c436f6e747269627574696f6e732675726c3d68747470732533412532462532466769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2532462533467573657225334444656e766572436f64657231253236747970652533446a736f6e" alt="total contributions" data-canonical-src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&amp;logoColor=fff&amp;color=blue&amp;label=total%20contributions&amp;query=%24.totalContributions&amp;url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" style="max-width: 100%;"></a></p>
 
+
+
+#### 24 . [pepy](https://github.com/psincraian/pepy)
+
+pepy is a site to get statistics information about any Python package 
+
+📍 For example : 
+
+[![Downloads](https://pepy.tech/badge/django-audio-validator)](https://pepy.tech/project/django-audio-validator)
+
 ---
 
 ## 🛠️ Widgets 👇
