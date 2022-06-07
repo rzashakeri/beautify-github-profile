@@ -278,6 +278,16 @@ pepy is a site to get statistics information about any Python package
 
 [![Downloads](https://pepy.tech/badge/django-audio-validator)](https://pepy.tech/project/django-audio-validator)
 
+
+
+#### 25 . [Version Badge](https://badge.fury.io/)
+
+Once the package owner adds this badge to their README file, it will inform and link all visitors to the latest version of that package. 
+
+📍 For example : 
+
+[![PyPI version](https://badge.fury.io/py/django-audio-validator.svg)](https://badge.fury.io/py/django-audio-validator)
+
 ---
 
 ## 🛠️ Widgets 👇
