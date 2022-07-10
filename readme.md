@@ -1357,6 +1357,14 @@ Add Programming Quotes To Your GitHub Readme
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+#### 63 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
+
+[Peerlist](https://peerlist.io/) is a community of working professionals focused on building a personal brand, sharing professional content, and finding peers to collaborate with. A [Peerlist profile](https://peerlist.io/vinitshahdeo) can be used as a simple resume or a complete portfolio to showcase your work. You can style your profile `README.md` with an awesome Peerlist markdown badge.
+
+📍 For example :
+
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
+
 
 ---
 
