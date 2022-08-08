@@ -1384,6 +1384,15 @@ Automatically update your README.md with Chess.com games and stats - fully custo
 | **Hikaru** | Jospem | repetition ⏸️ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6pk/2P2n2/7p/3K2bP/6P1/8 b - -">Link</a> |
 | Jospem | **Hikaru** | checkmated ❌ | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2np1/p1p1p2p/4P3/1P1Pr3/6K1/3R4 w - -">Link</a>
 
+
+#### 64 . [Terminal Gif Maker](https://www.terminalgif.com/)
+
+Terminal Gif Maker is a tool for creating code samples in the terminal interface. You can create gifs for your projects and you can show that in the README of your project. You can use the GIF in git providers like Github and Gitlab.
+
+📍 For example :  
+
+<img src="./terminal.gif" alt="terminal gif">
+
 ---
 
 ## ✅ Icons 👇
