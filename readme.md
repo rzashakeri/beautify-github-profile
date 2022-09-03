@@ -1393,6 +1393,13 @@ Terminal Gif Maker is a tool for creating code samples in the terminal interface
 
 <img src="./terminal.gif" alt="terminal gif">
 
+
+#### 65 . [readme md generator](https://github.com/kefranabg/readme-md-generator)
+
+📄 CLI that generates beautiful README.md files 
+
+<img src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="readme md generator">
+
 ---
 
 ## ✅ Icons 👇
