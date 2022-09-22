@@ -13,6 +13,16 @@
 
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
 
+# 📖 Table of Contents
+
+- [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
+- [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
+- [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
+  - [🧩 Badges 👇](#-badges-)
+  - [🛠️ Widgets 👇](#%EF%B8%8F-widgets-)
+  - [✅ Icons 👇](#-icons-)
+- [Give A Star ⭐](#give-a-star-)
+
 # 📌 The first step : Set up the GitHub Repository
 
 Create a repository with your GitHub username 👇
@@ -1401,6 +1411,14 @@ Terminal Gif Maker is a tool for creating code samples in the terminal interface
 📍 For example :  
 
 <img src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="readme md generator">
+
+#### 66 . [Spotify Data Card](https://github.com/magic-ike/spotify-data-card)
+
+Show your Spotify activity on your GitHub profile README.
+
+📍 For example : &nbsp; <br>
+
+<img src="spotify-data-card.svg" alt="Spotify Data Card">
 
 ---
 
