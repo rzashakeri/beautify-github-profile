@@ -593,12 +593,12 @@ Dynamically generated, customizable SVG that gives the appearance of typing and 
 
 #### 26 . [Awesome Github Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
-This repository contains best profile readme's for your reference.  
+This repository contains best profile readme's for your reference.
 <br/>
 
 #### 27 . [Profile Summary For Github](https://github.com/tipsy/profile-summary-for-github)
 
-Tool for visualizing GitHub profiles  
+Tool for visualizing GitHub profiles
 <br/>
 📍 For example : &nbsp;
 
@@ -1280,7 +1280,7 @@ Dynamically generated GitHub repository star chart. 📈 ⭐️
 
 #### 60 . [Moon.svg](https://github.com/hmu332233/moon.svg)
 
-Add real-time moon on your github profile!  
+Add real-time moon on your github profile!
 Moon.svg shows the current moon phase in real time!
 
 📍 For example :
