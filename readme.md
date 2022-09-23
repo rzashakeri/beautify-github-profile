@@ -1,17 +1,24 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/cover-repo.jpg">
 
-<a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> &nbsp; <a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=346331&theme=light&period=daily" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> &nbsp;  <a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-review&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
+<a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> &nbsp; <a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=346331&theme=light&period=daily" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> &nbsp; <a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-review&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
 
-
-----------
-
+---
 
 # Hello friends 🖐️
 
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
+
+# 📖 Table of Contents
+
+- [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
+- [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
+- [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
+  - [🧩 Badges 👇](#-badges-)
+  - [🛠️ Widgets 👇](#%EF%B8%8F-widgets-)
+  - [✅ Icons 👇](#-icons-)
+- [Give A Star ⭐](#give-a-star-)
 
 # 📌 The first step : Set up the GitHub Repository
 
@@ -34,8 +41,8 @@ Example : 👇
 ### After Create Repository, **Create a README.md** in Repository and Done ✅
 
 Now that we have built the repository, we come to the interesting part: **designing our README.md.**
-> Persian guide for first step 👉 [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
 
+> Persian guide for first step 👉 [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
 
 # 💡 Where do we get ideas ?
 
@@ -113,11 +120,10 @@ A Curated list of Badges used in GitHub
 
 Improve your README.md profile with these amazing badges.
 
-
 📍 For example :
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <br/>
 <br/>
 
@@ -125,7 +131,6 @@ Improve your README.md profile with these amazing badges.
 
 Gitwar - Compete with Github Check your Github Score. Based on -
 Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Followers ,Joined Github Organisations ...
-
 
 📍 For example :
 <br/>
@@ -139,7 +144,7 @@ Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Follo
 
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
-📍 For example : 
+📍 For example :
 <br/>
 <br/>
 <img src="https://camo.githubusercontent.com/df082b78463312b3557f5aab829931c006f52d786fc64711fe2e251e26564df7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> &nbsp; <img src="https://camo.githubusercontent.com/f7119a5d8e7bcbca5a6cce287a7dad354ea144ecff9fa322777346e3e330a08e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d706c6173746963" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=plastic" style="max-width: 100%;">
@@ -150,7 +155,7 @@ It counts how many times your GitHub profile has been viewed. Free cloud micro-s
 
 Github new features README profile views counter made with Yii2 framework.
 
-📍 For example : 
+📍 For example :
 <br/>
 <br/>
 <img src="https://camo.githubusercontent.com/70efda0ea25590e8ec1d45dad689865a24485a757d9359a4547218d25c0fa352/68747470733a2f2f677076632e6172747572696f2e6465762f6769746875622d70726f66696c652d76696577732d636f756e746572" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/github-profile-views-counter" style="max-width: 100%;">
@@ -159,31 +164,29 @@ Github new features README profile views counter made with Yii2 framework.
 
 #### 13 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 
-Some badges I created for my GitHub profile readme. 
+Some badges I created for my GitHub profile readme.
 
-📍 For example : 
+📍 For example :
 <br/>
 <br/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
 <br/>
 <br/>
 
-
 #### 14 . [AppVeyor](https://www.appveyor.com/docs/status-badges/)
 
 A Project status badge is a dynamically generated image displaying the status of the last build. You can put a status badge on the home page of your GitHub project or intranet portal:
 
-📍 For example : 
+📍 For example :
 <br/>
 <br/>
 <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Grunt status"> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&amp;passingText=master%20-%20OK" alt="Project Badge">
 
-
 #### 15 . [For The Badge](https://github.com/BraveUX/for-the-badge)
 
-Badges for badges' sake. 
+Badges for badges' sake.
 
-📍 For example : 
+📍 For example :
 <br/>
 <br/>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
@@ -193,73 +196,64 @@ Badges for badges' sake.
 
 Do you use Grunt in a project and want to proudly display that in your project README or on your project website? Now you can with the "Built with Grunt" badge!
 
-📍 For example : 
+📍 For example :
 
 <img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
-
 
 #### 17 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
 
 create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
 
-📍 For example : 
+📍 For example :
 
 <img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
 
-
-
 #### 18 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
 
-Github Action to update the badges of your Readme to show your current Advent of Code stats 
+Github Action to update the badges of your Readme to show your current Advent of Code stats
 
-📍 For example : 
+📍 For example :
 
 <img src="https://camo.githubusercontent.com/604c50b3ae16d7373a6a162f22e8e0354e1bb2081dfd61ce68b1007af2faa70f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6461792532302546302539462539332538352d32322d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/day%20%F0%9F%93%85-22-blue" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c3d63f570446277a9c3381343581ce07ebbde605d58e866da3fd4d52c9adaae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746172732532302545322541442539302d33342d79656c6c6f77" alt="" data-canonical-src="https://img.shields.io/badge/stars%20%E2%AD%90-34-yellow" style="max-width: 100%;">
 
-
 #### 19 . [Github Badges](https://github.com/eugustavo/github-badges)
 
- Application made to create badges for your readme 📑 
+Application made to create badges for your readme 📑
 
-📍 For example : 
+📍 For example :
 
 <img alt="GithubBadges" src="https://camo.githubusercontent.com/9b49974fc2ff46828045e867a959e0502e14bf954c9ffb6b36b995f9ac114ad9/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
 
-
 #### 20 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
 
-Add to your GitHub readme a badge that shows your Discord username and presence! 
+Add to your GitHub readme a badge that shows your Discord username and presence!
 
-📍 For example : 
+📍 For example :
 
-<img src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true" style="max-width: 100%;"> 
-
+<img src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true" style="max-width: 100%;">
 
 #### 21 . [simple badges](https://github.com/developStorm/simple-badges)
 
-Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today! 
+Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 
-📍 For example : 
+📍 For example :
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Iconify Badge](https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=fff&style=flat-square) ![FIFA Badge](https://img.shields.io/badge/FIFA-326295?logo=fifa&logoColor=fff&style=plastic)
 
-
-
 #### 22 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
-Clean badges for your GitHub Profile Readme 
+Clean badges for your GitHub Profile Readme
 
-📍 For example : 
+📍 For example :
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> 
-
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 
 #### 23 . [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
 
-Allows users to more easily use Octicons and their own icons and logos in shields.io badges 
+Allows users to more easily use Octicons and their own icons and logos in shields.io badges
 
-📍 For example : 
+📍 For example :
 
 <p dir="auto"><a href="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1/custom-icon-badges?logo=star" rel="nofollow"><img src="https://camo.githubusercontent.com/320a36935cdbebab0c0fb2f90bb04262e6264c927b4bab99def395d02c89b5c7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f73746172732f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d73746172" alt="stars" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1/custom-icon-badges?logo=star" style="max-width: 100%;"></a>
 <a href="https://custom-icon-badges.herokuapp.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue" rel="nofollow"><img src="https://camo.githubusercontent.com/8b0db5ed952994ff48cafd1294e0085c9b7170a805f47475937548d78bb613da/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f6973737565732d7261772f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d6973737565" alt="open issues" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue" style="max-width: 100%;"></a>
@@ -268,23 +262,19 @@ Allows users to more easily use Octicons and their own icons and logos in shield
 <a href="https://custom-icon-badges.herokuapp.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&amp;logoColor=white" rel="nofollow"><img src="https://camo.githubusercontent.com/349db4a1624a2abbadcfec87d248e21382ca4e3b910797b91f19a51fe210fc3f/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f6c6173742d636f6d6d69742f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d686973746f7279266c6f676f436f6c6f723d7768697465" alt="last commit" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&amp;logoColor=fff&amp;color=blue&amp;label=total%20contributions&amp;query=%24.totalContributions&amp;url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" rel="nofollow"><img src="https://camo.githubusercontent.com/4f9857c76e594acc5d15e5d7f4da909d259ba56625a4a7e0b45c05d7852e85d7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d6772617068266c6f676f436f6c6f723d66666626636f6c6f723d626c7565266c6162656c3d746f74616c253230636f6e747269627574696f6e732671756572793d2532342e746f74616c436f6e747269627574696f6e732675726c3d68747470732533412532462532466769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2532462533467573657225334444656e766572436f64657231253236747970652533446a736f6e" alt="total contributions" data-canonical-src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&amp;logoColor=fff&amp;color=blue&amp;label=total%20contributions&amp;query=%24.totalContributions&amp;url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" style="max-width: 100%;"></a></p>
 
-
-
 #### 24 . [pepy](https://github.com/psincraian/pepy)
 
-pepy is a site to get statistics information about any Python package 
+pepy is a site to get statistics information about any Python package
 
-📍 For example : 
+📍 For example :
 
 [![Downloads](https://pepy.tech/badge/django-audio-validator)](https://pepy.tech/project/django-audio-validator)
 
-
-
 #### 25 . [Version Badge](https://badge.fury.io/)
 
-Once the package owner adds this badge to their README file, it will inform and link all visitors to the latest version of that package. 
+Once the package owner adds this badge to their README file, it will inform and link all visitors to the latest version of that package.
 
-📍 For example : 
+📍 For example :
 
 [![PyPI version](https://badge.fury.io/py/django-audio-validator.svg)](https://badge.fury.io/py/django-audio-validator)
 
@@ -354,8 +344,7 @@ Wakatime Weekly Metrics on your Profile Readme.
 
 #### 5 . [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator)
 
-Generate custom profile activity for your profile README  
-
+Generate custom profile activity for your profile README
 
 📍 For example : &nbsp;
 <br/>
@@ -435,7 +424,6 @@ Show your Spotify playing on your Github profile
 
 📍 For example : &nbsp;
 
-
 <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
 
 <br/>
@@ -452,7 +440,6 @@ Show your latest blog posts from any sources or StackOverflow activity or Youtub
 
 📍 For example : &nbsp;
 
-
 <img src="https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png" alt="preview" style="max-width: 100%;">
 
 <br/>
@@ -465,7 +452,6 @@ Dynamically generated your latest Medium article on your GitHub readmes!
 
 📍 For example : &nbsp;
 
-
 <img src="https://camo.githubusercontent.com/3374294011592525208ac3765e216aced5a5962769bfe8507e719bf5c589f7f5/68747470733a2f2f6769746875622d726561646d652d6d656469756d2e76657263656c2e6170702f3f757365726e616d653d6f6d69646e696b726168" alt="Omid Nikrah Medium" data-canonical-src="https://github-readme-medium.vercel.app/?username=omidnikrah" style="max-width: 100%;">
 
 <br/>
@@ -477,8 +463,7 @@ Dynamically generated your StackOverflow status on your GitHub READMEs!
 
 📍 For example : &nbsp;
 
-
-<img src="https://camo.githubusercontent.com/a98eeb0429d81008fe5c1320d11983627b8f7365a3896e65764b73727275576d/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" style="max-width: 100%;">  <img src="https://camo.githubusercontent.com/551c5992d60f859b25ebe54384966ede70d00fef9a36a07855a1690bb93fb36b/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432266c61796f75743d636f6d70616374" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&amp;layout=compact" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/a98eeb0429d81008fe5c1320d11983627b8f7365a3896e65764b73727275576d/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/551c5992d60f859b25ebe54384966ede70d00fef9a36a07855a1690bb93fb36b/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432266c61796f75743d636f6d70616374" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&amp;layout=compact" style="max-width: 100%;">
 
 <br/>
 <br/>
@@ -490,7 +475,6 @@ GitHub profile readme generator allows you to create nice and simple GitHub prof
 
 📍 For example : &nbsp;
 
-
 <img src="https://camo.githubusercontent.com/37ecf5fc6ed20ef415e3e81bb9104771e7557ca3d828a06dee981d4c18fe9212/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f6769662e6769663f763d313233" alt="Github readme generator" data-canonical-src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123" style="max-width: 100%;">
 
 #### 16 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
@@ -500,9 +484,7 @@ Showcase your github stats on your profile README.md
 
 📍 For example : &nbsp;
 
-
 <img src="readme.png">
-
 
 #### 17 . [Readme Jokes](https://github.com/ABSphreak/readme-jokes)
 
@@ -583,7 +565,6 @@ Generate beautiful header images for your GitHub profile READMEs.
 
 📍 For example : &nbsp;
 
-
 <img src="https://camo.githubusercontent.com/59e8ef4da1462be13abb2865a3503da9d8611c38f99e9d70b41a26218526cb97/68747470733a2f2f63646e2e676c697463682e636f6d2f30613466363732652d376435632d343235342d386635612d38343763323932346264663625324653637265656e25323053686f74253230323032302d30372d31372532306174253230352e31392e3138253230504d2e706e673f763d31353934393931393934353038" alt="Another image which is a use case of this generator - again you shouldn't be seeing this" data-canonical-src="https://cdn.glitch.com/0a4f672e-7d5c-4254-8f5a-847c2924bdf6%2FScreen%20Shot%202020-07-17%20at%205.19.18%20PM.png?v=1594991994508" style="max-width: 100%;">
 
 <br/>
@@ -604,9 +585,7 @@ This project provides a badge for sharing your current book in your github profi
 
 Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 
-
 📍 For example : &nbsp;
-
 
 <img src="https://camo.githubusercontent.com/21f4ff7dadd9c5bb09f90942dc78f02bd49c67939c17a403253d2e3690dcb758/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d547970652b6d657373616765732b65766572797768657265213b4164642b612b62696f2b746f2b796f75722b70726f66696c65213b4164642b612b6465736372697074696f6e2b746f2b796f75722b7265706f213b4d616b652b796f75722b726561646d652b7374616e642b6f75742126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&amp;font=Fira%20Code&amp;center=true&amp;width=380&amp;height=50" style="max-width: 100%;">
 
@@ -614,15 +593,14 @@ Dynamically generated, customizable SVG that gives the appearance of typing and 
 
 #### 26 . [Awesome Github Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
-This repository contains best profile readme's for your reference.  
+This repository contains best profile readme's for your reference.
 <br/>
 
 #### 27 . [Profile Summary For Github](https://github.com/tipsy/profile-summary-for-github)
 
-Tool for visualizing GitHub profiles  
+Tool for visualizing GitHub profiles
 <br/>
 📍 For example : &nbsp;
-
 
 <img src="https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG" alt="screenshot" style="max-width: 100%;">
 
@@ -635,7 +613,6 @@ A tool to generate your github summary card for profile README
 <br/>
 
 📍 For example : &nbsp;
-
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="" style="max-width: 100%;"></a>
@@ -663,7 +640,6 @@ Generate a cool README/About me page for your Github Profile
 
 📍 For example : &nbsp;
 
-
 <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/screencast_ghub_profile_gen_v1.gif" alt="Screencast of Github AboutMe/Profile ReadMe Generator" title="Go to web app" style="max-width: 100%;">
 
 <br/>
@@ -674,7 +650,6 @@ Generate a cool README/About me page for your Github Profile
 Automatically generate summary GitHub statistics images for your profile using Actions, no server required
 
 📍 For example : &nbsp;
-
 
 <p dir="auto"><img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
@@ -688,7 +663,6 @@ Write your name using the github commits and make your profile awesome
 
 📍 For example : &nbsp;
 
-
 <img src="https://github.com/ironmaniiith/Github-profile-name-writer/raw/master/extras/ironmanGithub.jpg" alt="Image of Ironman on github Profile" style="max-width: 100%;">
 
 <br/>
@@ -699,7 +673,6 @@ Write your name using the github commits and make your profile awesome
 Create a nice pie chart with the user's programming languages from their GitHub profile.
 
 📍 For example : &nbsp;
-
 
 <img src="https://camo.githubusercontent.com/6353b997c388ea9e649e46ccb0bdf18475c40cfdb4a7c8857b05c2af7c6c96e0/687474703a2f2f692e696d6775722e636f6d2f514736476835492e706e67" alt="github-profile-languages" data-canonical-src="http://i.imgur.com/QG6Gh5I.png" style="max-width: 100%;">
 
@@ -712,7 +685,6 @@ Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best po
 
 📍 For example : &nbsp;
 
-
 <img src="https://github.com/VishwaGauravIn/Images/raw/main/screencapture-gprm.png?raw=true" alt="" style="max-width: 100%;">
 <br/>
 <br/>
@@ -722,7 +694,6 @@ Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best po
 This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
 📍 For example : &nbsp;
-
 
 <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" style="max-width: 100%;">
 <br/>
@@ -745,7 +716,6 @@ A header image generator for your Github profile Readme
 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 📍 For example : &nbsp;
-
 
 <table>
   <tbody><tr>
@@ -1088,9 +1058,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 
 GitHub Action to download the devcard from https://daily.dev
 
-
 📍 For example : &nbsp;
-
 
 <a href="https://app.daily.dev/rzashakeri"><img src="https://api.daily.dev/devcards/6ae35a9240b4445ab6b12d50bea77589.png?r=fpe" width="200" alt="Reza Shakeri's Dev Card"/></a>
 <br/>
@@ -1101,37 +1069,30 @@ Pimp my README is an open source profile builder that you can use to add some co
 
 📍 For example : &nbsp;
 
-
 <a href="https://pimp-my-readme.webapp.io" rel="nofollow"><img src="https://camo.githubusercontent.com/88bddfba73d62d64c703ef1c75bbe2a2dc2deb4c214e851f5e7a882332a755fd/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f776176792d62616e6e65723f7375627469746c653d416e2532306f70656e253230736f7572636525323070726f6a656374253230253341253239267469746c653d50696d702532306d79253230524541444d45" alt="Pimp my README, An open source project :)" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=An%20open%20source%20project%20%3A%29&amp;title=Pimp%20my%20README" style="max-width: 100%;"></a>
 
 <img src="https://camo.githubusercontent.com/433c5a2daa0061aa3be92b6233f904ea1b2176e219a2130ddfccd4d3a4a43a27/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f736c6964696e672d746578743f656d6f6a69733d31663931662d31663366655f31663630655f31663630385f316639393526746578743d50696d702532353230796f75722532353230524541444d45" alt="Pimp my README" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f91f-1f3fe_1f60e_1f608_1f995&amp;text=Pimp%2520your%2520README" style="max-width: 100%;">
 
-
 <img src="https://camo.githubusercontent.com/0fae9cc46100cdf2fc60208b147d5febb0d83bfc5264f0a7179c95ad655967ad/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f76697369746f722d636f756e7465723f706167653d70696d702d6d792d726561646d65" alt="Visitor Counter for pimp-my-readme" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=pimp-my-readme" style="max-width: 100%;">
-
 
 <img src="https://camo.githubusercontent.com/5ad62aa314f320a330c539e266964d5371a3b0f5efdbdfbb270000688a977f35/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f746563686e6f6c6f67793f746563686e6f6c6f67793d4a6176615363726970745f48544d4c5f4353535f4e6f64654a535f457870726573735f" alt="JavaScript_HTML_CSS_NodeJS_Express_" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_Express_" style="max-width: 100%;">
 
-
 #### 40 . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
 
-Generate an image of all your Github contributions  
+Generate an image of all your Github contributions
 
 📍 For example : &nbsp;
 
 <br/>
 <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676">
 
-
 #### 41 . [Wrapped](https://github.com/neat-run/wrapped)
 
-GitHub Wrapped, inspired by Spotify Wrapped 
+GitHub Wrapped, inspired by Spotify Wrapped
 
 📍 For example : &nbsp;
 
 <img src="wrapped.png" style="max-width: 100%;" max-width="100%">
-
-
 
 #### 42 . [GitHub Spray](https://github.com/Annihil/github-spray)
 
@@ -1145,35 +1106,31 @@ Draw on your GitHub contribution graph ░▒▓█
 
 #### 43 . [Github Trends](https://github.com/avgupta456/github-trends)
 
-Level up your GitHub profile readme with customizable cards including LOC statistics! 
+Level up your GitHub profile readme with customizable cards including LOC statistics!
 
 📍 For example : &nbsp;
 
-
 <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" style="max-width: 100%;">
-
 
 #### 44 . [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
 
-Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes 
+Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/4f89632167b7a39fb7f92d4f634da0ce577b0a5c5ceee4578c71d12fc4417c77/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6461726b" alt="Quote" data-canonical-src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" style="max-width: 100%;">
 
-
 #### 45 . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
 
-Display your recently played Spotify tracks on your GitHub profile README. 
+Display your recently played Spotify tracks on your GitHub profile README.
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/1676021262b12981eddcf68a66a9565b75ce82d4d1d1d8f3dd173d28c3cbf5f3/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d6a65666672657963613136" alt="Spotify recently played" data-canonical-src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" style="max-width: 100%;">
 
-
 #### 46 . [Github Profile Readme Creator](https://github.com/rajk3770/Github-Profile-Readme-Creator)
 
-Generate user-friendly, intuitive and dynamic markdown for your profile README, in less than a minute! 
+Generate user-friendly, intuitive and dynamic markdown for your profile README, in less than a minute!
 
 📍 For example : &nbsp;
 
@@ -1181,7 +1138,7 @@ Generate user-friendly, intuitive and dynamic markdown for your profile README, 
 
 #### 47 . [Github Readme Info](https://github.com/th3c0d3br34ker/github-readme-info)
 
-This GitHub action helps to add cool Stats to your GitHub profile README. 
+This GitHub action helps to add cool Stats to your GitHub profile README.
 
 📍 For example : &nbsp;
 
@@ -1196,34 +1153,31 @@ This GitHub action helps to add cool Stats to your GitHub profile README.
 
 #### 48 . [Github Readme Medium Recent Article](https://github.com/bxcodec/github-readme-medium-recent-article)
 
-Add Your Recently Published Medium Articles to Your GitHub Readme 
+Add Your Recently Published Medium Articles to Your GitHub Readme
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/d788a9c92a195880c6bbb59a2be51537808cafd3ffd943505eec3cd9b4b5734f/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f40696d616e74756d6f72616e672f30" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" style="max-width: 100%;">
 
-
 #### 49 . [Github Widgetbox](https://github.com/Jurredr/github-widgetbox)
 
-Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.) 
+Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/33fa2f9d71dd331c729c8a3bac1bc1b0c3ded069d4602b29559925c843b48ce0/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f70726f66696c653f757365726e616d653d4a75727265647226646174613d666f6c6c6f776572732c7265706f7369746f726965732c73746172732c636f6d6d697473" alt="GitHub WidgetBox" data-canonical-src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&amp;data=followers,repositories,stars,commits" style="max-width: 100%;">
 
-
 #### 50 . [lastfm Recently Played Readme](https://github.com/JeffreyCA/lastfm-recently-played-readme)
 
-Display your recent Last.fm scrobbles on your GitHub profile README. 
+Display your recent Last.fm scrobbles on your GitHub profile README.
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/6b9790cabcaa9e6515761c7817ba08db06e3f1b60a34751acfcd45ed9c475e3a/68747470733a2f2f6c617374666d2d726563656e746c792d706c617965642e76657263656c2e6170702f6170693f757365723d4a65666672657943413031" alt="My scrobbles" data-canonical-src="https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01" style="max-width: 100%;">
 
-
 #### 51 . [Github Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style)
 
-Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme 
+Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 
 📍 For example : &nbsp;
 
@@ -1231,32 +1185,27 @@ Generate :octocat: Stats as like Terminal Interface with typing effects dynamica
 
 #### 52 . [leetcode Stats](https://github.com/KnlnKS/leetcode-stats)
 
-Dynamically generated LeetCode stats for your GitHub READMEs! 
+Dynamically generated LeetCode stats for your GitHub READMEs!
 
 📍 For example : &nbsp;
 
 <img alt="LeetCode Stat Card" src="https://camo.githubusercontent.com/1eebccd44222e88e734e4b4972493af998af8fa27f2008244f3e9b90f85497d4/68747470733a2f2f6170753572683867786b2e657865637574652d6170692e75732d656173742d312e616d617a6f6e6177732e636f6d2f64656661756c742f6c656574636f64652d73746174733f757365726e616d653d4b6e6c6e4b53267468656d653d6461726b" data-canonical-src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS&amp;theme=dark" style="max-width: 100%;" width="400">
 
-
-
 #### 53 . [Quote Readme](https://github.com/siddharth2016/quote-readme)
 
- A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts ! 
+A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
 
 📍 For example : &nbsp;
 
 <img src="https://raw.githubusercontent.com/siddharth2016/quote-readme/main/images/result.png" alt="Random Quote On Readme Result" style="max-width: 100%;">
 
-
 #### 54 . [Readme Ascii](https://github.com/ajmeese7/readme-ascii)
 
- A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts ! 
+A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
 
 📍 For example : &nbsp;
 
 <img src="https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png" alt="readme-ascii" style="max-width: 100%;">
-
-
 
 #### 55 . [Cool Readme profile items](https://github.com/mayankchaudhary26/Cool-Readme-ideas)
 
@@ -1268,19 +1217,17 @@ Some cool ideas for your readme profile, enjoy :) and You can access cool gifs t
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270"><img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width: 100%;" width="100"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270"><img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width: 100%;" width="100"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;" width="100"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3cc5769614aa5306d6452456e393b58ecfe23c4a904ca52dece5341e0794cbe9/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270"><img src="https://camo.githubusercontent.com/3cc5769614aa5306d6452456e393b58ecfe23c4a904ca52dece5341e0794cbe9/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270" data-canonical-src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" style="max-width: 100%;" width="100"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"><img src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" data-canonical-src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" style="max-width: 100%;" width="100"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width: 100%;" width="100"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width: 100%;" width="100"></a>
 </p>
 
-
 #### 56 . [Capsule Render](https://github.com/kyechan99/capsule-render)
 
-Dynamic Coloful Image Render 
+Dynamic Coloful Image Render
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/0da1f68bf3ed97f972472f31e1dbf68514bc3f72761bf300f8474f53ffab7932/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d63617073756c6525323072656e64657226666f6e7453697a653d393026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d4465636f7261746525323047697448756225323050726f66696c652532306f72253230616e792532305265706f2532306c696b652532306d65212664657363416c69676e593d35312664657363416c69676e3d3632" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=capsule%20render&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&amp;descAlignY=51&amp;descAlign=62" style="max-width: 100%;">
 
-
 #### 57 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
 
-Show npm packages downloads ⏬ in GitHub README 
+Show npm packages downloads ⏬ in GitHub README
 
 📍 For example : &nbsp;
 
@@ -1315,15 +1262,13 @@ Show npm packages downloads ⏬ in GitHub README
 </tbody>
 </table>
 
-
 #### 58 . [Github Contribution Stats](https://github.com/LordDashMe/github-contribution-stats)
 
-Dynamically generated Github Contribution Stats. 📈 📆 
+Dynamically generated Github Contribution Stats. 📈 📆
 
 📍 For example : &nbsp;
 
 <img src="https://camo.githubusercontent.com/b553f4908c78ff3c44d05538fea89b83080611887afee4896d0bd5b1f65b2108/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6d686576657279" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=mhevery" style="max-width: 100%;">
-
 
 #### 59 . [Github Star History](https://github.com/bytebase/star-history)
 
@@ -1333,13 +1278,12 @@ Dynamically generated GitHub repository star chart. 📈 ⭐️
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date)](https://star-history.com/#rzashakeri/beautify-github-profile&Date)
 
-
 #### 60 . [Moon.svg](https://github.com/hmu332233/moon.svg)
 
-Add real-time moon on your github profile!  
+Add real-time moon on your github profile!
 Moon.svg shows the current moon phase in real time!
 
-📍 For example :  
+📍 For example :
 
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
@@ -1348,20 +1292,19 @@ Moon.svg shows the current moon phase in real time!
   <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
 </a>
 
-
 #### 61 . [Stackoverflow Readme Profile](https://github.com/johannchopin/stackoverflow-readme-profile)
 
-Easily share your Stackoverflow's profile on your README 
+Easily share your Stackoverflow's profile on your README
 
-📍 For example :  
+📍 For example :
 
-<img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="profile" style="max-width: 100%;"> 
+<img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="profile" style="max-width: 100%;">
 
 #### 62 . [Github Readme Programming Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 
-Add Programming Quotes To Your GitHub Readme 
+Add Programming Quotes To Your GitHub Readme
 
-📍 For example :  
+📍 For example :
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -1369,38 +1312,44 @@ Add Programming Quotes To Your GitHub Readme
 
 Automatically update your README.md with Chess.com games and stats - fully customizable
 
-📍 For example :  
+📍 For example :
 
-| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
-|:---:|:---:|:---:|:---:|:---:|
-| **Hikaru** | mauricioflores | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/7k/8/2R5/8/8 b - -">Link</a> |
-| mauricioflores | **Hikaru** | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/2P5/3P2KR/3nr2P/P4r2/8/2B5 w - -">Link</a> |
-| **Hikaru** | mauricioflores | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p4K2/4N2p/pn1PP2P/6R1/8/8 b - -">Link</a> |
-| mauricioflores | **Hikaru** | agreed ⏸️ | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1pp1q2p/3p1rb1/p1nPp1NQ/1nP1p1BP/2N5/PP3P2/1K1R2R1 w - -">Link</a> |
-| **Hikaru** | Jospem | win 🥇 | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1R3n2/3p4/2p1pPp1/2P1P1N1/3P4/8/3K4 b - -">Link</a> |
-| Jospem | **Hikaru** | timeout ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/2q1bbpk/5p2/4p1pP/p2pPnP1/B2P1QN1/2P2PK1/R2B3R w - -">Link</a> |
-| **Hikaru** | Jospem | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/3b3p/1P1B2p1/4N3/2B5/6P1/5K1P/8 b - -">Link</a> |
-| Jospem | **Hikaru** | win 🥇 | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/6p1/8/2k4P/4p3/1bp1Kp2/5R2 w - -">Link</a> |
-| **Hikaru** | Jospem | repetition ⏸️ | 29/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6pk/2P2n2/7p/3K2bP/6P1/8 b - -">Link</a> |
-| Jospem | **Hikaru** | checkmated ❌ | 28/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2np1/p1p1p2p/4P3/1P1Pr3/6K1/3R4 w - -">Link</a>
-
+|    White ⚪    |    Black ⚫    |   Result 🏆   |  Date 📅  |                                                           Position 🗺️                                                            |
+| :------------: | :------------: | :-----------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------: |
+|   **Hikaru**   | mauricioflores |    win 🥇     | 31/7/2022 |                  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/7k/8/2R5/8/8 b - -">Link</a>                  |
+| mauricioflores |   **Hikaru**   |    win 🥇     | 31/7/2022 |           <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/2P5/3P2KR/3nr2P/P4r2/8/2B5 w - -">Link</a>            |
+|   **Hikaru**   | mauricioflores |    win 🥇     | 31/7/2022 |            <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p4K2/4N2p/pn1PP2P/6R1/8/8 b - -">Link</a>             |
+| mauricioflores |   **Hikaru**   |   agreed ⏸️   | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1pp1q2p/3p1rb1/p1nPp1NQ/1nP1p1BP/2N5/PP3P2/1K1R2R1 w - -">Link</a> |
+|   **Hikaru**   |     Jospem     |    win 🥇     | 31/7/2022 |        <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1R3n2/3p4/2p1pPp1/2P1P1N1/3P4/8/3K4 b - -">Link</a>         |
+|     Jospem     |   **Hikaru**   |  timeout ❌   | 30/7/2022 |  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/2q1bbpk/5p2/4p1pP/p2pPnP1/B2P1QN1/2P2PK1/R2B3R w - -">Link</a>  |
+|   **Hikaru**   |     Jospem     |    win 🥇     | 30/7/2022 |          <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/3b3p/1P1B2p1/4N3/2B5/6P1/5K1P/8 b - -">Link</a>          |
+|     Jospem     |   **Hikaru**   |    win 🥇     | 30/7/2022 |            <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/6p1/8/2k4P/4p3/1bp1Kp2/5R2 w - -">Link</a>            |
+|   **Hikaru**   |     Jospem     | repetition ⏸️ | 29/7/2022 |             <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6pk/2P2n2/7p/3K2bP/6P1/8 b - -">Link</a>             |
+|     Jospem     |   **Hikaru**   | checkmated ❌ | 28/7/2022 |         <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2np1/p1p1p2p/4P3/1P1Pr3/6K1/3R4 w - -">Link</a>          |
 
 #### 64 . [Terminal Gif Maker](https://www.terminalgif.com/)
 
 Terminal Gif Maker is a tool for creating code samples in the terminal interface. You can create gifs for your projects and you can show that in the README of your project. You can use the GIF in git providers like Github and Gitlab.
 
-📍 For example :  
+📍 For example :
 
 <img src="./terminal.gif" alt="terminal gif">
 
-
 #### 65 . [readme md generator](https://github.com/kefranabg/readme-md-generator)
 
-📄 CLI that generates beautiful README.md files 
+📄 CLI that generates beautiful README.md files
 
-📍 For example :  
+📍 For example :
 
 <img src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="readme md generator">
+
+#### 66 . [Spotify Data Card](https://github.com/magic-ike/spotify-data-card)
+
+Show your Spotify activity on your GitHub profile README.
+
+📍 For example : &nbsp; <br>
+
+<img src="spotify-data-card.svg" alt="Spotify Data Card">
 
 ---
 
@@ -1418,10 +1367,9 @@ Terminal Gif Maker is a tool for creating code samples in the terminal interface
 <br/>
 <br/>
 
-
 #### 2 . [Skill Icons](https://github.com/tandpfun/skill-icons)
 
-Showcase your skills on your Github readme or resumé with ease ✨ 
+Showcase your skills on your Github readme or resumé with ease ✨
 <br/>
 
 📍 For example : &nbsp;
