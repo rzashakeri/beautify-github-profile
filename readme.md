@@ -1201,7 +1201,7 @@ A GitHub Action that allows you to place a random quote/fun-fact on your README 
 
 #### 54 . [Readme Ascii](https://github.com/ajmeese7/readme-ascii)
 
-A GitHub Action that allows you to place a random quote/fun-fact on your README file, from a collection of famous computer science quotes/facts !
+Turns text into images of ASCII art for GitHub README files.
 
 📍 For example : &nbsp;
 
