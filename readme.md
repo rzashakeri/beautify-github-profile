@@ -1351,6 +1351,14 @@ Show your Spotify activity on your GitHub profile README.
 
 <img src="spotify-data-card.svg" alt="Spotify Data Card">
 
+#### 67 . [Profileme Dev](https://github.com/danielcranney/profileme-dev)
+
+Create an awesome GitHub profile in minutes 
+
+📍 For example : &nbsp; <br>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/screenshot.png" class="overflow-hidden rounded-md shadow-dark-900/5" alt="Screenshot of ProfileMe.dev" width="100%">
+
 ---
 
 ## ✅ Icons 👇
