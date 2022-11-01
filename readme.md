@@ -18,7 +18,7 @@ how are you If you want to make the look of your github profile more beautiful, 
   - [🧩 Badges 👇](#-badges-)
   - [🛠️ Widgets 👇](#%EF%B8%8F-widgets-)
   - [✅ Icons 👇](#-icons-)
-  - [⚙️ Profile Generator 👇](#-Profile-Generator-)
+  - [⚙️ Profile Generator 👇](#%EF%B8%8F-profile-generator-)
 - [Give A Star ⭐](#give-a-star-)
 
 # 📌 The first step : Set up the GitHub Repository
