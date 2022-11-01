@@ -1359,6 +1359,13 @@ Create an awesome GitHub profile in minutes
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/screenshot.png" class="overflow-hidden rounded-md shadow-dark-900/5" alt="Screenshot of ProfileMe.dev" width="100%">
 
+#### 68 . [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+A dynamically generated activity graph to show your GitHub activities of last 31 days. 
+
+📍 For example : &nbsp; <br>
+
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/high-contrast.png" alt="graph" style="max-width: 100%;" height="250">
 ---
 
 ## ✅ Icons 👇
