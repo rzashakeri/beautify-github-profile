@@ -1377,6 +1377,19 @@ Showcase your skills on your Github readme or resumé with ease ✨
 
 <img src="https://skillicons.dev/icons?i=all">
 
+
+<br/>
+
+#### 3 . [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons)
+
+ 📋 😄 Add icons to your GitHub profile using this generator 😄 📋 
+<br/>
+
+📍 For example : &nbsp;
+
+
+<img src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 ---
 
 ### If you like, you can also help me develop this repository so that from now on we have more beautiful github profiles 💙
