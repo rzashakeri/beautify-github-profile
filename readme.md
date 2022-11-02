@@ -15,10 +15,11 @@ how are you If you want to make the look of your github profile more beautiful, 
 - [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
 - [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
 - [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
-  - [🧩 Badges 👇](#-badges-)
-  - [🛠️ Widgets 👇](#%EF%B8%8F-widgets-)
-  - [✅ Icons 👇](#-icons-)
-  - [⚙️ Profile Generator 👇](#%EF%B8%8F-profile-generator-)
+  - [🧩 Badges ](#-badges-)
+  - [🛠️ Widgets ](#%EF%B8%8F-widgets-)
+  - [✅ Icons ](#-icons-)
+  - [⚙️ Profile Generator ](#%EF%B8%8F-profile-generator-)
+  - [😉 Emojis ](#-Emojis-)
 - [Give A Star ⭐](#give-a-star-)
 
 # 📌 The first step : Set up the GitHub Repository
@@ -1424,6 +1425,35 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 <br/>
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif">
+
+---
+
+
+## 😉 Emojis
+
+#### 1 . [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
+
+🔥 All the emojis 🎉 
+<br/>
+
+#### 2 . [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
+
+ All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file. 
+<br/>
+
+📍 For example : &nbsp;
+<br/>
+
+<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+  alt="Cat with Tears of Joy"
+  width="25"
+  height="25"
+/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+
+
 
 ### If you like, you can also help me develop this repository so that from now on we have more beautiful github profiles 💙
 
