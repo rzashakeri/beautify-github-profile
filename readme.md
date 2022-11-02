@@ -288,6 +288,14 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
 
+#### 27 . [hits](https://github.com/silentsoft/hits)
+
+📈 Hit Counter for Your GitHub or Any Kind of Websites You Want. 
+
+📍 For example :
+
+[![Hits](https://hits.sh/github.com/rzashakeri/beautify-github-profile.svg)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
+
 ---
 
 ## 🛠️ Widgets 👇
