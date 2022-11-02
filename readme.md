@@ -296,6 +296,13 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Hits](https://hits.sh/github.com/rzashakeri/beautify-github-profile.svg)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
+#### 28 . [gradient badge](https://github.com/bokub/gradient-badge)
+
+🍭 Badge generator with color gradient support
+
+📍 For example :
+
+[![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
 ---
 
 ## 🛠️ Widgets 👇
