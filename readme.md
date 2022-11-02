@@ -303,6 +303,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 📍 For example :
 
 [![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
+
 ---
 
 ## 🛠️ Widgets 👇
@@ -1313,6 +1314,15 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 📍 For example : &nbsp; <br>
 
 <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/high-contrast.png" alt="graph" style="max-width: 100%;" height="250">
+
+
+#### 61 . [svg banners](https://github.com/Akshay090/svg-banners)
+
+Styled banners for your Readme made with html/css in SVG !! 
+
+📍 For example : &nbsp; <br>
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=beautify+github+profile&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 
