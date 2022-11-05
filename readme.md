@@ -304,6 +304,14 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
 
+#### 29 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
+
+Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
+
+📍 For example :
+
+[![Topmate](https://topmate-readme-badge.herokuapp.com/vinitshahdeo)](https://topmate.io/vinitshahdeo)
+
 ---
 
 ## 🛠️ Widgets 👇
