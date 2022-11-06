@@ -1371,9 +1371,6 @@ GitHub action to show your latest YouTube videos on your GitHub profile or proje
 
 <img src="https://user-images.githubusercontent.com/20955511/200180179-cccb1427-5fb3-4452-b7a9-5a26d266b94d.png" alt="preview" style="max-width: 100%;">
 
-<br/>
-<br/>
-
 ---
 
 ## ✅ Icons 👇
