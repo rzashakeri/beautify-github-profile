@@ -1362,6 +1362,18 @@ such as your Github Profile, Notion, etc
   <img src="https://dday-widget.minung.dev/widget?keyword=new-year" alt="dday-widget.svg" />
 </a>
 
+#### 65 . [GitHub Readme YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+
+GitHub action to show your latest YouTube videos on your GitHub profile or project readme automatically as dynamic SVG cards
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://user-images.githubusercontent.com/20955511/200180179-cccb1427-5fb3-4452-b7a9-5a26d266b94d.png" alt="preview" style="max-width: 100%;">
+
+<br/>
+<br/>
+
 ---
 
 ## ✅ Icons 👇
