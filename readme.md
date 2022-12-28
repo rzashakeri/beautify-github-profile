@@ -1371,6 +1371,15 @@ GitHub action to show your latest YouTube videos on your GitHub profile or proje
 
 <img src="https://user-images.githubusercontent.com/20955511/200180179-cccb1427-5fb3-4452-b7a9-5a26d266b94d.png" alt="preview" style="max-width: 100%;">
 
+#### 66 . [github-unwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
+
+A platform that generates a year in review video for each GitHub user
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://user-images.githubusercontent.com/18756975/209833236-65227d5b-51a2-47d3-ad43-d32e1ae82a71.gif" width="50%">
+
 ---
 
 ## ✅ Icons 👇
