@@ -1378,7 +1378,7 @@ A platform that generates a year in review video for each GitHub user
 
 📍 For example : &nbsp;
 
-<img src="https://user-images.githubusercontent.com/18756975/209817512-6c20abaa-5b71-4193-bc09-076fe3594309.png" width="50%">
+<img src="https://user-images.githubusercontent.com/18756975/209833236-65227d5b-51a2-47d3-ad43-d32e1ae82a71.gif" width="50%">
 
 ---
 
