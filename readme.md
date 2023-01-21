@@ -1380,6 +1380,15 @@ A platform that generates a year in review video for each GitHub user
 
 <img src="https://user-images.githubusercontent.com/18756975/209833236-65227d5b-51a2-47d3-ad43-d32e1ae82a71.gif" width="50%">
 
+#### 67 . [GIFs For GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-Readme)
+
+Awesome List of GIFs & avatars to use in GitHub markdown
+<br/>
+
+📍 For example : &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
 ---
 
 ## ✅ Icons 👇
