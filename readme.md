@@ -1385,7 +1385,7 @@ A platform that generates a year in review video for each GitHub user
 Awesome List of GIFs & avatars to use in GitHub markdown
 <br/>
 
-📍 For example : &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25" />
+📍 For example : &nbsp;
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
