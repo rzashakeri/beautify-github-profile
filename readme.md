@@ -304,6 +304,14 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
 
+#### 29 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
+
+Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
+
+📍 For example :
+
+[![Topmate](https://topmate-readme-badge.herokuapp.com/vinitshahdeo)](https://topmate.io/vinitshahdeo)
+
 ---
 
 ## 🛠️ Widgets 👇
@@ -1345,7 +1353,6 @@ Styled banners for your Readme made with html/css in SVG !!
 
 
 
-
 #### 64 . [contributors img](https://github.com/lacolaco/contributors-img)
 
 show all profile images contributors
@@ -1355,6 +1362,45 @@ show all profile images contributors
 <a href="https://github.com/lacolaco/contributors-img/graphs/contributors">
   <img src="https://stg.contrib.rocks/image?repo=lacolaco/contributors-img" />
 </a>
+
+#### 65 . [D-Day.widget](https://github.com/hmu332233/dday.svg)
+
+Add D-Day widget to anywhere,  
+such as your Github Profile, Notion, etc
+
+📍 For example : &nbsp; <br>
+
+<a href="https://dday-widget.minung.dev">
+  <img src="https://dday-widget.minung.dev/widget?keyword=new-year" alt="dday-widget.svg" />
+</a>
+
+#### 66 . [GitHub Readme YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+
+GitHub action to show your latest YouTube videos on your GitHub profile or project readme automatically as dynamic SVG cards
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://user-images.githubusercontent.com/20955511/200180179-cccb1427-5fb3-4452-b7a9-5a26d266b94d.png" alt="preview" style="max-width: 100%;">
+
+#### 67 . [github-unwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
+
+A platform that generates a year in review video for each GitHub user
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://user-images.githubusercontent.com/18756975/209833236-65227d5b-51a2-47d3-ad43-d32e1ae82a71.gif" width="50%">
+
+#### 68 . [GIFs For GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-Readme)
+
+Awesome List of GIFs & avatars to use in GitHub markdown
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
 
 ---
 
