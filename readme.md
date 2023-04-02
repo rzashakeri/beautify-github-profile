@@ -312,6 +312,14 @@ Topmate is a platform to connect 1:1 with your audience & monetise your time bet
 
 [![Topmate](https://topmate-readme-badge.herokuapp.com/vinitshahdeo)](https://topmate.io/vinitshahdeo)
 
+#### 30 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
+
+Track your GitHub profile views and analyze statistics.
+
+📍 For example :
+
+[![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov)
+
 ---
 
 ## 🛠️ Widgets 👇
