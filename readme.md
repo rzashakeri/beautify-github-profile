@@ -1436,6 +1436,14 @@ Make your GitHub repo beautiful
 <img src="https://github.com/0l1v3rr/github-readme-tech-stack/raw/master/docs/README.gif">
 
 
+#### 71 . [lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
+
+🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile.
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://lanyard.cnrad.dev/api/887610165745057802">
 
 ---
 
