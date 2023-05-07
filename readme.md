@@ -1445,6 +1445,15 @@ Make your GitHub repo beautiful
 
 <img src="https://lanyard.cnrad.dev/api/887610165745057802">
 
+#### 72 . [Starcharts](https://github.com/caarlos0/starcharts)
+
+⭐ Plot your repo stars over time!
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://starchart.cc/rzashakeri/beautify-github-profile.svg">
+
 ---
 
 ## ✅ Icons 👇
