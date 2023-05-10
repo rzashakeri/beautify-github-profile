@@ -1085,7 +1085,7 @@ Draw on your GitHub contribution graph ░▒▓█
 📍 For example : &nbsp;
 
 <p dir="auto" align="center">
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966"><img src="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%;" width="200" height="200"></a>
+	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966"><img src="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%;" width="240" height="200"></a>
 </p>
 
 #### 38 . [Github Trends](https://github.com/avgupta456/github-trends)
@@ -1454,13 +1454,16 @@ Make your GitHub repo beautiful
 
 <img src="https://starchart.cc/rzashakeri/beautify-github-profile.svg">
 
-#### 73 . [Adding the daily DevCard to your GitHub profile](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
+#### 73 . [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
 
 ⭐ Displaying Your Extensive Reading and Preferred Technology Topics on Your GitHub README ⭐
 By showcasing the range/The number of articles you have consumed and your chosen technology topics, you have the opportunity to present your comprehensive expertise and keen interest in the field.
 <br/>
-📍 For example : &nbsp;
-<a href="https://app.daily.dev/TheKidPadra"><img align="center" width="320" height="450" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="700" alt="Padra Esfandiyar's Dev Card"/></a>
+<br/>
+📍 For example : 
+<br/>
+<br/>
+<a href="https://app.daily.dev/TheKidPadra"><img align="center" width="200" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" alt="Padra Esfandiyar's Dev Card"/></a>
 
 ---
 
