@@ -1465,6 +1465,16 @@ By showcasing the range/The number of articles you have consumed and your chosen
 <br/>
 <a href="https://app.daily.dev/TheKidPadra"><img align="center" width="200" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" alt="Padra Esfandiyar's Dev Card"/></a>
 
+
+#### 74 . [socialify](https://github.com/wei/socialify) 
+
+ 💞 Socialify your project. 🌐 Share with the world! 
+<br/>
+
+📍 For example : &nbsp;
+
+![beautify-github-profile](https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
 ---
 
 ## ✅ Icons 👇
