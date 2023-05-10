@@ -1454,6 +1454,14 @@ Make your GitHub repo beautiful
 
 <img src="https://starchart.cc/rzashakeri/beautify-github-profile.svg">
 
+#### 73 . [Adding the daily DevCard to your GitHub profile](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
+
+⭐ Displaying Your Extensive Reading and Preferred Technology Topics on Your GitHub README ⭐
+By showcasing the range/The number of articles you have consumed and your chosen technology topics, you have the opportunity to present your comprehensive expertise and keen interest in the field.
+<br/>
+📍 For example : &nbsp;
+<a href="https://app.daily.dev/TheKidPadra"><img align="center" width="320" height="450" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="700" alt="Padra Esfandiyar's Dev Card"/></a>
+
 ---
 
 ## ✅ Icons 👇
