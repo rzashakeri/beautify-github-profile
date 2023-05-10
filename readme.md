@@ -1426,7 +1426,7 @@ Make your GitHub repo beautiful
 [![Activity map](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_map.svg)](https://github.com/rzashakeri/beautify-github-profile/commits)
 
 
-#### 70 . [github readme tech stack ](https://github.com/0l1v3rr/github-readme-tech-stack)
+#### 70 . [github readme tech stack](https://github.com/0l1v3rr/github-readme-tech-stack)
 
  🔖 Show off your favorite technologies, tools, or the tech stack your project uses with these fully customizable cards on your GitHub README. 
  <br/>
