@@ -1475,6 +1475,16 @@ By showcasing the range/The number of articles you have consumed and your chosen
 
 ![beautify-github-profile](https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
+
+#### 75 . [invidget](https://github.com/SwitchbladeBot/invidget) 
+
+✉️ Invidget generates SVG renders of Discord invites that can be used in GitHub READMEs.
+<br/>
+
+📍 For example : &nbsp;
+
+![invidget](https://invidget.switchblade.xyz/discord-developers)
+
 ---
 
 ## ✅ Icons 👇
