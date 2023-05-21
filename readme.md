@@ -1493,7 +1493,8 @@ The countdown timer is based on the end date and time in a specific time zone.
 
 📍 For example : &nbsp;
 
-<img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/> 
+<img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>
+
 ---
 
 ## ✅ Icons 👇
