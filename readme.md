@@ -1485,6 +1485,15 @@ By showcasing the range/The number of articles you have consumed and your chosen
 
 ![invidget](https://invidget.switchblade.xyz/discord-developers)
 
+
+#### 76 . [countdownmail](https://countdownmail.com/)
+
+The countdown timer is based on the end date and time in a specific time zone. 
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/> 
 ---
 
 ## ✅ Icons 👇
