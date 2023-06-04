@@ -74,11 +74,11 @@ Badges for your personal developer branding, profile, and projects.
 <br/>
 <br/>
 
-#### 3 . [Count Visitors Badges](https://github.com/jwenjian/visitor-badge)
+#### 3 . [View Count Badge](https://github.com/dwyl/hits)
 
-A badge generator service to count visitors of your markdown file.
+A badge generator service that counts views on your markdown file.
 
-📍 For example : &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+📍 For example : &nbsp; ![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square)
 <br/>
 <br/>
 
