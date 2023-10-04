@@ -1500,6 +1500,16 @@ Forkers &nbsp;
 
 <img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>
 
+#### 78 . [Moe Counter](https://moe-counter.glitch.me/)
+
+Another Cute View Counter.
+<br/>
+
+📍 For example : &nbsp;
+
+![name](https://moe-counter.glitch.me/get/@index)
+
+
 ---
 
 ## ✅ Icons 👇
