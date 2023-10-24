@@ -1350,7 +1350,7 @@ show all profile images contributors
 
 #### 65 . [D-Day.widget](https://github.com/hmu332233/dday.svg)
 
-Add D-Day widget to anywhere,  
+Add D-Day widget to anywhere,
 such as your Github Profile, Notion, etc
 
 📍 For example : &nbsp; <br>
