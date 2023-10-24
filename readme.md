@@ -275,7 +275,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 📍 For example :
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
+![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)
 
 #### 26 . [hits](https://github.com/silentsoft/hits)
 
