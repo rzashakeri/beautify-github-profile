@@ -307,7 +307,15 @@ Track your GitHub profile views and analyze statistics.
 
 📍 For example :
 
-[![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov)
+![Demo](https://u8views.com/api/v1/github/profiles/159557098/views/day-week-month-total-count.svg)
+
+#### 30 . [m3-Markdown-Badges ](https://github.com/ziadOUA/m3-Markdown-Badges)
+
+🏅 A Material You inspired markdown badge collection.
+
+📍 For example :
+
+![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![Demo](https://m3-markdown-badges.vercel.app/stars/1/3/rzashakeri/beautify-github-profile) 
 
 ---
 
@@ -1501,14 +1509,23 @@ Forkers &nbsp;
 
 <img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>
 
-#### 78 . [Moe Counter](https://moe-counter.glitch.me/)
+#### 78 . [Moe Counter](https://github.com/journey-ad/Moe-Counter)
 
 Another Cute View Counter.
 <br/>
 
 📍 For example : &nbsp;
 
-![name](https://moe-counter.glitch.me/get/@index)
+![Demo](https://moe-counter.glitch.me/get/@index)
+
+#### 79 . [Star History](https://github.com/lucabubi/star-history)
+
+A Stunning star history chart generator for Github Repositories 
+<br/>
+
+📍 For example : &nbsp;
+
+![Red Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red)
 
 
 ---
