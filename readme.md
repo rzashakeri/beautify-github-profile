@@ -1528,11 +1528,18 @@ A Stunning star history chart generator for Github Repositories
 ![Red Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red)
 
 
+### 80 [Github Readme Medium Recent Article](https://github.com/bxcodec/github-readme-medium-recent-article)
+
+📍 For example : &nbsp;
+
+![Github README Medium Recent Articles](https://github.com/nhelchitnis/beautify-github-profile/assets/167477489/7986f87e-979a-44c7-91ad-7e936aeb3d86)
 ---
 
 ## ✅ Icons 👇
 
 #### 1 . [Simple Icons](https://simpleicons.org/)
+
+
 
 2246 Free SVG icons for popular brands
 <br/>
