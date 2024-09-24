@@ -317,6 +317,15 @@ Track your GitHub profile views and analyze statistics.
 
 ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![Demo](https://m3-markdown-badges.vercel.app/stars/1/3/rzashakeri/beautify-github-profile) 
 
+#### 31 . [Badgen](https://github.com/badgen/badgen.net)
+
+Fast badge generating service
+
+📍 For example :
+
+![Demo](https://badgen.net/crates/v/regex) ![Demo](https://badgen.net/crates/d/regex)
+![Demo](https://badgen.net/crates/dl/regex)
+
 ---
 
 ## 🛠️ Widgets 👇
