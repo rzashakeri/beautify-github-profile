@@ -1552,6 +1552,16 @@ Any subreddit memes thread to display random memes.
 
 <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 
+#### 82 . [GitHub Stats](https://github.com/hyochan/github-stats)
+
+Github readme stats in multi angles.
+
+📍 For example : &nbsp;
+
+![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
+
+![hyochan github-trophies](https://stats.dooboo.io/api/github-trophies?login=hyochan)
+
 ---
 
 ## ✅ Icons 👇
