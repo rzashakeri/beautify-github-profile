@@ -1570,6 +1570,14 @@ Get dynamically generated your github repository contribution stats on your READ
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
 
+#### 84 . [Code Statistic](https://github.com/zmh-program/code-statistic)
+
+Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
+
+📍 For example : &nbsp;
+
+![zmh-program's GitHub Stats](https://stats.deeptrain.net/user/zmh-program/)
+
 ---
 
 ## ✅ Icons 👇
