@@ -326,6 +326,16 @@ Fast badge generating service
 ![Demo](https://badgen.net/crates/v/regex) ![Demo](https://badgen.net/crates/d/regex)
 ![Demo](https://badgen.net/crates/dl/regex)
 
+#### 32 . [u8views](https://github.com/u8views/go-u8views)
+
+Profile views counter.
+
+📍 For example :
+
+[![u8views profile views](https://u8views.com/api/v1/github/profiles/121827373/views/day-week-month-total-count.svg)](https://u8views.com/github/u8views)
+
+[![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov)
+
 ---
 
 ## 🛠️ Widgets 👇
