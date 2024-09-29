@@ -1588,6 +1588,14 @@ Dynamically generate your GitHub statistic card! The user card is used to count 
 
 ![zmh-program's GitHub Stats](https://stats.deeptrain.net/user/zmh-program/)
 
+#### 85 . [Bentohub](https://github.com/amittam104/BentoHub)
+
+BentoHub is an app where you can create a bento grid and copy-paste the html or markdown code on to your github profile readme.
+
+📍 For example : &nbsp;
+
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
+
 ---
 
 ## ✅ Icons 👇
