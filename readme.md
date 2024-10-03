@@ -328,6 +328,14 @@ Fast badge generating service
 ![Demo](https://badgen.net/crates/v/regex) ![Demo](https://badgen.net/crates/d/regex)
 ![Demo](https://badgen.net/crates/dl/regex)
 
+#### 32 . [Stardev](https://stardev.io/)
+
+Stardev ranks every GitHub user and repository by language and location. You can get a HTML or Markdown badge that shows your global rank across all languages and your top languages by star count.
+
+📍 For example :
+
+[![Check out oliyh's profile on stardev.io](https://stardev.io/developers/oliyh/badge/languages/global.svg)](https://stardev.io/developers/oliyh)
+
 ---
 
 ## 🛠️ Widgets 👇
