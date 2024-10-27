@@ -1139,13 +1139,13 @@ Generate :octocat: Stats as like Terminal Interface with typing effects dynamica
 
 <img src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" style="max-width: 100%;" align="middle">
 
-#### 45 . [leetcode Stats](https://github.com/KnlnKS/leetcode-stats)
+#### 45 . [LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
-Dynamically generated LeetCode stats for your GitHub READMEs!
+Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 
 📍 For example : &nbsp;
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
 
 #### 46 . [Quote Readme](https://github.com/siddharth2016/quote-readme)
 
