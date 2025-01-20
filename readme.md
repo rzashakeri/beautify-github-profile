@@ -1546,6 +1546,14 @@ BentoHub is an app where you can create a bento grid and copy-paste the html or 
 
 ---
 
+#### 85 . [github-profile-repo-analytics](https://github.com/FuseFairy/github-profile-repo-analytics)
+
+📊 API to fetch GitHub repository traffic stats and visualize them as customizable SVG charts, perfect for embedding in GitHub profile.
+
+📍 For example : &nbsp;
+
+![Zhuang's Repo Traffic Stats](https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=00000000)
+
 ## ✅ Icons 👇
 
 #### 1 . [Simple Icons](https://simpleicons.org/)
