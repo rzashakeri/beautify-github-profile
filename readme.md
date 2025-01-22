@@ -1552,7 +1552,7 @@ BentoHub is an app where you can create a bento grid and copy-paste the html or 
 
 📍 For example : &nbsp;
 
-![Zhuang's Repo Traffic Stats](https://github-profile-repo-analytics.vercel.app/api?username=FuseFairy&theme=tokyo-night&bg_color=00000000)
+![Zhuang's Repo Traffic Stats](https://raw.githubusercontent.com/gist/FuseFairy/c7f619079a91afedbf4e949977fa2df4/raw/e868d3bc96ce8755d7f8beb1130e5d7579c9e2c0/demo-traffic.svg)
 
 ## ✅ Icons 👇
 
