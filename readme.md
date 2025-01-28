@@ -8,7 +8,7 @@
 
 # Hello friends 🖐️
 
-how are you If you want to make the look of your github profile more beautiful, you have come to the right place
+How are you? If you want to make the look of your github profile more beautiful, you have come to the right place.
 
 # 📖 Table of Contents
 
