@@ -47,35 +47,33 @@ Create a repository with your GitHub username 👇
 <img src="name.png">
 
 Template : 👇
-
-    https://github.com/username/username
+```
+https://github.com/username/username
+```
 
 Example : 👇
-
-    https://github.com/rzashakeri/rzashakeri
+```
+https://github.com/rzashakeri/rzashakeri
+```
 
 ### After Create Repository, **Create a README.md** in Repository and Done ✅
-
 Now that we have built the repository, we come to the interesting part: **designing our README.md.**
 
 > Persian guide for first step 👉 [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
 
 # 💡 Where do we get ideas ?
-
 You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them 👇
 
 ### [🔗 Awesome Github Profile ](https://zzetao.github.io/awesome-github-profile/)
 
 # 🚩 What do we do after seeing these profiles ?
-
 Well, so far you have been able to find cool ideas from the profiles of different people. Now it's time to use different tools to beautify your github profile, which you can access from the list below.
 
 ## 🧩 Badges 👇
 <details>
  <summary><strong>Click to expand list</strong></summary>
   
-#### 1 . [List of Badges, in Markdown](https://github.com/Naereen/badges)
-
+### 1 . [List of Badges, in Markdown](https://github.com/Naereen/badges)
 A list of badges and cards, with their Markdown code, that can be included in a README.md file for a GitHub
 
 📍 For example :
@@ -94,29 +92,26 @@ A list of badges and cards, with their Markdown code, that can be included in a 
   </a>
 </p>
 
-#### 2 . [Markdown badges in many different categories ](https://github.com/Ileriayo/markdown-badges)
-
+### 2 . [Markdown badges in many different categories ](https://github.com/Ileriayo/markdown-badges)
 Badges for your personal developer branding, profile, and projects.
 
 📍 For example :
 <p align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
-#### 3 . [View Count Badge](https://github.com/dwyl/hits)
-
+### 3 . [View Count Badge](https://github.com/dwyl/hits)
 A badge generator service that counts views on your markdown file.
 
 📍 For example :
 <p align="center">
-  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg">
+  <img width=100 src="https://raw.githubusercontent.com/gist/FuseFairy/08a84ab3f44987ccf222c5d5844be075/raw/103de3c64da63c684caa2a931d415d2240ea421a/hits.svg" alt="View Count Badge">
 </p>
 
-#### 4 . [shields](https://shields.io/)
-
+### 4 . [shields](https://shields.io/)
 Concise, consistent, and legible badges in SVG and raster format and Make tokens with custom values
 
 📍 For example :
@@ -126,235 +121,243 @@ Concise, consistent, and legible badges in SVG and raster format and Make tokens
   <img src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" alt="Open VSX Rating (Stars) badge">
 </p>
 
-#### 5 . [laravel github profile view counter](https://github.com/caneco/laravel-github-profile-view-counter)
-
+### 5 . [laravel github profile view counter](https://github.com/caneco/laravel-github-profile-view-counter)
 This package will allows you to track Github profile views and display them in your profile readme, for free.
 
 📍 For example :
 <p align="center">
-  <img width=400 src="https://github.com/caneco/laravel-github-profile-view-counter/blob/master/art/socialcard.png">
+  <img width=400 src="https://raw.githubusercontent.com/caneco/laravel-github-profile-view-counter/master/art/socialcard.png" alt="laravel github profile view counter">
 </p>
 
-#### 6 . [Stackoverflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge)
-
+### 6 . [Stackoverflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge)
 Display your stats with this unique StackOverflow Badge
 
 📍 For example :
 <p align="center">
-  <img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375">
+  <img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" alt="Stackoverflow Badge">
 </p>
 
-#### 7 . [ Badges for GitHub](https://github.com/Envoy-VC/Badges-for-GitHub)
-
+### 7 . [Badges for GitHub](https://github.com/Envoy-VC/Badges-for-GitHub)
 A Curated list of Badges used in GitHub
 
 📍 For example :
 <p align="center">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-#### 8 . [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-
+### 8 . [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 Improve your README.md profile with these amazing badges.
 
 📍 For example :
 <p align="center">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
-#### 9 . [Github Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
-
+### 9 . [Github Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 📍 For example :
-<img src="https://camo.githubusercontent.com/e5970ff31233467b6196dc670259c9063b9089764c57ef617b2f6f08b733652e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=for-the-badge" style="max-width: 100%;"> &nbsp; <img src="https://camo.githubusercontent.com/7bfef86b8b4870584490fde560525dfa604bd17221db50d2240036004238b655/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d706c6173746963" alt="" data-canonical-src="https://img.shields.io/static/v1?label=Profile+views&amp;message=1234567890&amp;color=007ec6&amp;style=plastic" style="max-width: 100%;">
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e5970ff31233467b6196dc670259c9063b9089764c57ef617b2f6f08b733652e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d666f722d7468652d6261646765" alt="Profile views for the badge">
+  <img src="https://camo.githubusercontent.com/7bfef86b8b4870584490fde560525dfa604bd17221db50d2240036004238b655/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d303037656336267374796c653d706c6173746963" alt="Profile views for plastic style">
+</p>
 
-#### 10 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
-
+### 10 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 Some badges I created for my GitHub profile readme.
 
 📍 For example :
-<br/>
-<br/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
-<br/>
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php">
+</p>
 
-#### 11 . [AppVeyor](https://www.appveyor.com/docs/status-badges/)
-
+### 11 . [AppVeyor](https://www.appveyor.com/docs/status-badges/)
 A Project status badge is a dynamically generated image displaying the status of the last build. You can put a status badge on the home page of your GitHub project or intranet portal:
 
 📍 For example :
-<br/>
-<br/>
-<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Grunt status"> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&amp;passingText=master%20-%20OK" alt="Project Badge">
+<p align="center">
+  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Grunt status">
+  <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&amp;passingText=master%20-%20OK" alt="Project Badge">
+</p>
 
-#### 12 . [For The Badge](https://github.com/BraveUX/for-the-badge)
-
+### 12 . [For The Badge](https://github.com/BraveUX/for-the-badge)
 Badges for badges' sake.
 
 📍 For example :
-<br/>
-<br/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
-<img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
+  <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
+</p>
 
-#### 13 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
-
+### 13 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
 Do you use Grunt in a project and want to proudly display that in your project README or on your project website? Now you can with the "Built with Grunt" badge!
 
 📍 For example :
+<p align="center">
+  <img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt">
+  <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
+</p>
 
-<img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
-
-#### 14 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
-
-create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
+### 14 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
+Create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
 
 📍 For example :
+<p align="center">
+  <img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
+</p>
 
-<img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
-
-#### 15 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
-
+### 15 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
 Github Action to update the badges of your Readme to show your current Advent of Code stats
 
 📍 For example :
+<p align="center">
+  <img src="https://camo.githubusercontent.com/81d3f35e8f7e0a24cbb896841193ade79bd816cc9219ba392c77b660cfca880e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6461792532302546302539462539332538352d32322d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/day%20%F0%9F%93%85-22-blue" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/b3ca9d063d391ea4c001bfc4b8b7a51a71db7526b89eaab26daefb364a958538/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746172732532302545322541442539302d33342d79656c6c6f77" alt="" data-canonical-src="https://img.shields.io/badge/stars%20%E2%AD%90-34-yellow" style="max-width: 100%;">
+</p>
 
-<img src="https://camo.githubusercontent.com/81d3f35e8f7e0a24cbb896841193ade79bd816cc9219ba392c77b660cfca880e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6461792532302546302539462539332538352d32322d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/day%20%F0%9F%93%85-22-blue" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/b3ca9d063d391ea4c001bfc4b8b7a51a71db7526b89eaab26daefb364a958538/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746172732532302545322541442539302d33342d79656c6c6f77" alt="" data-canonical-src="https://img.shields.io/badge/stars%20%E2%AD%90-34-yellow" style="max-width: 100%;">
-
-#### 16 . [Github Badges](https://github.com/eugustavo/github-badges)
-
+### 16 . [Github Badges](https://github.com/eugustavo/github-badges)
 Application made to create badges for your readme 📑
 
 📍 For example :
+<p align="center">
+  <img width=720 alt="GithubBadges" src="https://camo.githubusercontent.com/993ae7410b1c4df31b29daab1488dbc1b5f4eda058a98b6bfa630fcb79811e87/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
+</p>
 
-<img alt="GithubBadges" src="https://camo.githubusercontent.com/993ae7410b1c4df31b29daab1488dbc1b5f4eda058a98b6bfa630fcb79811e87/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
-
-#### 17 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
-
+### 17 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
 Add to your GitHub readme a badge that shows your Discord username and presence!
 
 📍 For example :
+<p align="center">
+  <img src="https://camo.githubusercontent.com/825160e787748eb0e8d83afcb14b7d79b659e76b84f9eadfa4800104e454540a/68747470733a2f2f646362616467652e6c696d65732e70696e6b2f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.limes.pink/api/shield/852977967776399400?bot=true" style="max-width: 100%;">
+</p>
 
-<img src="https://camo.githubusercontent.com/825160e787748eb0e8d83afcb14b7d79b659e76b84f9eadfa4800104e454540a/68747470733a2f2f646362616467652e6c696d65732e70696e6b2f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.limes.pink/api/shield/852977967776399400?bot=true" style="max-width: 100%;">
-
-#### 18 . [simple badges](https://github.com/developStorm/simple-badges)
-
+### 18 . [simple badges](https://github.com/developStorm/simple-badges)
 Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 
 📍 For example :
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=fff&style=flat-square" alt="Iconify Badge">
+  <img src="https://img.shields.io/badge/FIFA-326295?logo=fifa&logoColor=fff&style=plastic" alt="FIFA Badge">
+</p>
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Iconify Badge](https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=fff&style=flat-square) ![FIFA Badge](https://img.shields.io/badge/FIFA-326295?logo=fifa&logoColor=fff&style=plastic)
-
-#### 19 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-
+### 19 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 Clean badges for your GitHub Profile Readme
 
 📍 For example :
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+</p>
 
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-
-#### 20 . [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
-
+### 20 . [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
 Allows users to more easily use Octicons and their own icons and logos in shields.io badges
 
 📍 For example :
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star" alt="GitHub stars" />
+  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue" alt="GitHub open issues" />
+  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law" alt="GitHub license" />
+  <img src="https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white" alt="GitHub build status" />
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white" alt="GitHub last commit" />
+  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" alt="Total contributions" />
+</p>
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)
-[![open issues](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)
-[![license](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)
-[![build](https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white)](https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white)
-[![last commit](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white)](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white)
-[![total contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson)](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson)
-
-#### 21 . [pepy](https://github.com/psincraian/pepy)
-
+### 21 . [pepy](https://github.com/psincraian/pepy)
 pepy is a site to get statistics information about any Python package
 
 📍 For example :
+<p align="center">
+  <a href="https://pepy.tech/project/django-audio-validator">
+    <img src="https://pepy.tech/badge/django-audio-validator" alt="Downloads">
+  </a>
+</p>
 
-[![Downloads](https://pepy.tech/badge/django-audio-validator)](https://pepy.tech/project/django-audio-validator)
-
-#### 22 . [Version Badge](https://badge.fury.io/)
-
+### 22 . [Version Badge](https://badge.fury.io/)
 Once the package owner adds this badge to their README file, it will inform and link all visitors to the latest version of that package.
 
 📍 For example :
+<p align="center">
+  <a href="https://badge.fury.io/py/django-audio-validator">
+    <img src="https://badge.fury.io/py/django-audio-validator.svg" alt="PyPI version">
+  </a>
+</p>
 
-[![PyPI version](https://badge.fury.io/py/django-audio-validator.svg)](https://badge.fury.io/py/django-audio-validator)
-
-#### 23 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
-
+### 23 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
 [Peerlist](https://peerlist.io/) is a community of working professionals focused on building a personal brand, sharing professional content, and finding peers to collaborate with. A [Peerlist profile](https://peerlist.io/vinitshahdeo) can be used as a simple resume or a complete portfolio to showcase your work. You can style your profile `README.md` with an awesome Peerlist markdown badge.
 
 📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/FuseFairy/1ac5accf1eb6e6e60db4208b6ed321ac/raw/3d2656abe18b0265ccc5f3fdef40b0f79b17b539/Peerlist.svg" alt="Peerlist">
+</p>
 
-![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)
-
-#### 24 . [hits](https://github.com/silentsoft/hits)
-
+### 24 . [hits](https://github.com/silentsoft/hits)
 📈 Hit Counter for Your GitHub or Any Kind of Websites You Want. 
 
 📍 For example :
+<p align="center">
+  <img src="https://hits.sh/github.com/rzashakeri/beautify-github-profile.svg" alt="Hits">
+</p>
 
-[![Hits](https://hits.sh/github.com/rzashakeri/beautify-github-profile.svg)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
-
-#### 25 . [gradient badge](https://github.com/bokub/gradient-badge)
-
+### 25 . [gradient badge](https://github.com/bokub/gradient-badge)
 🍭 Badge generator with color gradient support
 
 📍 For example :
+<p align="center">
+  <img src="https://gradgen.bokub.workers.dev/npm/v/gradient-badge?gradient=b65cff,11cbfa" alt="npm">
+  <img src="https://gradgen.bokub.workers.dev/badge/demo/available?gradient=ffb836,fc6d60" alt="demo">
+  <img src="https://gradgen.bokub.workers.dev/badge/code%20style/prettier?gradient=ff94c8,cacfda,61eddb" alt="prettier">
+  <img src="https://gradgen.bokub.workers.dev/github/checks/bokub/gradient-badge?gradient=ff9eec,d0a1fc" alt="build">
+</p>
 
-[![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
-
-#### 26 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
-
+### 26 . [Topmate Profile Badge (may no longer work)](https://github.com/vinitshahdeo/topmate-readme-badge)
 Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
 
-📍 For example :
-
-[![Topmate](https://topmate-readme-badge.herokuapp.com/vinitshahdeo)](https://topmate.io/vinitshahdeo)
-
-#### 27 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
+### 27 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
 
 Track your GitHub profile views and analyze statistics.
 
 📍 For example :
+<p align="center">
+  <img src="https://u8views.com/api/v1/github/profiles/159557098/views/day-week-month-total-count.svg" alt="Demo">
+  <br>
+  <a href="https://u8views.com/github/YaroslavPodorvanov">
+    <img width=720 src="https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true" alt="YaroslavPodorvanov">
+  </a>
+</p>
 
-![Demo](https://u8views.com/api/v1/github/profiles/159557098/views/day-week-month-total-count.svg)
-
-[![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov)
-
-#### 28 . [m3-Markdown-Badges ](https://github.com/ziadOUA/m3-Markdown-Badges)
-
+### 28 . [m3-Markdown-Badges ](https://github.com/ziadOUA/m3-Markdown-Badges)
 🏅 A Material You inspired markdown badge collection.
 
 📍 For example :
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="Demo1">
+  <img src="https://m3-markdown-badges.vercel.app/stars/1/3/rzashakeri/beautify-github-profile" alt="Demo2">
+</p>
 
-![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![Demo](https://m3-markdown-badges.vercel.app/stars/1/3/rzashakeri/beautify-github-profile) 
-
-#### 29 . [Badgen](https://github.com/badgen/badgen.net)
-
+### 29 . [Badgen](https://github.com/badgen/badgen.net)
 Fast badge generating service
 
 📍 For example :
+<p align="center">
+  <img src="https://badgen.net/crates/v/regex" alt="Demo1">
+  <img src="https://badgen.net/crates/d/regex" alt="Demo2">
+  <img src="https://badgen.net/crates/dl/regex" alt="Demo3">
+</p>
 
-![Demo](https://badgen.net/crates/v/regex) ![Demo](https://badgen.net/crates/d/regex)
-![Demo](https://badgen.net/crates/dl/regex)
-
-#### 30 . [Stardev](https://stardev.io/)
-
+### 30 . [Stardev](https://stardev.io/)
 Stardev ranks every GitHub user and repository by language and location. You can get a HTML or Markdown badge that shows your global rank across all languages and your top languages by star count.
 
 📍 For example :
-
-[![Check out oliyh's profile on stardev.io](https://stardev.io/developers/oliyh/badge/languages/global.svg)](https://stardev.io/developers/oliyh)
+<p align="center">
+  <a href="https://stardev.io/developers/oliyh">
+    <img src="https://stardev.io/developers/oliyh/badge/languages/global.svg" alt="Check out oliyh's profile on stardev.io">
+  </a>
+</p>
 
 ---
 
