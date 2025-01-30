@@ -25,11 +25,9 @@
 ---
 
 # Hello friends 🖐️
-
 How are you? If you want to make the look of your github profile more beautiful, you have come to the right place.
 
 # 📖 Table of Contents
-
 - [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
 - [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
 - [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
@@ -41,7 +39,6 @@ How are you? If you want to make the look of your github profile more beautiful,
 - [Give A Star ⭐](#give-a-star-)
 
 # 📌 The first step : Set up the GitHub Repository
-
 Create a repository with your GitHub username 👇
 
 <img src="name.png">
@@ -365,7 +362,7 @@ Stardev ranks every GitHub user and repository by language and location. You can
 
 ## 🛠️ Widgets 👇
 <details>
- <summary><strong>Click to expand list</strong></summary>
+ <summary><strong>Click to expand list (1~50)</strong></summary>
   
 #### 1 . [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme)
 
@@ -1266,6 +1263,11 @@ Show npm packages downloads ⏬ in GitHub README
 </tbody>
 </table>
 
+</details>
+
+<details>
+ <summary><strong>Click to expand list (51~)</strong></summary>
+  
 #### 51 . [Github Contribution Stats](https://github.com/LordDashMe/github-contribution-stats)
 
 Dynamically generated Github Contribution Stats. 📈 📆
