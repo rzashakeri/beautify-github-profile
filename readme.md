@@ -57,7 +57,9 @@ You must have been asked which profiles to get ideas from? You can see the profi
 Well, so far you have been able to find cool ideas from the profiles of different people. Now it's time to use different tools to beautify your github profile, which you can access from the list below.
 
 ## 🧩 Badges 👇
-
+<details>
+ <summary><strong>Click to expand list</strong></summary>
+  
 #### 1 . [List of Badges, in Markdown](https://github.com/Naereen/badges)
 
 A list of badges and cards, with their Markdown code, that can be included in a README.md file for a GitHub
@@ -317,8 +319,12 @@ Stardev ranks every GitHub user and repository by language and location. You can
 
 ---
 
-## 🛠️ Widgets 👇
+</details>
 
+## 🛠️ Widgets 👇
+<details>
+ <summary><strong>Click to expand list</strong></summary>
+  
 #### 1 . [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme)
 
 Updates README with Todoist Stats of a user
@@ -1548,7 +1554,11 @@ BentoHub is an app where you can create a bento grid and copy-paste the html or 
 
 ![Zhuang's Repo Traffic Stats](https://raw.githubusercontent.com/gist/FuseFairy/c7f619079a91afedbf4e949977fa2df4/raw/e868d3bc96ce8755d7f8beb1130e5d7579c9e2c0/demo-traffic.svg)
 
+</details>
+  
 ## ✅ Icons 👇
+<details>
+ <summary><strong>Click to expand list</strong></summary>
 
 #### 1 . [Simple Icons](https://simpleicons.org/)
 
@@ -1589,7 +1599,11 @@ Showcase your skills on your Github readme or resumé with ease ✨
 
 ---
 
+</details>
+
 ## ⚙️ Profile Generator 👇
+<details>
+ <summary><strong>Click to expand list</strong></summary>
 
 #### 1 . [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)
 
@@ -1675,8 +1689,11 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 
 ---
 
-
+</details>
+  
 ## 😉 Emojis
+<details>
+ <summary><strong>Click to expand list</strong></summary>
 
 #### 1 . [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
 
@@ -1700,7 +1717,7 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
-
+</details>
 
 ### If you like, you can also help me develop this repository so that from now on we have more beautiful github profiles 💙
 
