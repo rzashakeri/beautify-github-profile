@@ -1495,87 +1495,77 @@ Showcase your skills on your Github readme or resumé with ease ✨
 <details>
  <summary><strong>Click to expand list</strong></summary>
 
-#### 1 . [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)
-
+### 1 . [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)
 🎨 Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way 🚀 The best profile readme generator you will find ⚡ 
 
-📍 For example : &nbsp; <br>
+📍 For example :
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7b4c1ded34735535305ebd0bb3b9b1989b3f62cb476d768ae799dadf2b1cb323/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f6170702e706e67" width="720" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;">
+</p>
 
-<img src="https://camo.githubusercontent.com/7b4c1ded34735535305ebd0bb3b9b1989b3f62cb476d768ae799dadf2b1cb323/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f6170702e706e67" width="900" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;">
-
-
-#### 2 . [Profileme Dev](https://github.com/danielcranney/profileme-dev)
-
+### 2 . [Profileme Dev](https://github.com/danielcranney/profileme-dev)
 Create an awesome GitHub profile in minutes 
 
-📍 For example : &nbsp; <br>
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/screenshot.png" class="overflow-hidden rounded-md shadow-dark-900/5" alt="Screenshot of ProfileMe.dev" width=720>
+</p>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/screenshot.png" class="overflow-hidden rounded-md shadow-dark-900/5" alt="Screenshot of ProfileMe.dev" width="100%">
-
-
-#### 3 . [readme md generator](https://github.com/kefranabg/readme-md-generator)
-
+### 3 . [readme md generator](https://github.com/kefranabg/readme-md-generator)
 📄 CLI that generates beautiful README.md files
 
 📍 For example :
+<p align="center">
+  <img width=720 src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="readme md generator">
+</p>
 
-<img src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="readme md generator">
-
-#### 4 . [Github Profile Readme Creator](https://github.com/rajk3770/Github-Profile-Readme-Creator)
-
+### 4 . [Github Profile Readme Creator](https://github.com/rajk3770/Github-Profile-Readme-Creator)
 Generate user-friendly, intuitive and dynamic markdown for your profile README, in less than a minute!
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/raw/master/screenshots/Demo.gif" alt="Demo" style="max-width: 100%;">
+</p>
 
-<img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/raw/master/screenshots/Demo.gif" alt="Demo" style="max-width: 100%;">
-
-#### 5 . [Github Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
-
+### 5 . [Github Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
-📍 For example : &nbsp;
-
+📍 For example : <br>
 <img src="https://github.com/VishwaGauravIn/Images/raw/main/screencapture-gprm.png?raw=true" alt="" style="max-width: 100%;">
 
-
-#### 6 . [github Profile Readme Generator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator)
-
+### 6 . [github Profile Readme Generator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator)
 Generate a cool README/About me page for your Github Profile
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img width=720 src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/screencast_ghub_profile_gen_v1.gif" alt="Screencast of Github AboutMe/Profile ReadMe Generator" title="Go to web app" >
+</p>
 
-<img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/screencast_ghub_profile_gen_v1.gif" alt="Screencast of Github AboutMe/Profile ReadMe Generator" title="Go to web app" style="max-width: 100%;">
-
-
-#### 7 . [Github Profilinator](https://github.com/rishavanand/github-profilinator)
-
+### 7 . [Github Profilinator](https://github.com/rishavanand/github-profilinator)
 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishavanand/github-profilinator/master/src/images/demo.gif" alt="Github Profilinator">
+</p>
 
-<img src="https://raw.githubusercontent.com/rishavanand/github-profilinator/master/src/images/demo.gif" style="width: 80%; max-width: 100%;">
 
-
-#### 8 . [Github Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
-
+### 8 . [Github Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img width=720 src="https://camo.githubusercontent.com/8aa60ecdb02b91d9912b79245dd79eee4013b917a39a2400da7db31f30647a48/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f6769662e6769663f763d313233" alt="Github readme generator" data-canonical-src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123">
+</p>
 
-<img src="https://camo.githubusercontent.com/8aa60ecdb02b91d9912b79245dd79eee4013b917a39a2400da7db31f30647a48/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f6769662e6769663f763d313233" alt="Github readme generator" data-canonical-src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123" style="max-width: 100%;">
 
-
-#### 9 . [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
-
+### 9 . [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-<br/>
 
-📍 For example : &nbsp;
-<br/>
-
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif">
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif">
+</p>
 
 ---
 
@@ -1585,27 +1575,22 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 <details>
  <summary><strong>Click to expand list</strong></summary>
 
-#### 1 . [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
-
+### 1 . [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
 🔥 All the emojis 🎉 
-<br/>
 
-#### 2 . [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
-
+### 2 . [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
  All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file. 
-<br/>
 
-📍 For example : &nbsp;
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
-/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+📍 For example :
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+    alt="Cat with Tears of Joy"
+    width="25"
+    height="25"
+  />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+</p>
 
 </details>
 
