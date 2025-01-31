@@ -11,9 +11,11 @@
     <img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
   </a>
 </p>
-<p align="center">
 
-[![Persian - Mode](https://img.shields.io/static/v1?label=View Translation&message=Persian&color=blue&logo=github)](readme-fa.md)
+<p align="center">
+   
+   [![view - Persian Translation](https://img.shields.io/badge/Persian-Trasnation-Green?style=for-the-badge)](readme-fa.md "Go to Persian Toturial")
+  ---
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square">
@@ -23,6 +25,8 @@
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
 </p>
+
+
 
 ---
 
