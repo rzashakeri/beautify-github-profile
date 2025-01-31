@@ -627,7 +627,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
   </tr>
   <tr>
     <th colspan="2" align="center">
-      <h3 dir="auto"><a id="user-content--customizable-with-40-plugins-and-258-options" class="anchor" aria-hidden="true" href="#-customizable-with-40-plugins-and-258-options"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://github.com/lowlighter/metrics/blob/master/README.md#-plugins"><g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> Customizable with 40 plugins and 258 options!</a></h3>
+      <a id="user-content--customizable-with-40-plugins-and-258-options" class="anchor" aria-hidden="true" href="#-customizable-with-40-plugins-and-258-options"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://github.com/lowlighter/metrics/blob/master/README.md#-plugins"><g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> Customizable with 40 plugins and 258 options!</a>
     </th>
   </tr>
   <tr>
@@ -911,7 +911,7 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
   </tr>
   <tr>
     <th colspan="2" align="center">
-      <h3 dir="auto"><a id="user-content-️-and-even-more-with-4-templates" class="anchor" aria-hidden="true" href="#️-and-even-more-with-4-templates"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://github.com/lowlighter/metrics/blob/master/README.md#%EF%B8%8F-templates"><g-emoji class="g-emoji" alias="framed_picture" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png">🖼️</g-emoji> And even more with 4+ templates!</a></h3>
+      <a id="user-content-️-and-even-more-with-4-templates" class="anchor" aria-hidden="true" href="#️-and-even-more-with-4-templates"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://github.com/lowlighter/metrics/blob/master/README.md#%EF%B8%8F-templates"><g-emoji class="g-emoji" alias="framed_picture" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png">🖼️</g-emoji> And even more with 4+ templates!</a>
     </th>
   </tr>
   <tr>
@@ -1456,42 +1456,36 @@ BentoHub is an app where you can create a bento grid and copy-paste the html or 
 <details>
  <summary><strong>Click to expand list</strong></summary>
 
-#### 1 . [Simple Icons](https://simpleicons.org/)
-
-
-
+### 1 . [Simple Icons](https://simpleicons.org/)
 2246 Free SVG icons for popular brands
-<br/>
 
-📍 For example : &nbsp;
-<br/>
+📍 For example :
+<p align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+</p>
 
-<svg role="img" width=50 viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M10.51,10.013V7.299c0-0.306,0.248-0.554,0.554-0.554h1.911c0.306,0,0.554,0.248,0.554,0.554v4.968 c0,0.076-0.038,0.134-0.076,0.191l-0.478,0.478c-0.115,0.115-0.115,0.287,0,0.382l0.478,0.478c0.057,0.057,0.076,0.115,0.076,0.191 v2.713c0,0.306-0.248,0.554-0.554,0.554h-1.911c-0.306,0-0.554-0.248-0.554-0.554v-4.968c0-0.076,0.038-0.134,0.076-0.191 l0.478-0.478c0.115-0.115,0.115-0.287,0-0.382l-0.478-0.478C10.529,10.146,10.51,10.089,10.51,10.013z M19.127,12 c0-3.936-3.191-7.127-7.127-7.127S4.873,8.064,4.873,12S8.064,19.127,12,19.127S19.127,15.936,19.127,12z M21.382,12 c0,5.178-4.204,9.363-9.363,9.363c-5.178,0-9.363-4.204-9.363-9.363c0-5.178,4.204-9.363,9.363-9.363 C17.178,2.637,21.382,6.822,21.382,12z M0.764,12c0,6.21,5.025,11.236,11.236,11.236S23.236,18.21,23.236,12S18.21,0.764,12,0.764 S0.764,5.79,0.764,12z M0,12C0,5.369,5.369,0,12,0c6.631,0,12,5.369,12,12s-5.369,12-12,12S0,18.631,0,12z"/></svg> &nbsp; <svg role="img" width=50 viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.964 0L.672 3.974l1.784 14.794L11.976 24l9.568-5.303 1.784-14.794zm-.027 1.258l10.265 3.5-1.663 13.232-8.602 4.76-8.469-4.697L1.939 4.822zm0 .78L4.957 17.57l2.604-.048 1.4-3.501h6.257l1.532 3.55 2.492.046zm.02 4.98l2.355 4.93H9.878Z"/></svg>
-<br/>
-<br/>
-
-#### 2 . [Skill Icons](https://github.com/tandpfun/skill-icons)
-
+### 2 . [Skill Icons](https://github.com/tandpfun/skill-icons)
 Showcase your skills on your Github readme or resumé with ease ✨
-<br/>
 
-📍 For example : &nbsp;
-<br/>
+📍 For example : <br>
+<img src="https://skillicons.dev/icons?i=all" alt="Skill Icons">
 
-<img src="https://skillicons.dev/icons?i=all">
+### 3 . [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons)
+📋 😄 Add icons to your GitHub profile using this generator 😄 📋 
 
-
-<br/>
-
-#### 3 . [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons)
-
- 📋 😄 Add icons to your GitHub profile using this generator 😄 📋 
-<br/>
-
-📍 For example : &nbsp;
-
-
-<img src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+📍 For example :
+<p align="center">
+  <img width=720 src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" data-target="animated-image.originalImage" alt="Profile Technology Icons">
+</p>
 
 ---
 
