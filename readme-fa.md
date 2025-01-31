@@ -359,7 +359,7 @@ Stardev هر کاربر و مخزن گیت‌هاب را بر اساس زبان 
 
 # 🛠️ ویجت‌ها 👇
 <details>
- <summary><strong>برای گشودن فهرست کلیک کنید (1~50)</strong></summary>
+ <summary><strong>برای باز کردن فهرست کلیک کنی د (1~50)</strong></summary>
   
 ### 1 . [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme)  
 بروزرسانی README با آمار Todoist یک کاربر
