@@ -14,8 +14,9 @@
 
 <p align="center">
    
-   [![view - Persian Translation](https://img.shields.io/badge/Persian-Trasnation-Green?style=for-the-badge)](readme-fa.md "Go to Persian Toturial")
-  ---
+<img alt="Static Badge" src="https://img.shields.io/badge/persian-translation-blue?style=flat-square&link=https%3A%2F%2Fgithub.com%2Frzashakeri%2Fbeautify-github-profile%2Fblob%2Fmaster%2Freadme-fa.md">
+
+   
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square">
