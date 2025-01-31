@@ -1432,42 +1432,42 @@ Moon.svg فاز فعلی ماه را به صورت لحظه‌ای نمایش م
   <img src="https://subreddit-memes.vercel.app/api/meme" width="350px" alt="Subreddit Memes" />  
 </p>  
 
-### 80 . [GitHub Stats](https://github.com/hyochan/github-stats)
-Github readme stats in multi angles.
+### 80. [آمار گیت‌هاب](https://github.com/hyochan/github-stats)  
+آمار گیت‌هاب برای README از چندین زاویه مختلف.
 
-📍 For example :
-<p align="center">
-  <img width=720 src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" alt="hyochan github-stats"><br>
-  <img width=720 src="https://stats.dooboo.io/api/github-trophies?login=hyochan" alt="hyochan github-trophies">
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <img width="720" src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" alt="آمار گیت‌هاب hyochan"><br>  
+  <img width="720" src="https://stats.dooboo.io/api/github-trophies?login=hyochan" alt="جوایز گیت‌هاب hyochan">  
+</p>  
 
-### 81 . [GitHub Repository Contribution Stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
-Get dynamically generated your github repository contribution stats on your READMEs!
+### 81. [آمار مشارکت در مخزن گیت‌هاب](https://github.com/HwangTaehyun/github-repository-contribution-stats)  
+آمار مشارکت در مخزن گیت‌هاب شما به‌طور داینامیک در README شما نمایش داده می‌شود!
 
-📍 For example :
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HwangTaehyun" alt="Taehyun's GitHub Repository Contribution stats">
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://github-contributor-stats.vercel.app/api?username=HwangTaehyun" alt="آمار مشارکت در مخزن گیت‌هاب Taehyun">  
+</p>  
 
-### 82 . [Code Statistic](https://github.com/zmh-program/code-statistic)
-Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
+### 82. [آمار کد](https://github.com/zmh-program/code-statistic)  
+کارت آمار گیت‌هاب خود را به‌طور داینامیک تولید کنید! کارت کاربر برای شمارش زبان‌های پروژه‌های مختلف تحت یک کاربر و تولید آمار، محاسبه تعداد ستاره‌های کسب‌شده، فورک‌ها، دنبال‌کنندگان، تماشاگران، تعداد مسائل باز و غیره استفاده می‌شود.
 
-### 83 . [Bentohub](https://github.com/amittam104/BentoHub)
-BentoHub is an app where you can create a bento grid and copy-paste the html or markdown code on to your github profile readme.
+### 83. [BentoHub](https://github.com/amittam104/BentoHub)  
+BentoHub یک برنامه است که به شما این امکان را می‌دهد که یک گرید Bento ایجاد کنید و کد HTML یا مارک‌داون آن را در پروفایل گیت‌هاب خود قرار دهید.
 
-📍 For example :
-<p align="center">
-  <a href="https://bentohub.netlify.app/">
-    <img width=720 src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c" alt="BentoHub grid image">
-  </a>
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <a href="https://bentohub.netlify.app/">  
+    <img width="720" src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c" alt="تصویر گرید BentoHub">  
+  </a>  
+</p>  
 
-### 85 . [github-profile-repo-analytics](https://github.com/FuseFairy/github-profile-repo-analytics)
-📊 GitHub repository traffic stats are automatically fetched and visualized as customizable SVG charts via GitHub Actions workflows, making it easy to embed the generated charts in your GitHub profile. 
+### 85. [آمار ترافیک مخزن گیت‌هاب](https://github.com/FuseFairy/github-profile-repo-analytics)  
+📊 آمار ترافیک مخزن گیت‌هاب به‌طور خودکار گرفته و به‌صورت نمودارهای قابل تنظیم SVG از طریق GitHub Actions تجزیه و تحلیل می‌شود، که این امکان را می‌دهد تا نمودارهای تولید شده را به راحتی در پروفایل گیت‌هاب خود وارد کنید.
 
-📍 For example :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/FuseFairy/c7f619079a91afedbf4e949977fa2df4/raw/e868d3bc96ce8755d7f8beb1130e5d7579c9e2c0/demo-traffic.svg" alt="Zhuang's Repo Traffic Stats">
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/gist/FuseFairy/c7f619079a91afedbf4e949977fa2df4/raw/e868d3bc96ce8755d7f8beb1130e5d7579c9e2c0/demo-traffic.svg" alt="آمار ترافیک مخزن Zhuang">  
 </p>
 
 ---
