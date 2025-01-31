@@ -943,10 +943,10 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
 </tbody></table>
 
 
-### ۳۲ . [Action Devcard](https://github.com/dailydotdev/action-devcard)
+### 32 . [Action Devcard](https://github.com/dailydotdev/action-devcard)
 اکشن GitHub برای دانلود کارت توسعه‌دهنده از https://daily.dev
 
-### ۳۳ . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
+### 33 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
 Pimp my README یک سازنده پروفایل منبع باز است که می‌توانید از آن برای افزودن اجزای جالب به پروفایل README خود استفاده کنید - ساخته شده با <3 توسط webapp.io :)
 
 📍 به عنوان مثال:
@@ -958,7 +958,7 @@ Pimp my README یک سازنده پروفایل منبع باز است که می
   </a>
 </p>
 
-### ۳۴ . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
+### 34 . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
 تولید یک تصویر از تمام مشارکت‌های شما در GitHub
 
 📍 به عنوان مثال:
@@ -966,7 +966,7 @@ Pimp my README یک سازنده پروفایل منبع باز است که می
   <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676" alt="تولید کننده نمودار مشارکت‌های GitHub">
 </p>
 
-### ۳۵ . [Wrapped](https://github.com/neat-run/wrapped)
+### 35 . [Wrapped](https://github.com/neat-run/wrapped)
 GitHub Wrapped، الهام گرفته از Spotify Wrapped
 
 📍 به عنوان مثال:
@@ -974,7 +974,7 @@ GitHub Wrapped، الهام گرفته از Spotify Wrapped
   <img src="wrapped.png" style="max-width: 100%;" max-width="100%" alt="Wrapped">
 </p>
 
-### ۳۶ . [GitHub Spray](https://github.com/Annihil/github-spray)
+### 36 . [GitHub Spray](https://github.com/Annihil/github-spray)
 رنگ آمیزی روی نمودار مشارکت‌های GitHub ░▒▓█
 
 📍 به عنوان مثال: 
@@ -983,7 +983,7 @@ GitHub Wrapped، الهام گرفته از Spotify Wrapped
   <img src="https://camo.githubusercontent.com/f7037efcd0460ea9248915d9c3f9a37c9677541bb0db1dfe58e5152be030877c/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" height="200" alt="لوگوی GitHub Spray" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
-### ۳۷ . [Github Trends](https://github.com/avgupta456/github-trends)
+### 37 . [Github Trends](https://github.com/avgupta456/github-trends)
 پروفایل GitHub خود را با کارت‌های قابل تنظیم شامل آمار LOC بهبود دهید!
 
 📍 به عنوان مثال:
@@ -991,7 +991,7 @@ GitHub Wrapped، الهام گرفته از Spotify Wrapped
   <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="تصویر" width=720>
 </p>
 
-### ۳۸ . [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
+### 38 . [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
 تولید کننده نقل قول پویا برای READMEهای GitHub | برای READMEها یک لمس شاعرانه به ارمغان بیاورید
 
 📍 به عنوان مثال:
@@ -999,7 +999,7 @@ GitHub Wrapped، الهام گرفته از Spotify Wrapped
   <img src="https://camo.githubusercontent.com/0ebb5d745e06cb5d53a127e7161b387ce7f71c155359689436bdf404ca53b7fa/68747470733a2f2f6769746875622d726561646d652d71756f7465732d6261792e76657263656c2e6170702f71756f74653f7468656d653d6461726b" alt="نقل قول" data-canonical-src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" style="max-width: 100%;">
 </p>
 
-### ۳۹ . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
+### 39 . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
 نمایش آهنگ‌های اخیراً پخش شده در Spotify خود در README پروفایل GitHub.
 
 📍 به عنوان مثال:
@@ -1007,7 +1007,7 @@ GitHub Wrapped، الهام گرفته از Spotify Wrapped
   <img src="https://camo.githubusercontent.com/c57c063791b1c3fb245e5fb5c23d99c950ccb3a442b7f18d68e118379a8bd20c/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d6a65666672657963613136" alt="Spotify recently played" data-canonical-src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" style="max-width: 100%;">
 </p>
 
-### ۴۰ . [Github Readme Info](https://github.com/th3c0d3br34ker/github-readme-info)
+### 40 . [Github Readme Info](https://github.com/th3c0d3br34ker/github-readme-info)
 این اکشن GitHub به شما کمک می‌کند تا آمار جالبی را به README پروفایل GitHub خود اضافه کنید.
 
 📍 به عنوان مثال:
