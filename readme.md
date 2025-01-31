@@ -14,7 +14,10 @@
 
 <p align="center">
    
-<img alt="Static Badge" src="https://img.shields.io/badge/persian-translation-blue?style=flat-square&link=%2Freadme-fa.md">
+
+
+<a href="readme-fa.md"><img alt="Static Badge" src="https://img.shields.io/badge/persian-translation-blue?style=flat-square"></a>
+
 
    
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square">
