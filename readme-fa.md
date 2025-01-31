@@ -342,9 +342,10 @@ Topmate یک پلتفرم برای ارتباط 1:1 با مخاطبان و به�
   <img src="https://badgen.net/crates/dl/regex" alt="Demo3">
 </p>
 
-### 30 . [Stardev](https://stardev.io/)  
+### 30. [Stardev](https://stardev.io/)  
+<p align="right">
 Stardev هر کاربر و مخزن گیت‌هاب را بر اساس زبان و موقعیت جغرافیایی رتبه‌بندی می‌کند. شما می‌توانید یک نشان HTML یا Markdown دریافت کنید که رتبه جهانی شما در تمام زبان‌ها و زبان‌های برترتان از نظر تعداد ستاره‌ها را نشان می‌دهد.
-
+</p>
 📍 برای مثال:
 <p align="center">
   <a href="https://stardev.io/developers/oliyh">
@@ -355,81 +356,80 @@ Stardev هر کاربر و مخزن گیت‌هاب را بر اساس زبان 
 
 </details>
 
-## 🛠️ Widgets 👇
-<details>
- <summary><strong>Click to expand list (1~50)</strong></summary>
-  
-### 1 . [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme)
-Updates README with Todoist Stats of a user
 
-📍 For example :
+# 🛠️ ویجت‌ها 👇
+<details>
+ <summary><strong>برای گشودن فهرست کلیک کنید (1~50)</strong></summary>
+  
+### 1 . [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme)  
+بروزرسانی README با آمار Todoist یک کاربر
+
+📍 به عنوان مثال :
 <p align="center">
   <img src="todoist-stat.png/" width=400 alt="Todoist Readme">
 </p>
 
-### 2 . [github readme stats](https://github.com/anuraghazra/github-readme-stats)
-Dynamically generated stats for your github readmes
+### 2 . [github readme stats](https://github.com/anuraghazra/github-readme-stats)  
+آمار تولید شده به صورت دینامیک برای READMEهای گیت‌هاب شما
 
-📍 For example :
+📍 به عنوان مثال :
 <p align="center">
   <img src="https://camo.githubusercontent.com/166adcf892a44c18c2ec02b4a1407de460cd2d3acc2e3e758551d75960fc04cc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67" alt="GitHub Readme Stats Themes" data-canonical-src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" style="max-width: 100%;" width=400>
   <img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" style="max-width: 100%;" width=400>
 </p>
 
-### 3 . [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+### 3 . [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)  
+محرک بمانید و زنجیره‌های مشارکت خود را به نمایش بگذارید! 🌟 مجموع مشارکت‌ها، زنجیره فعلی و طولانی‌ترین زنجیره خود را در README پروفایل گیت‌هاب نمایش دهید.
 
-📍 For example :
+📍 به عنوان مثال :
 <p align="center">
   <img src="https://camo.githubusercontent.com/71f09e679332b2850c04d371db60863647f9be8b2bf207d9bb3d3aed57c9033f/68747470733a2f2f692e696d6775722e636f6d2f496154755964532e706e67" alt="default" data-canonical-src="https://i.imgur.com/IaTuYdS.png" style="max-width: 100%;" width=400>
 </p>
 
-### 4 . [waka readme](https://github.com/athul/waka-readme)
-Wakatime Weekly Metrics on your Profile Readme.
+### 4 . [waka readme](https://github.com/athul/waka-readme)  
+آمار هفتگی Wakatime در README پروفایل شما.
 
-📍 For example :
+📍 به عنوان مثال :
 <p align="center">
   <img src="https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png" alt="Project Preview" width=720>
 </p>
 
-### 5 . [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator)
-Generate custom profile activity for your profile README
+### 5 . [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator)  
+ایجاد فعالیت‌های سفارشی برای README پروفایل شما
 
-📍 For example :
+📍 به عنوان مثال :
 <p align="center">
   <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" style="max-width: 100%;" alt="Profile Activity Generator">
 </p>
 
-### 6 . [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme)
-Updates README with the recent GitHub activity of a user
+### 6. [فعالیت گیت‌هاب در README](https://github.com/jamesgeorge007/github-activity-readme)
+با استفاده از این ابزار، فعالیت‌های اخیر کاربر در گیت‌هاب به README اضافه می‌شود.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img alt="profile-repo" src="https://user-images.githubusercontent.com/25279263/87703301-3aa4a500-c7b8-11ea-8eb6-245121997a7b.png" width=720>
 </p>
 
+### 7. [صفحه پروفایل داینامیک با گیت‌هاب اکشن](https://github.com/umutphp/github-action-dynamic-profile-page/)
+گیت‌هاب اکشنی برای ارسال به‌روزرسانی‌ها به مخزن پروفایل خاص شما.
 
-### 7 . [Github Action Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page/)
-GitHub Action to push updates to your special profile repository.
-
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/umutphp/github-action-dynamic-profile-page/master/assets/github_profile_sample.png" alt="Github Action Dynamic Profile Page">
 </p>
 
-### 8 . [waka readme stats](https://github.com/anmol098/waka-readme-stats)
-This GitHub action helps to add cool dev metrics to your github profile Readme
+### 8. [آمار Waka در README](https://github.com/anmol098/waka-readme-stats)
+این گیت‌هاب اکشن به شما کمک می‌کند تا آمار توسعه‌دهنده جالبی را به README پروفایل گیت‌هاب خود اضافه کنید.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="Project Preview" width=720>
 </p>
 
+### 9. [پروفایل README](https://github.com/actions-js/profile-readme)
+نمایش فعالیت پروفایل و دیگر ویجت‌های جالب در فایل README.md پروفایل شما.
 
-### 9 . [Profile Readme](https://github.com/actions-js/profile-readme)
-Display profile activity and other cool widgets in your profile README.md
-
-📍 For example :
+📍 به عنوان مثال:
 ```
 💪 Opened PR #43 in webview/webview_deno
 ❗️ Closed issue #32 in denosaurs/denon
@@ -438,27 +438,27 @@ Display profile activity and other cool widgets in your profile README.md
 🗣 Commented on #15 in nestdotland/eggs
 ```
 
-### 10 . [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile)
-Show your Spotify playing on your Github profile
+### 10. [پروفایل گیت‌هاب اسپاتیفای](https://github.com/kittinan/spotify-github-profile)
+نمایش آنچه که در اسپاتیفای پخش می‌شود در پروفایل گیت‌هاب شما.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;" alt="novatorem.svg"><br>
   <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" style="max-width: 100%;" alt="spotify-github-profile">
 </p>
 
-### 11 . [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+### 11. [کارکرد بلاگ پست](https://github.com/gautamkrishnar/blog-post-workflow)
+نمایش آخرین پست‌های بلاگ از هر منبعی یا فعالیت‌های StackOverflow یا ویدئوهای یوتیوب به‌طور خودکار در README پروفایل یا پروژه گیت‌هاب شما با استفاده از فید RSS.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png" alt="preview" width=720>
 </p>
 
-### 12 . [Github Readme Medium](https://github.com/omidnikrah/github-readme-medium)
-Dynamically generated your latest Medium article on your GitHub readmes!
+### 12. [مقاله‌های گیت‌هاب از مدیوم](https://github.com/omidnikrah/github-readme-medium)
+مقاله‌های جدید مدیوم شما به‌طور داینامیک در README گیت‌هاب شما تولید می‌شود!
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/4f9c4f9b776c53aad3d107e3d0bb4570754d573245ac9907a1cf71c04bcb8252/68747470733a2f2f6769746875622d726561646d652d6d656469756d2e76657263656c2e6170702f3f757365726e616d653d6f6d69646e696b726168" alt="Omid Nikrah Medium" data-canonical-src="https://github-readme-medium.vercel.app/?username=omidnikrah" style="max-width: 100%;">
 </p>
