@@ -463,90 +463,89 @@ Stardev هر کاربر و مخزن گیت‌هاب را بر اساس زبان 
   <img src="https://camo.githubusercontent.com/4f9c4f9b776c53aad3d107e3d0bb4570754d573245ac9907a1cf71c04bcb8252/68747470733a2f2f6769746875622d726561646d652d6d656469756d2e76657263656c2e6170702f3f757365726e616d653d6f6d69646e696b726168" alt="Omid Nikrah Medium" data-canonical-src="https://github-readme-medium.vercel.app/?username=omidnikrah" style="max-width: 100%;">
 </p>
 
-### 13 . [Github Readme Stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
-Dynamically generated your StackOverflow status on your GitHub READMEs!
+### 13. [گیت‌هاب README استک‌اورفلو](https://github.com/omidnikrah/github-readme-stackoverflow)
+وضعیت استک‌اورفلو شما به‌طور داینامیک در گیت‌هاب README شما نمایش داده می‌شود!
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/79fdba08469306d8fb6cafbbe9fd3024ba636127c15c3031ebb2107e25c77936/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042" style="max-width: 100%;"><br>
   <img src="https://camo.githubusercontent.com/6ef9cbb8e45a780b514149ee7ad39b57b117369a84e0f84dc6e2461ef59b0125/68747470733a2f2f6769746875622d726561646d652d737461636b6f766572666c6f772e76657263656c2e6170702f3f7573657249443d36353538303432266c61796f75743d636f6d70616374" alt="Omid Nikrah StackOverflow" data-canonical-src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&amp;layout=compact" style="max-width: 100%;">
 </p>
 
-### 14 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
-Showcase your github stats on your profile README.md
+### 14. [آمار پروفایل README](https://github.com/teoxoy/profile-readme-stats)
+آمار گیت‌هاب خود را در README پروفایل شما نمایش می‌دهد.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="readme.png" width=720 alt="readme.png">
 </p>
 
-### 15 . [Readme Jokes](https://github.com/ABSphreak/readme-jokes)
-😄 Jokes for your GitHub READMEs
+### 15. [شوخی‌های README](https://github.com/ABSphreak/readme-jokes)
+😄 شوخی‌هایی برای گیت‌هاب README شما
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/9f659e6f3472c938acaec6a1eff134d6bbb54a25ae99fddd539a2f9a21464d26/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f68696465426f72646572" alt="Jokes Card" data-canonical-src="https://readme-jokes.vercel.app/api?hideBorder" style="max-width: 100%;">
 </p>
 
-### 16 . [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-Add dynamically generated GitHub Stat Trophies on your readme
-<br/>
+### 16. [تروفی گیت‌هاب پروفایل](https://github.com/ryo-ma/github-profile-trophy)
+تروفی‌های به‌طور داینامیک تولید شده از آمار گیت‌هاب شما را به README پروفایل‌تان اضافه کنید.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/3e8683c8b94c82eac14665d110e77b1cfc30b3da97ebec221a77d39c5b001603/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ryo-ma&amp;column=8&amp;rank=SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;" alt="Github Profile Trophy">
 </p>
 
-### 17 . [Random Memer](https://github.com/techytushar/random-memer)
-Returns random meme images scraped from Memedroid
+### 17. [میم‌های تصادفی](https://github.com/techytushar/random-memer)
+تصاویر میم تصادفی که از Memedroid استخراج شده‌اند را نمایش می‌دهد.
 
-### 18 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
-Google lighthouse stats of your website that you can put in readme
+### 18. [صفحه سرعت لایت‌هاوس README](https://github.com/ankurparihar/readme-pagespeed-insights)
+آمار Google Lighthouse از وب‌سایت شما که می‌توانید آن را در README خود قرار دهید.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" width=720 alt="Readme Pagespeed Insights">
 </p>
 
-### 19 . [REHeader](https://github.com/khalby786/REHeader)
-Generate beautiful header images for your GitHub profile READMEs.
+### 19. [REHeader](https://github.com/khalby786/REHeader)
+تصاویر هدر زیبایی برای README پروفایل گیت‌هاب شما تولید می‌کند.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/2f031e5cb08b20a5ac5d2237beb0a773caad1bd380c7bdb7e2db294dbb75e442/68747470733a2f2f63646e2e676c697463682e636f6d2f30613466363732652d376435632d343235342d386635612d38343763323932346264663625324653637265656e25323053686f74253230323032302d30372d31372532306174253230352e31392e3138253230504d2e706e673f763d31353934393931393934353038" alt="Another image which is a use case of this generator - again you shouldn't be seeing this" data-canonical-src="https://cdn.glitch.com/0a4f672e-7d5c-4254-8f5a-847c2924bdf6%2FScreen%20Shot%202020-07-17%20at%205.19.18%20PM.png?v=1594991994508" width=720>
 </p>
 
-### 20 . [Goodreads Readme](https://github.com/theFr1nge/goodreads-readme)
-This project provides a badge for sharing your current book in your github profile.
+### 20. [Goodreads README](https://github.com/theFr1nge/goodreads-readme)
+این پروژه یک نشان برای به اشتراک‌گذاری کتاب جاری شما در پروفایل گیت‌هاب شما ارائه می‌دهد.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/0dadae5bda922ccb51b880482bddfc4fc04c9630871cd60d30c2417e346e1c32/68747470733a2f2f676f6f6472656164732d726561646d652e76657263656c2e6170702f6170692f626f6f6b" alt="GoodReads" data-canonical-src="https://goodreads-readme.vercel.app/api/book" style="max-width: 100%;">
 </p>
 
-### 21 . [Readme Typing svg](https://github.com/DenverCoder1/readme-typing-svg)
-Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
+### 21. [تایپ متنی SVG در README](https://github.com/DenverCoder1/readme-typing-svg)
+یک SVG قابل تنظیم که به طور داینامیک متنی را تایپ و حذف می‌کند. این SVG می‌تواند به عنوان بیوگرافی در پروفایل گیت‌هاب یا در README مخزن شما استفاده شود.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/625cb0ef178479b65b71867f7079b1c667e152a14406023368be872b92a9ba99/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d547970652b6d657373616765732b65766572797768657265213b4164642b612b62696f2b746f2b796f75722b70726f66696c65213b4164642b612b6465736372697074696f6e2b746f2b796f75722b7265706f213b4d616b652b796f75722b726561646d652b7374616e642b6f75742126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&amp;font=Fira%20Code&amp;center=true&amp;width=380&amp;height=50" style="max-width: 100%;" alt="Readme Typing svg">
 </p>
 
-### 22 . [Awesome Github Profile Readme Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-This repository contains best profile readme's for your reference.
+### 22. [الگوهای عالی README پروفایل گیت‌هاب](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+این مخزن بهترین الگوهای README برای پروفایل شما را برای مرجع فراهم می‌کند.
 
-### 23 . [Profile Summary For Github](https://github.com/tipsy/profile-summary-for-github)
-Tool for visualizing GitHub profiles
+### 23. [خلاصه پروفایل برای گیت‌هاب](https://github.com/tipsy/profile-summary-for-github)
+ابزاری برای تجسم پروفایل‌های گیت‌هاب
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG" alt="screenshot" width=720>
 </p>
 
-### 24 . [Github Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-A tool to generate your github summary card for profile README
+### 24. [کارت‌های خلاصه پروفایل گیت‌هاب](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ابزاری برای تولید کارت‌های خلاصه گیت‌هاب شما برای README پروفایل.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="Demo1" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Demo2" style="max-width: 100%;"></a>
@@ -555,51 +554,51 @@ A tool to generate your github summary card for profile README
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg"><img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg" alt="Demo5" style="max-width: 100%;"></a>
 </p>
 
-### 25 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-Generates a snake game from a github user contributions graph
+### 25. [بازی مار از گراف مشارکت‌های گیت‌هاب](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+یک بازی مار از گراف مشارکت‌های گیت‌هاب یک کاربر تولید می‌کند.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Demo" style="max-width: 100%;">
 </p>
 
-### 26 . [Github Stats Transparent](https://github.com/rahul-jha98/github-stats-transparent)
-Automatically generate summary GitHub statistics images for your profile using Actions, no server required
+### 26. [آمار گیت‌هاب شفاف](https://github.com/rahul-jha98/github-stats-transparent)
+به طور خودکار آمار خلاصه گیت‌هاب شما را با استفاده از Actions برای پروفایل‌تان تولید می‌کند، بدون نیاز به سرور.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="Demo1" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="Demo2" style="max-width: 100%;">
 </p>
 
-### 27 . [Github Profile Name Writer](https://github.com/ironmaniiith/Github-profile-name-writer)
-Write your name using the github commits and make your profile awesome
+### 27. [نویسنده نام پروفایل گیت‌هاب](https://github.com/ironmaniiith/Github-profile-name-writer)
+نام خود را با استفاده از کامیت‌های گیت‌هاب بنویسید و پروفایل خود را شگفت‌انگیز کنید.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://github.com/ironmaniiith/Github-profile-name-writer/raw/master/extras/ironmanGithub.jpg" alt="Image of Ironman on github Profile" style="max-width: 100%;">
 </p>
 
-### 28 . [Github Profile Languages](https://github.com/IonicaBizau/github-profile-languages)
-Create a nice pie chart with the user's programming languages from their GitHub profile.
+### 28. [زبان‌های گیت‌هاب پروفایل](https://github.com/IonicaBizau/github-profile-languages)
+یک نمودار پای زیبا با زبان‌های برنامه‌نویسی کاربر از پروفایل گیت‌هاب آن‌ها ایجاد کنید.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/f9e08688f77e246e9d46ada748453857c39f3f7d4d70160ea66ce1c4afe0c8cf/687474703a2f2f692e696d6775722e636f6d2f514736476835492e706e67" alt="github-profile-languages" data-canonical-src="http://i.imgur.com/QG6Gh5I.png" width=720>
 </p>
 
-### 29 . [Github Profile 3d Contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+### 29. [گیت‌هاب پروفایل 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+این اکشن گیت‌هاب یک تقویم مشارکت‌های گیت‌هاب را بر روی یک تصویر 3D پروفایل ایجاد می‌کند.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" width=720>
 </p>
 
-### 30 . [Github Profile Header Generator](https://github.com/leviarista/github-profile-header-generator)
-A header image generator for your Github profile Readme
+### 30. [تولید کننده هدر پروفایل گیت‌هاب](https://github.com/leviarista/github-profile-header-generator)
+یک ابزار تولید کننده تصویر هدر برای README پروفایل گیت‌هاب شما.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" alt="Example 1" style="max-width: 100%;">
 </p>
@@ -943,74 +942,76 @@ An infographics generator with 30+ plugins and 200+ options to display stats abo
   </tr>
 </tbody></table>
 
-### 32 . [Action Devcard](https://github.com/dailydotdev/action-devcard)
-GitHub Action to download the devcard from https://daily.dev
+مطمئناً! در اینجا ترجمه به صورت راستچین است:
 
-### 33 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
-Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
+### ۳۲ . [Action Devcard](https://github.com/dailydotdev/action-devcard)
+اکشن GitHub برای دانلود کارت توسعه‌دهنده از https://daily.dev
 
-📍 For example :
+### ۳۳ . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
+Pimp my README یک سازنده پروفایل منبع باز است که می‌توانید از آن برای افزودن اجزای جالب به پروفایل README خود استفاده کنید - ساخته شده با <3 توسط webapp.io :)
+
+📍 به عنوان مثال:
 <p align="center">
   <a href="https://pimp-my-readme-next.vercel.app">
-    <img src="https://raw.githubusercontent.com/gist/FuseFairy/985aa15b77de6dee554fec4bb488432b/raw/5b89693334fd36defc0867f4e243c4405d267ae2/pimp-my-readme-1.svg" alt="sliding-text"><br>
-    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/769ce411f10708b20ee06325b3d75c8e/raw/dbb60adc2f25eb687fc7d75d17836e28b31fed16/pimp-my-readme-2.svg" alt="wavy-banner"><br>
-    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/3adf6ec5f5f68e80c4b9c36b0645cf39/raw/dd3c10cf1ca28dff0a11aa6dd3b581f22e8981c0/pimp-my-readme-3.svg" alt="technology">
+    <img src="https://raw.githubusercontent.com/gist/FuseFairy/985aa15b77de6dee554fec4bb488432b/raw/5b89693334fd36defc0867f4e243c4405d267ae2/pimp-my-readme-1.svg" alt="متن متحرک"><br>
+    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/769ce411f10708b20ee06325b3d75c8e/raw/dbb60adc2f25eb687fc7d75d17836e28b31fed16/pimp-my-readme-2.svg" alt="بنر موجی"><br>
+    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/3adf6ec5f5f68e80c4b9c36b0645cf39/raw/dd3c10cf1ca28dff0a11aa6dd3b581f22e8981c0/pimp-my-readme-3.svg" alt="تکنولوژی">
   </a>
 </p>
 
-### 34 . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
-Generate an image of all your Github contributions
+### ۳۴ . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
+تولید یک تصویر از تمام مشارکت‌های شما در GitHub
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676" alt="GitHub Contribution Chart Generato">
+  <img src="https://raw.githubusercontent.com/sallar/github-contributions-chart/master/screenshot.png" style="max-width: 100%;" width="676" alt="تولید کننده نمودار مشارکت‌های GitHub">
 </p>
 
-### 35 . [Wrapped](https://github.com/neat-run/wrapped)
-GitHub Wrapped, inspired by Spotify Wrapped
+### ۳۵ . [Wrapped](https://github.com/neat-run/wrapped)
+GitHub Wrapped، الهام گرفته از Spotify Wrapped
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="wrapped.png" style="max-width: 100%;" max-width="100%" alt="Wrapped">
 </p>
 
-### 36 . [GitHub Spray](https://github.com/Annihil/github-spray)
-Draw on your GitHub contribution graph ░▒▓█
+### ۳۶ . [GitHub Spray](https://github.com/Annihil/github-spray)
+رنگ آمیزی روی نمودار مشارکت‌های GitHub ░▒▓█
 
-📍 For example : &nbsp;
+📍 به عنوان مثال: 
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f7037efcd0460ea9248915d9c3f9a37c9677541bb0db1dfe58e5152be030877c/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" height="200" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://camo.githubusercontent.com/f7037efcd0460ea9248915d9c3f9a37c9677541bb0db1dfe58e5152be030877c/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" height="200" alt="لوگوی GitHub Spray" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
-### 37 . [Github Trends](https://github.com/avgupta456/github-trends)
-Level up your GitHub profile readme with customizable cards including LOC statistics!
+### ۳۷ . [Github Trends](https://github.com/avgupta456/github-trends)
+پروفایل GitHub خود را با کارت‌های قابل تنظیم شامل آمار LOC بهبود دهید!
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" width=720>
+  <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="تصویر" width=720>
 </p>
 
-### 38 . [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
-Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
+### ۳۸ . [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
+تولید کننده نقل قول پویا برای READMEهای GitHub | برای READMEها یک لمس شاعرانه به ارمغان بیاورید
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0ebb5d745e06cb5d53a127e7161b387ce7f71c155359689436bdf404ca53b7fa/68747470733a2f2f6769746875622d726561646d652d71756f7465732d6261792e76657263656c2e6170702f71756f74653f7468656d653d6461726b" alt="Quote" data-canonical-src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/0ebb5d745e06cb5d53a127e7161b387ce7f71c155359689436bdf404ca53b7fa/68747470733a2f2f6769746875622d726561646d652d71756f7465732d6261792e76657263656c2e6170702f71756f74653f7468656d653d6461726b" alt="نقل قول" data-canonical-src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" style="max-width: 100%;">
 </p>
 
-### 39 . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
-Display your recently played Spotify tracks on your GitHub profile README.
+### ۳۹ . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
+نمایش آهنگ‌های اخیراً پخش شده در Spotify خود در README پروفایل GitHub.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/c57c063791b1c3fb245e5fb5c23d99c950ccb3a442b7f18d68e118379a8bd20c/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d6a65666672657963613136" alt="Spotify recently played" data-canonical-src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" style="max-width: 100%;">
 </p>
 
-### 40 . [Github Readme Info](https://github.com/th3c0d3br34ker/github-readme-info)
-This GitHub action helps to add cool Stats to your GitHub profile README.
+### ۴۰ . [Github Readme Info](https://github.com/th3c0d3br34ker/github-readme-info)
+این اکشن GitHub به شما کمک می‌کند تا آمار جالبی را به README پروفایل GitHub خود اضافه کنید.
 
-📍 For example :
+📍 به عنوان مثال:
 <pre class="notranslate" style="position: relative;" lang="text"><code class="notranslate">I'm a night 🦉
 
 🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
