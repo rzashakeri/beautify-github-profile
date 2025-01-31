@@ -1340,95 +1340,97 @@ Moon.svg فاز فعلی ماه را به صورت لحظه‌ای نمایش م
   <img src="https://github.com/0l1v3rr/github-readme-tech-stack/raw/master/docs/README.gif" alt="github readme tech stack">  
 </p>  
 
-### 70 . [lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile.
+بله، این موارد به صورت راستچین ترجمه می‌شوند. در اینجا ترجمه‌های شما به صورت راستچین آمده است:
 
-📍 For example :
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/705665813994012695" alt="lanyard-profile-readme">
-</p>
+### 70. [lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)  
+🏷️ استفاده از Lanyard برای نمایش وضعیت Discord شما در پروفایل گیت‌هاب.
 
-### 71 . [Starcharts](https://github.com/caarlos0/starcharts)
-⭐ Plot your repo stars over time!
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://lanyard.cnrad.dev/api/705665813994012695" alt="lanyard-profile-readme">  
+</p>  
 
-📍 For example :
-<p align="center">
-  <img width="720" src="https://starchart.cc/rzashakeri/beautify-github-profile.svg" alt="Starcharts">
-</p>
+### 71. [Starcharts](https://github.com/caarlos0/starcharts)  
+⭐ نمایش ستاره‌های مخزن شما در طول زمان!
 
-### 72 . [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
-⭐ Displaying Your Extensive Reading and Preferred Technology Topics on Your GitHub README ⭐
-By showcasing the range/The number of articles you have consumed and your chosen technology topics, you have the opportunity to present your comprehensive expertise and keen interest in the field.
+📍 به عنوان مثال:  
+<p align="center">  
+  <img width="720" src="https://starchart.cc/rzashakeri/beautify-github-profile.svg" alt="Starcharts">  
+</p>  
 
-📍 For example : 
-<p align="center">
-  <a href="https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp">
-    <img width="720" src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65d37c7fa935d93e56c378b6_305987805-c994338d-76a9-437c-a93c-2d4a9b98a028.png" alt="Padra Esfandiyar's Dev Card"/>
-  </a>
-</p>
+### 72. [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)  
+⭐ نمایش گستره مقالات خوانده شده و موضوعات تکنولوژی مورد علاقه شما در README گیت‌هاب شما  
+با نمایش تعداد مقالاتی که خوانده‌اید و موضوعات تکنولوژی انتخابی شما، این امکان را دارید که تخصص و علاقه‌مندی خود را در این زمینه به نمایش بگذارید.
 
-### 73 . [socialify](https://github.com/wei/socialify) 
- 💞 Socialify your project. 🌐 Share with the world! 
- 
-📍 For example :
-<p align="center">
-  <img width=720 src="https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="socialify">
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <a href="https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp">  
+    <img width="720" src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65d37c7fa935d93e56c378b6_305987805-c994338d-76a9-437c-a93c-2d4a9b98a028.png" alt="Padra Esfandiyar's Dev Card"/>  
+  </a>  
+</p>  
 
-### 74 . [invidget](https://github.com/SwitchbladeBot/invidget) 
-✉️ Invidget generates SVG renders of Discord invites that can be used in GitHub READMEs.
+### 73. [socialify](https://github.com/wei/socialify)  
+💞 پروژه خود را اجتماعی کنید. 🌐 با جهان به اشتراک بگذارید!
 
-📍 For example :
-<p align="center">
-  <img src="https://invidget.switchblade.xyz/discord-developers" alt="invidget">
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <img width="720" src="https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="socialify">  
+</p>  
 
-### 75 . [countdownmail](https://countdownmail.com/)
-The countdown timer is based on the end date and time in a specific time zone. 
+### 74. [invidget](https://github.com/SwitchbladeBot/invidget)  
+✉️ Invidget SVGهایی از دعوت‌های Discord ایجاد می‌کند که می‌توانید از آنها در README گیت‌هاب خود استفاده کنید.
 
-📍 For example :
-<p align="center">
-  <img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://invidget.switchblade.xyz/discord-developers" alt="invidget">  
+</p>  
 
-### 76 . [Repo Roster](https://reporoster.com//)
-Shout-out supporters in your GitHub README file.
+### 75. [countdownmail](https://countdownmail.com/)  
+تایمر معکوس بر اساس تاریخ و زمان پایان در یک منطقه زمانی خاص.
 
-📍 For example :
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>  
+</p>  
 
-> Stargazers
-<p align="center">
-  <img src="https://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>
-</p>
+### 76. [Repo Roster](https://reporoster.com//)  
+تشکر از حامیان خود در فایل README گیت‌هاب.
 
-> Forkers
-<p align="center">
-  <img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>
-</p>
+📍 به عنوان مثال:  
 
-### 77 . [Moe Counter](https://github.com/journey-ad/Moe-Counter)
-Another Cute View Counter.
+> ستارگان  
+<p align="center">  
+  <img src="https://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>  
+</p>  
 
-📍 For example :
-<p align="center">
-  <img src="https://moe-counter.glitch.me/get/@index" alt="Moe Counter">
-</p>
+> فورکرها  
+<p align="center">  
+  <img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>  
+</p>  
 
-### 78 . [Star History](https://github.com/lucabubi/star-history)
-A Stunning star history chart generator for Github Repositories 
+### 77. [Moe Counter](https://github.com/journey-ad/Moe-Counter)  
+یک شمارشگر بازدید جالب دیگر.
 
-📍 For example :
-<p align="center">
-  <img src="https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red" alt="Red Chart">
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://moe-counter.glitch.me/get/@index" alt="Moe Counter">  
+</p>  
 
-### 79 . [Subreddit Memes](https://github.com/trinib/Subreddit-Memes)
-Any subreddit memes thread to display random memes.
+### 78. [Star History](https://github.com/lucabubi/star-history)  
+تولیدکننده گراف تاریخچه ستاره‌ها برای مخازن گیت‌هاب
 
-📍 For example :
-<p align="center">
-  <img src="https://subreddit-memes.vercel.app/api/meme" width="350px" alt="Subreddit Memes" />
-</p>
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red" alt="Red Chart">  
+</p>  
+
+### 79. [Subreddit Memes](https://github.com/trinib/Subreddit-Memes)  
+نمایش میم‌های تصادفی از هر تاپیک میم در ساب‌ردیت.
+
+📍 به عنوان مثال:  
+<p align="center">  
+  <img src="https://subreddit-memes.vercel.app/api/meme" width="350px" alt="Subreddit Memes" />  
+</p>  
 
 ### 80 . [GitHub Stats](https://github.com/hyochan/github-stats)
 Github readme stats in multi angles.
