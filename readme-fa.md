@@ -29,14 +29,14 @@
 
 # 📖 Table of Contents
 - [📌 قدم اول: راه‌اندازی مخزن گیت‌هاب ](#-قدم-اول-راهاندازی-مخزن-گیتهاب)
-- [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
-- [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
-  - [🧩 Badges ](#-badges-)
-  - [🛠️ Widgets ](#%EF%B8%8F-widgets-)
-  - [✅ Icons ](#-icons-)
-  - [⚙️ Profile Generator ](#%EF%B8%8F-profile-generator-)
-  - [😉 Emojis ](#-emojis)
-- [Give A Star ⭐](#give-a-star-)
+- [💡 از کجا ایده بگیریم؟ ?](#-از-کجا-ایده-بگیریم)
+- [🚩 بعد از مشاهده پروفایل ها چکار کنیم؟?](#-بعد-از-مشاهده-این-پروفایلها-چه-کار-کنیم)
+  - [🧩 نشان ها ](#-نشانها-)
+  - [🛠️ ویجت ها ](#️-ویجتها-)
+  - [✅ آیکون ها ](#-آیکون-ها-)
+  - [⚙️ تولید کننده پروفایل ](#️-تولیدکننده-پروفایل-)
+  - [😉 شکلک ها (ایموجی) ](#-شکلک-ها-ایموجی-ها)
+- [یک ستاره بدهید ⭐](#یک-ستاره-بدهید-)
 
 # 📌 قدم اول: راه‌اندازی مخزن گیت‌هاب  
 یک مخزن با نام کاربری گیت‌هاب خود بسازید 👇
@@ -1474,14 +1474,14 @@ BentoHub یک برنامه است که به شما این امکان را می�
 
 </details>
   
-## ✅ Icons 👇
+## ✅ آیکون ها 👇
 <details>
- <summary><strong>Click to expand list</strong></summary>
+ <summary><strong>کلیک کنید تا فهرست باز شود.</strong></summary>
 
-### 1 . [Simple Icons](https://simpleicons.org/)
-2246 Free SVG icons for popular brands
+### 1. [آیکون‌های ساده](https://simpleicons.org/)  
+۲۲۴۶ آیکون SVG رایگان برای برندهای محبوب
 
-📍 For example :
+📍 به عنوان مثال:  
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
@@ -1495,96 +1495,95 @@ BentoHub یک برنامه است که به شما این امکان را می�
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 </p>
 
-### 2 . [Skill Icons](https://github.com/tandpfun/skill-icons)
-Showcase your skills on your Github readme or resumé with ease ✨
+### 2. [آیکون‌های مهارت](https://github.com/tandpfun/skill-icons)  
+مهارت‌های خود را به راحتی در README یا رزومه‌تان به نمایش بگذارید ✨
 
-📍 For example : <br>
-<img src="https://skillicons.dev/icons?i=all" alt="Skill Icons">
+📍 به عنوان مثال :  
+<img src="https://skillicons.dev/icons?i=all" alt="آیکون‌های مهارت">
 
-### 3 . [Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons)
-📋 😄 Add icons to your GitHub profile using this generator 😄 📋 
+### 3. [آیکون‌های فناوری پروفایل](https://github.com/marwin1991/profile-technology-icons)  
+📋 😄 با استفاده از این ژنراتور، آیکون‌هایی را به پروفایل گیت‌هاب خود اضافه کنید 😄 📋
 
-📍 For example :
-<p align="center">
-  <img width=720 src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" data-target="animated-image.originalImage" alt="Profile Technology Icons">
-</p>
+📍 به عنوان مثال :  
+<p align="center">  
+  <img width=720 src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" data-target="animated-image.originalImage" alt="آیکون‌های فناوری پروفایل">  
+</p>  
 
 ---
 
 </details>
 
-## ⚙️ Profile Generator 👇
+## ⚙️ تولیدکننده پروفایل 👇
 <details>
- <summary><strong>Click to expand list</strong></summary>
+ <summary><strong>برای باز کردن لیست کلیک کنید</strong></summary>
 
-### 1 . [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)
-🎨 Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way 🚀 The best profile readme generator you will find ⚡ 
+### 1 . [تولیدکننده پروفایل Readme](https://github.com/maurodesouza/profile-readme-generator)
+🎨 پروفایل گیت‌هاب خود را با این ابزار شگفت‌انگیز زیبا کنید و Readme مورد نظر خود را به راحتی و سریع بسازید 🚀 بهترین تولیدکننده پروفایل Readme که خواهید یافت ⚡
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://camo.githubusercontent.com/7b4c1ded34735535305ebd0bb3b9b1989b3f62cb476d768ae799dadf2b1cb323/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f6170702e706e67" width="720" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;">
 </p>
 
 ### 2 . [Profileme Dev](https://github.com/danielcranney/profileme-dev)
-Create an awesome GitHub profile in minutes 
+در عرض چند دقیقه یک پروفایل گیت‌هاب فوق‌العاده بسازید
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/screenshot.png" class="overflow-hidden rounded-md shadow-dark-900/5" alt="Screenshot of ProfileMe.dev" width=720>
 </p>
 
-### 3 . [readme md generator](https://github.com/kefranabg/readme-md-generator)
-📄 CLI that generates beautiful README.md files
+### 3 . [تولیدکننده readme md](https://github.com/kefranabg/readme-md-generator)
+📄 ابزار CLI که فایل‌های README.md زیبا تولید می‌کند
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img width=720 src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="readme md generator">
 </p>
 
-### 4 . [Github Profile Readme Creator](https://github.com/rajk3770/Github-Profile-Readme-Creator)
-Generate user-friendly, intuitive and dynamic markdown for your profile README, in less than a minute!
+### 4 . [تولیدکننده پروفایل Readme گیت‌هاب](https://github.com/rajk3770/Github-Profile-Readme-Creator)
+در کمتر از یک دقیقه، مارک‌داونی کاربرپسند، شهودی و پویا برای پروفایل README خود تولید کنید!
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://github.com/rajk3770/Github-Profile-Readme-Creator/raw/master/screenshots/Demo.gif" alt="Demo" style="max-width: 100%;">
 </p>
 
-### 5 . [Github Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
-Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
+### 5 . [سازنده پروفایل Readme گیت‌هاب](https://github.com/VishwaGauravIn/github-profile-readme-maker)
+بهترین تولیدکننده پروفایل، پروفایل ReadMe گیت‌هاب شما را به بهترین شکل ممکن ایجاد کنید. ویژگی‌ها و ابزارهای زیادی وجود دارد، همه به صورت رایگان!
 
-📍 For example : <br>
+📍 به عنوان مثال:
+<br>
 <img src="https://github.com/VishwaGauravIn/Images/raw/main/screencapture-gprm.png?raw=true" alt="" style="max-width: 100%;">
 
-### 6 . [github Profile Readme Generator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator)
-Generate a cool README/About me page for your Github Profile
+### 6 . [تولیدکننده پروفایل Readme گیت‌هاب](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator)
+صفحه README/About Me فوق‌العاده‌ای برای پروفایل گیت‌هاب خود تولید کنید
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img width=720 src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/raw/main/screencast_ghub_profile_gen_v1.gif" alt="Screencast of Github AboutMe/Profile ReadMe Generator" title="Go to web app" >
 </p>
 
 ### 7 . [Github Profilinator](https://github.com/rishavanand/github-profilinator)
-This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+این ابزار شامل اجزای کوچک GUI است که می‌توانید آن‌ها را با هم ترکیب کنید تا کد مارک‌داون برای یک Readme عالی به طور خودکار تولید کنید.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/rishavanand/github-profilinator/master/src/images/demo.gif" alt="Github Profilinator">
 </p>
 
+### 8 . [تولیدکننده پروفایل Readme گیت‌هاب](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+تولیدکننده پروفایل Readme گیت‌هاب به شما این امکان را می‌دهد که فایل‌های Readme ساده و زیبا برای پروفایل گیت‌هاب خود بسازید که در پیش‌نمایش‌های پروفایل شما گنجانده می‌شود.
 
-### 8 . [Github Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
-GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
-
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img width=720 src="https://camo.githubusercontent.com/8aa60ecdb02b91d9912b79245dd79eee4013b917a39a2400da7db31f30647a48/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f6769662e6769663f763d313233" alt="Github readme generator" data-canonical-src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/gif.gif?v=123">
 </p>
 
+### 9 . [تولیدکننده پروفایل Readme گیت‌هاب](https://rahuldkjain.github.io/gh-profile-readme-generator)
+با استفاده از UI ساده، README پروفایل گیت‌هاب را به راحتی تولید کنید، با افزونه‌های جدید مانند شمارش بازدیدکنندگان، آمار گیت‌هاب و غیره.
 
-### 9 . [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
-Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif">
 </p>
@@ -1593,31 +1592,31 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 
 </details>
   
-## 😉 Emojis
+## 😉 شکلک ها (ایموجی ها)
 <details>
- <summary><strong>Click to expand list</strong></summary>
+ <summary><strong>برای باز کردن فهرست کلیک کنید.</strong></summary>
 
-### 1 . [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
-🔥 All the emojis 🎉 
+### 1 . [ایموجی‌های مارک‌داون](https://github.com/markdown-templates/markdown-emojis)  
+🔥 همه‌ی ایموجی‌ها 🎉
 
-### 2 . [Animated Fluent Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
- All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file. 
+### 2 . [ایموجی‌های متحرک فلوئنت](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)  
+تمامی ایموجی‌های متحرک فلوئنت مایکروسافت در یک مکان قرار دارند و آماده استفاده در پروژه‌ها یا فایل‌های README شما هستند.
 
-📍 For example :
+📍 به عنوان مثال:
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-    alt="Cat with Tears of Joy"
+    alt="گربه با اشک‌های شادی"
     width="25"
     height="25"
   />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="قلب آبی" width="25" height="25" />
 </p>
 
 </details>
 
-### If you like, you can also help me develop this repository so that from now on we have more beautiful github profiles 💙
+### اگر دوست دارید، می‌توانید به من کمک کنید تا این مخزن را توسعه دهم تا از این پس پروفایل‌های گیت‌هاب زیباتری داشته باشیم 💙
 
-# Give A Star ⭐
+# یک ستاره بدهید ⭐
 
-You can also give this repository a star to show more people and they can use this repository
+شما همچنین می‌توانید با دادن یک ستاره به این مخزن، آن را به افراد بیشتری نشان دهید تا آنها هم از این مخزن استفاده کنند.
