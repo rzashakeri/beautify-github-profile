@@ -24,11 +24,11 @@
 
 ---
 
-# Hello friends 🖐️
-How are you? If you want to make the look of your github profile more beautiful, you have come to the right place.
+سلام دوستان 🖐️  
+حال شما چطور است؟ اگر می‌خواهید ظاهر پروفایل گیت‌هاب خود را زیباتر کنید، به مکان درستی آمده‌اید.
 
 # 📖 Table of Contents
-- [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
+- [📌 قدم اول: راه‌اندازی مخزن گیت‌هاب ](#-قدم-اول-راهاندازی-مخزن-گیتهاب)
 - [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
 - [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
   - [🧩 Badges ](#-badges-)
@@ -38,25 +38,23 @@ How are you? If you want to make the look of your github profile more beautiful,
   - [😉 Emojis ](#-emojis)
 - [Give A Star ⭐](#give-a-star-)
 
-# 📌 The first step : Set up the GitHub Repository
-Create a repository with your GitHub username 👇
-
+# 📌 قدم اول: راه‌اندازی مخزن گیت‌هاب  
+یک مخزن با نام کاربری گیت‌هاب خود بسازید 👇
 <img src="name.png">
 
-Template : 👇
+الگو : 👇
 ```
 https://github.com/username/username
 ```
 
-Example : 👇
+مثال : 👇
 ```
 https://github.com/rzashakeri/rzashakeri
 ```
 
-### After Create Repository, **Create a README.md** in Repository and Done ✅
-Now that we have built the repository, we come to the interesting part: **designing our README.md.**
+### پس از ساخت مخزن، **یک فایل README.md** در مخزن ایجاد کنید و تمام ✅  
+حالا که مخزن ساخته شد، به قسمت جالب می‌رسیم: **طراحی فایل README.md خودمان.**
 
-> Persian guide for first step 👉 [Link 🔗](https://www.instagram.com/p/CQlxnAnHId0/)
 
 # 💡 Where do we get ideas ?
 You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them 👇
