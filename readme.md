@@ -1131,59 +1131,64 @@ Show npm packages downloads ⏬ in GitHub README
 </tbody>
 </table>
 
+---
+
 </details>
 
 <details>
  <summary><strong>Click to expand list (51~)</strong></summary>
   
-#### 51 . [Github Contribution Stats](https://github.com/LordDashMe/github-contribution-stats)
-
+### 51 . [Github Contribution Stats](https://github.com/LordDashMe/github-contribution-stats)
 Dynamically generated Github Contribution Stats. 📈 📆
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9f6e8d52bfe1edb25864dc69043d9d35aef73695f403a372214801f5338654e8/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6776616e726f7373756d" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=gvanrossum" style="max-width: 100%;">
+</p>
 
-<img src="https://camo.githubusercontent.com/9f6e8d52bfe1edb25864dc69043d9d35aef73695f403a372214801f5338654e8/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6776616e726f7373756d" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=gvanrossum" style="max-width: 100%;">
-
-#### 52 . [Github Star History](https://github.com/bytebase/star-history)
-
+### 52 . [Github Star History](https://github.com/bytebase/star-history)
 Dynamically generated GitHub repository star chart. 📈 ⭐️
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <a href="https://star-history.com/#rzashakeri/beautify-github-profile&Date">
+    <img src="https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date" alt="Star History Chart">
+  </a>
+</p>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date)](https://star-history.com/#rzashakeri/beautify-github-profile&Date)
-
-#### 53 . [Moon.svg](https://github.com/hmu332233/moon.svg)
-
-Add real-time moon on your github profile!
+### 53 . [Moon.svg](https://github.com/hmu332233/moon.svg)
+Add real-time moon on your github profile!<br>
 Moon.svg shows the current moon phase in real time!
 
 📍 For example :
+<p align="center">
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon1.svg" />
+  </a>
+  <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon2.svg" />
+  </a>
+</p>
 
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-</a>
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" />
-</a>
-
-#### 54 . [Stackoverflow Readme Profile](https://github.com/johannchopin/stackoverflow-readme-profile)
-
+### 54 . [Stackoverflow Readme Profile](https://github.com/johannchopin/stackoverflow-readme-profile)
 Easily share your Stackoverflow's profile on your README
 
 📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="profile" style="max-width: 100%;">
+</p>
 
-<img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="profile" style="max-width: 100%;">
-
-#### 55 . [Github Readme Programming Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-
+### 55 . [Github Readme Programming Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 Add Programming Quotes To Your GitHub Readme
 
 📍 For example :
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
+</p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-#### 56 . [Chess.com Games and Stats](https://github.com/Balastrong/chess-stats-action)
-
+### 56 . [Chess.com Games and Stats](https://github.com/Balastrong/chess-stats-action)
 Automatically update your README.md with Chess.com games and stats - fully customizable
 
 📍 For example :
@@ -1201,113 +1206,105 @@ Automatically update your README.md with Chess.com games and stats - fully custo
 |   **Hikaru**   |     Jospem     | repetition ⏸️ | 29/7/2022 |             <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6pk/2P2n2/7p/3K2bP/6P1/8 b - -">Link</a>             |
 |     Jospem     |   **Hikaru**   | checkmated ❌ | 28/7/2022 |         <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2np1/p1p1p2p/4P3/1P1Pr3/6K1/3R4 w - -">Link</a>          |
 
-#### 57 . [Terminal Gif Maker](https://www.terminalgif.com/)
-
+### 57 . [Terminal Gif Maker](https://www.terminalgif.com/)
 Terminal Gif Maker is a tool for creating code samples in the terminal interface. You can create gifs for your projects and you can show that in the README of your project. You can use the GIF in git providers like Github and Gitlab.
 
 📍 For example :
+<p align="center">
+  <img src="./terminal.gif" alt="terminal gif">
+</p>
 
-<img src="./terminal.gif" alt="terminal gif">
-
-
-#### 58 . [Spotify Data Card](https://github.com/magic-ike/spotify-data-card)
-
+### 58 . [Spotify Data Card](https://github.com/magic-ike/spotify-data-card)
 Show your Spotify activity on your GitHub profile README.
 
-📍 For example : &nbsp; <br>
+📍 For example :
+<p align="center">
+  <img src="spotify-data-card.svg" alt="Spotify Data Card" width=720>
+</p>
 
-<img src="spotify-data-card.svg" alt="Spotify Data Card">
-
-#### 59 . [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+### 59 . [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 A dynamically generated activity graph to show your GitHub activities of last 31 days. 
 
-📍 For example : &nbsp; <br>
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/high-contrast.png" alt="graph" style="max-width: 100%;" height="250">
+</p>
 
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/asset/high-contrast.png" alt="graph" style="max-width: 100%;" height="250">
-
-#### 60 . [svg banners](https://github.com/Akshay090/svg-banners)
-
+### 60 . [svg banners](https://github.com/Akshay090/svg-banners)
 Styled banners for your Readme made with html/css in SVG !! 
 
-📍 For example : &nbsp; <br>
+📍 For example :
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=beautify+github+profile&width=800&height=400" alt="SVG Banners">
+  </a>
+</p>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=beautify+github+profile&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-#### 61 . [techstack generator](https://github.com/qkrdmstlr3/techstack-generator)
-
+### 61 . [techstack generator](https://github.com/qkrdmstlr3/techstack-generator)
 🕹Techstack generator that can show dynamic technology stack. 
 
-📍 For example : &nbsp; <br>
-
-<div align="" dir="auto">
+📍 For example :
+<div align="center">
   <div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06591fdcad0985741be7573b2755eb8b2d89b83ef1e4b1456abecc1f0f075f76/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72657363726970742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/06591fdcad0985741be7573b2755eb8b2d89b83ef1e4b1456abecc1f0f075f76/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72657363726970742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/rescript-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3293285324c7f76311f1add9c368c20721954f4db6f051eb39c8ffe3d67cfd46/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73776966742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3293285324c7f76311f1add9c368c20721954f4db6f051eb39c8ffe3d67cfd46/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73776966742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/swift-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667"><img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667"><img src="https://camo.githubusercontent.com/94ff27c17f249c089fdd1e76649652231580609e808474ef7e00d7bf07d2b926/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6761747362792d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/gatsby-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/sass-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/fcf09dd63c359081e2b2f5fac08291f3100fe99782f5ae819bd2f77e50a5720e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f73746f7279626f6f6b2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/storybook-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/webpack-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/67bff4aa0dd5025bd4b1047ae04dd9af0d3aeaccf1ce4d6959e09d219b3ec1c4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/67bff4aa0dd5025bd4b1047ae04dd9af0d3aeaccf1ce4d6959e09d219b3ec1c4/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f65736c696e742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/eslint-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4a95d31496a4911b9db7710776577cf7ec2158d2813511eb9862e38654de1e3b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/4a95d31496a4911b9db7710776577cf7ec2158d2813511eb9862e38654de1e3b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f70726574746965722d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/prettier-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/jest-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b80747215c0d23a4ce8dca6856047504ffbffc8cf565f86740d1a59ccbd3b89a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74657374696e676c6962726172792d69636f6e2e737667"><img src="https://camo.githubusercontent.com/b80747215c0d23a4ce8dca6856047504ffbffc8cf565f86740d1a59ccbd3b89a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74657374696e676c6962726172792d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/graphql-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/restapi-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a></div><div dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/kubernetes-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667"><img src="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/nginx-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ecf1680b5f353ba660494e70350fe01312fef1fc281534e8eef11902cb43ca04/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72617370626572727970692d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ecf1680b5f353ba660494e70350fe01312fef1fc281534e8eef11902cb43ca04/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72617370626572727970692d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;"></a></div>
 </div>
 
-#### 62 . [GitHub Achievements](https://github.com/drknzz/GitHub-Achievements)
-
+### 62 . [GitHub Achievements](https://github.com/drknzz/GitHub-Achievements)
 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥 
 
-📍 For example : &nbsp; <br>
-
+📍 For example :
 <td align="center"><table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png"><img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="60px" style="max-width: 100%;"></a></td>  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Bronze.png"><img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Bronze.png" width="60px" align="middle" style="max-width: 100%;"></a></td>  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Silver.png"><img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Silver.png" width="60px" style="max-width: 100%;"></a></td>  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png"><img src="https://github.com/drknzz/GitHub-Achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="60px" style="max-width: 100%;"></a></td>  </tr>  <tr>  <td align="center">2</td> <td align="center">8</td>  <td align="center">16</td>  <td align="center">32</td>  </tr>   </tbody>  </table></td>
 
-#### 63 . [contributors img](https://github.com/lacolaco/contributors-img)
-
+### 63 . [contributors img](https://github.com/lacolaco/contributors-img)
 show all profile images contributors
 
-📍 For example : &nbsp; <br>
+📍 For example :
+<p align="center">
+  <a href="https://github.com/lacolaco/contributors-img/graphs/contributors">
+    <img src="https://stg.contrib.rocks/image?repo=lacolaco/contributors-img" alt="contributors img" />
+  </a>
+</p>
 
-<a href="https://github.com/lacolaco/contributors-img/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=lacolaco/contributors-img" />
-</a>
+### 64 . [D-Day.widget](https://github.com/hmu332233/dday.svg)
+Add D-Day widget to anywhere, such as your Github Profile, Notion, etc
 
-#### 64 . [D-Day.widget](https://github.com/hmu332233/dday.svg)
+📍 For example :
+<p align="center">
+  <a href="https://dday-widget.minung.dev">
+    <img src="https://dday-widget.minung.dev/widget?keyword=new-year" alt="dday-widget.svg" />
+  </a>
+</p>
 
-Add D-Day widget to anywhere,  
-such as your Github Profile, Notion, etc
-
-📍 For example : &nbsp; <br>
-
-<a href="https://dday-widget.minung.dev">
-  <img src="https://dday-widget.minung.dev/widget?keyword=new-year" alt="dday-widget.svg" />
-</a>
-
-#### 65 . [GitHub Readme YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-
+### 65 . [GitHub Readme YouTube Cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 GitHub action to show your latest YouTube videos on your GitHub profile or project readme automatically as dynamic SVG cards
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/200180179-cccb1427-5fb3-4452-b7a9-5a26d266b94d.png" alt="preview" style="max-width: 100%;">
+</p>
 
-<img src="https://user-images.githubusercontent.com/20955511/200180179-cccb1427-5fb3-4452-b7a9-5a26d266b94d.png" alt="preview" style="max-width: 100%;">
-
-#### 66 . [github-unwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
-
+### 66 . [github-unwrapped](https://github.com/remotion-dev/github-unwrapped-2022)
 A platform that generates a year in review video for each GitHub user
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18756975/209833236-65227d5b-51a2-47d3-ad43-d32e1ae82a71.gif" width="50%" alt="github-unwrapped">
+</p>
 
-<img src="https://user-images.githubusercontent.com/18756975/209833236-65227d5b-51a2-47d3-ad43-d32e1ae82a71.gif" width="50%">
-
-#### 67 . [GIFs For GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-Readme)
-
+### 67 . [GIFs For GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-Readme)
 Awesome List of GIFs & avatars to use in GitHub markdown
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="GIFs For GitHub">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-
-#### 68 . [repography](https://repography.com)
-
+### 68 . [repography](https://repography.com)
 Make your GitHub repo beautiful
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_badge.svg)](https://repography.com)
+[![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_badge.svg)](https://repography.com)
+===
 [![Timeline graph](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_timeline.svg)](https://github.com/rzashakeri/beautify-github-profile/commits)
 [![Issue status graph](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_issues.svg)](https://github.com/rzashakeri/beautify-github-profile/issues)
 [![Pull request status graph](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_prs.svg)](https://github.com/rzashakeri/beautify-github-profile/pulls)
@@ -1315,156 +1312,143 @@ Make your GitHub repo beautiful
 [![Top contributors](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_users.svg)](https://github.com/rzashakeri/beautify-github-profile/graphs/contributors)
 [![Activity map](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_map.svg)](https://github.com/rzashakeri/beautify-github-profile/commits)
 
-#### 69 . [github readme tech stack](https://github.com/0l1v3rr/github-readme-tech-stack)
-
+### 69 . [github readme tech stack](https://github.com/0l1v3rr/github-readme-tech-stack)
  🔖 Show off your favorite technologies, tools, or the tech stack your project uses with these fully customizable cards on your GitHub README. 
- <br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://github.com/0l1v3rr/github-readme-tech-stack/raw/master/docs/README.gif" alt="github readme tech stack">
+</p>
 
-<img src="https://github.com/0l1v3rr/github-readme-tech-stack/raw/master/docs/README.gif">
-
-#### 70 . [lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
-
+### 70 . [lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)
 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/705665813994012695" alt="lanyard-profile-readme">
+</p>
 
-<img src="https://lanyard.cnrad.dev/api/705665813994012695">
-
-#### 71 . [Starcharts](https://github.com/caarlos0/starcharts)
-
+### 71 . [Starcharts](https://github.com/caarlos0/starcharts)
 ⭐ Plot your repo stars over time!
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img width="720" src="https://starchart.cc/rzashakeri/beautify-github-profile.svg" alt="Starcharts">
+</p>
 
-<img src="https://starchart.cc/rzashakeri/beautify-github-profile.svg">
-
-#### 72 . [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
-
+### 72 . [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
 ⭐ Displaying Your Extensive Reading and Preferred Technology Topics on Your GitHub README ⭐
 By showcasing the range/The number of articles you have consumed and your chosen technology topics, you have the opportunity to present your comprehensive expertise and keen interest in the field.
-<br/>
-<br/>
+
 📍 For example : 
-<br/>
-<br/>
-<a href="https://app.daily.dev/TheKidPadra"><img align="center" width="200" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" alt="Padra Esfandiyar's Dev Card"/></a>
+<p align="center">
+  <a href="https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp">
+    <img width="720" src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65d37c7fa935d93e56c378b6_305987805-c994338d-76a9-437c-a93c-2d4a9b98a028.png" alt="Padra Esfandiyar's Dev Card"/>
+  </a>
+</p>
 
-#### 73 . [socialify](https://github.com/wei/socialify) 
-
+### 73 . [socialify](https://github.com/wei/socialify) 
  💞 Socialify your project. 🌐 Share with the world! 
-<br/>
+ 
+📍 For example :
+<p align="center">
+  <img width=720 src="https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light" alt="socialify">
+</p>
 
-📍 For example : &nbsp;
-
-![beautify-github-profile](https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
-
-#### 74 . [invidget](https://github.com/SwitchbladeBot/invidget) 
-
+### 74 . [invidget](https://github.com/SwitchbladeBot/invidget) 
 ✉️ Invidget generates SVG renders of Discord invites that can be used in GitHub READMEs.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://invidget.switchblade.xyz/discord-developers" alt="invidget">
+</p>
 
-![invidget](https://invidget.switchblade.xyz/discord-developers)
-
-#### 75 . [countdownmail](https://countdownmail.com/)
-
+### 75 . [countdownmail](https://countdownmail.com/)
 The countdown timer is based on the end date and time in a specific time zone. 
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>
+</p>
 
-<img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>
-
-#### 76 . [Repo Roster](https://reporoster.com//)
-
+### 76 . [Repo Roster](https://reporoster.com//)
 Shout-out supporters in your GitHub README file.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
 
-Stargazers &nbsp;
+> Stargazers
+<p align="center">
+  <img src="https://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>
+</p>
 
-<img src="https://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>
+> Forkers
+<p align="center">
+  <img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>
+</p>
 
-Forkers &nbsp;
-
-<img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>
-
-#### 77 . [Moe Counter](https://github.com/journey-ad/Moe-Counter)
-
+### 77 . [Moe Counter](https://github.com/journey-ad/Moe-Counter)
 Another Cute View Counter.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@index" alt="Moe Counter">
+</p>
 
-![Demo](https://moe-counter.glitch.me/get/@index)
-
-#### 78 . [Star History](https://github.com/lucabubi/star-history)
-
+### 78 . [Star History](https://github.com/lucabubi/star-history)
 A Stunning star history chart generator for Github Repositories 
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red" alt="Red Chart">
+</p>
 
-![Red Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red)
-
-#### 79 . [Subreddit Memes](https://github.com/trinib/Subreddit-Memes)
-
+### 79 . [Subreddit Memes](https://github.com/trinib/Subreddit-Memes)
 Any subreddit memes thread to display random memes.
-<br/>
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://subreddit-memes.vercel.app/api/meme" width="350px" alt="Subreddit Memes" />
+</p>
 
-<img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
-
-#### 80 . [GitHub Stats](https://github.com/hyochan/github-stats)
-
+### 80 . [GitHub Stats](https://github.com/hyochan/github-stats)
 Github readme stats in multi angles.
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img width=720 src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" alt="hyochan github-stats"><br>
+  <img width=720 src="https://stats.dooboo.io/api/github-trophies?login=hyochan" alt="hyochan github-trophies">
+</p>
 
-![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
-
-![hyochan github-trophies](https://stats.dooboo.io/api/github-trophies?login=hyochan)
-
-#### 81 . [GitHub Repository Contribution Stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
-
+### 81 . [GitHub Repository Contribution Stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
 Get dynamically generated your github repository contribution stats on your READMEs!
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=HwangTaehyun" alt="Taehyun's GitHub Repository Contribution stats">
+</p>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
-
-#### 82 . [Code Statistic](https://github.com/zmh-program/code-statistic)
-
+### 82 . [Code Statistic](https://github.com/zmh-program/code-statistic)
 Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
 
-📍 For example : &nbsp;
-
-![zmh-program's GitHub Stats](https://stats.deeptrain.net/user/zmh-program/)
-
-#### 83 . [Bentohub](https://github.com/amittam104/BentoHub)
-
+### 83 . [Bentohub](https://github.com/amittam104/BentoHub)
 BentoHub is an app where you can create a bento grid and copy-paste the html or markdown code on to your github profile readme.
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <a href="https://bentohub.netlify.app/">
+    <img width=720 src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c" alt="BentoHub grid image">
+  </a>
+</p>
 
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/669ba3d3000d629bb97b/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
-
----
-
-#### 85 . [github-profile-repo-analytics](https://github.com/FuseFairy/github-profile-repo-analytics)
-
+### 85 . [github-profile-repo-analytics](https://github.com/FuseFairy/github-profile-repo-analytics)
 📊 GitHub repository traffic stats are automatically fetched and visualized as customizable SVG charts via GitHub Actions workflows, making it easy to embed the generated charts in your GitHub profile. 
 
-📍 For example : &nbsp;
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/FuseFairy/c7f619079a91afedbf4e949977fa2df4/raw/e868d3bc96ce8755d7f8beb1130e5d7579c9e2c0/demo-traffic.svg" alt="Zhuang's Repo Traffic Stats">
+</p>
 
-![Zhuang's Repo Traffic Stats](https://raw.githubusercontent.com/gist/FuseFairy/c7f619079a91afedbf4e949977fa2df4/raw/e868d3bc96ce8755d7f8beb1130e5d7579c9e2c0/demo-traffic.svg)
+---
 
 </details>
   
