@@ -1454,6 +1454,22 @@ BentoHub is an app where you can create a bento grid and copy-paste the html or 
 
 ---
 
+### 86 . [DevImg](https://github.com/cenfun/devimg)
+
+Generating NPM or GitHub status for profile README.
+
+📍 For example :
+
+- NPM downloads
+
+![](https://devimg.vercel.app/npm/downloads/console-grid?color=ff0000&bg=green)
+
+- GitHub profile
+
+![](https://devimg.vercel.app/github/profile/cenfun)
+
+---
+
 </details>
   
 ## ✅ Icons 👇
