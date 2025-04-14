@@ -524,7 +524,7 @@ Generate beautiful header images for your GitHub profile READMEs.
   <img src="https://camo.githubusercontent.com/2f031e5cb08b20a5ac5d2237beb0a773caad1bd380c7bdb7e2db294dbb75e442/68747470733a2f2f63646e2e676c697463682e636f6d2f30613466363732652d376435632d343235342d386635612d38343763323932346264663625324653637265656e25323053686f74253230323032302d30372d31372532306174253230352e31392e3138253230504d2e706e673f763d31353934393931393934353038" alt="Another image which is a use case of this generator - again you shouldn't be seeing this" data-canonical-src="https://cdn.glitch.com/0a4f672e-7d5c-4254-8f5a-847c2924bdf6%2FScreen%20Shot%202020-07-17%20at%205.19.18%20PM.png?v=1594991994508" width=720>
 </p>
 
-### 20 . [Goodreads Readme](https://github.com/theFr1nge/goodreads-readme)
+### 20 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
 This project provides a badge for sharing your current book in your github profile.
 
 📍 For example :
