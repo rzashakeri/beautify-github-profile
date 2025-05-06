@@ -1470,6 +1470,18 @@ Generating NPM or GitHub status for profile README.
 
 ---
 
+### 87 . [Telegram Card](https://github.com/Malith-Rukshan/telegram-card)
+Dynamic preview card generator for Telegram channels, groups, and bots. Features responsive design, dark/light theme support, and displays subscriber/member/monthly users/online users counts. Perfect for GitHub profiles and portfolios.
+
+📍 For example :
+| ![Preivew Item](https://telegram-card.vercel.app/?username=AlphaV2ray&theme=light) | ![Preivew Item](https://telegram-card.vercel.app/?username=SingleMusicX) |
+|------------|-----------|
+| ![Preivew Item](https://telegram-card.vercel.app/?username=MOD_APPS_Stock) | ![Preivew Item](https://telegram-card.vercel.app/?username=QuizUpLK) |
+| ![Preivew Item](https://telegram-card.vercel.app/?username=ReceiveSMSRobot&theme=light) | ![Preivew Item](https://telegram-card.vercel.app/?username=Alpha_V2ray) |
+![Telegram Channel](https://telegram-card.vercel.app/?username=durov&theme=dark) | ![Telegram Channel](https://telegram-card.vercel.app/?username=Premium&theme=dark)
+
+---
+
 </details>
   
 ## ✅ Icons 👇
