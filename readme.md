@@ -1482,6 +1482,20 @@ Dynamic preview card generator for Telegram channels, groups, and bots. Features
 
 ---
 
+### 88 . [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats)
+
+Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
+
+📍 For example :
+
+### 📊 PR List Mode - Your Contribution Timeline
+![PR List Demo](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=f14xuanlv&limit=6&theme=dark)
+
+### 📈 Repository Stats Mode - Impact Overview
+![Repo Stats Demo](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=torvalds&mode=repo-aggregate&limit=5&theme=dark)
+
+---
+
 </details>
   
 ## ✅ Icons 👇
