@@ -1496,6 +1496,16 @@ Dynamic SVG tables displaying your GitHub pull requests with dual modes: detaile
 
 ---
 
+### 89 . [Nostalgia Github Banner](https://github.com/czl9707/nostalgia-gh-banner)
+
+Dynamic styled banners! Perfect for one liners!
+
+📍 For example :
+
+![Rainy Demo](https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=Beautify+Readme)
+![Noise Demo](https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=200&width=2000&bannerText=Beautify+Readme)
+---
+
 </details>
   
 ## ✅ Icons 👇
