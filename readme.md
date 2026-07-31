@@ -1617,6 +1617,17 @@ A simple badge to display your followers, stars, and repositories
   <img src="https://raw.githubusercontent.com/egorthinks/git-bonsai/main/assets/bonsai-growth.gif" width="384" alt="A procedurally generated pixel-art bonsai growing from a seed" />
 </p>
 
+### 100 . [Living Scene](https://github.com/yuki4266/living-scene)
+
+🌦 Your profile README, synced to your actual weather. A scheduled Action asks Open-Meteo what the sky is doing at your coordinates and redraws an animated SVG banner to match — six weather states, four seasons, and day/night variants that follow the viewer's theme. A cat lives in the footer. No API key, no backend, no dependencies: one Python file and the standard library. Output is deterministic per (weather, season), so a week of clear skies produces zero commits instead of 56 identical ones.
+
+📍 For example:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/sky-rain.svg" width="384" alt="An animated sky strip with drifting clouds and falling rain" />
+  <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/footer-autumn.svg" width="384" alt="An animated autumn garden footer with a cat" />
+</p>
+
 
 
 ### Outdated
