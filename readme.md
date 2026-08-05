@@ -1745,6 +1745,22 @@ A Stunning star history chart generator for Github Repositories
   <img width="720" src="https://raw.githubusercontent.com/GhadiChender/terminal-profile-card/main/examples/dark.svg" alt="terminal profile card">
 </p>
 
+### 109 . [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac)
+Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity
+
+📍 For example :
+<p align="center">
+  <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&width=360" alt="GitHub Readme Zodiac card" width="360">
+</p>
+
+### 110 . [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac)
+Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity
+
+📍 For example :
+<p align="center">
+  <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360" alt="GitHub Readme Chinese Zodiac card" width="360">
+</p>
+
 </details>
 
 </details>
