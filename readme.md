@@ -1726,6 +1726,14 @@ A Stunning star history chart generator for Github Repositories
   <img src="https://api.star-history.com/svg?repos=mdn/js-examples&type=Date" alt="Red Chart">
 </p>
 
+### 108 . [terminal-profile-card](https://github.com/GhadiChender/terminal-profile-card)
+🖥️ Neofetch-style terminal card for your profile README — an ASCII portrait beside a system-info pane, rendered to plain SVG that you commit to your repo. Nothing is generated at request time, so there is no hosted endpoint to rate-limit or return a 503 at the top of your profile. Ships two themes and swaps them with `<picture>` and `prefers-color-scheme`; the info pane, colours and character grid are all driven by a TOML config.
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://raw.githubusercontent.com/GhadiChender/terminal-profile-card/main/examples/dark.svg" alt="terminal profile card">
+</p>
+
 </details>
 
 </details>
