@@ -1634,7 +1634,7 @@ A soccer-themed SVG activity graph that turns recent public GitHub events into a
 📍 For example :
 <p align="center">
   <a href="https://github.com/AlexBybye/soccer-activity-display">
-    <img src="https://github-readme-attack-pulse.github-readme-attack-pulse.workers.dev/graph?username=AlexBybye&amp;club=red" alt="AlexBybye GitHub activity rendered as a soccer attack-pulse graph" width="800">
+    <img src="https://github-readme-attack-pulse.github-readme-attack-pulse.workers.dev/graph?username=AlexBybye&amp;club=bayern" alt="AlexBybye GitHub activity rendered as a soccer attack-pulse graph" width="800">
   </a>
 </p>
 
