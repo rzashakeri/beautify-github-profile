@@ -1628,6 +1628,22 @@ A simple badge to display your followers, stars, and repositories
   <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/footer-autumn.svg" width="384" alt="An animated autumn garden footer with a cat" />
 </p>
 
+### 101 . [Soccer Activity Display](https://github.com/AlexBybye/soccer-activity-display)
+A soccer-themed SVG activity graph that turns up to 200 recent public GitHub events into an attack-pulse chart on a football pitch. It analyzes recent working habits instead of copying the contribution calendar: weighted actions, active days, repositories, dominant event type (play style), and the daily pulse are computed server-side, with a football marking the peak-activity day. Selectable club-inspired color presets keep the same chart style while changing only the accent colors. Presets include Bayern, Real Madrid, Inter Milan, Barcelona, Dortmund, and Manchester City.
+
+📍 For example :
+<p align="center">
+  <a href="https://github.com/AlexBybye/soccer-activity-display">
+    <img src="https://github-readme-attack-pulse.github-readme-attack-pulse.workers.dev/graph?username=AlexBybye&amp;club=bayern" alt="AlexBybye GitHub activity rendered as a soccer attack-pulse graph" width="800">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexBybye/soccer-activity-display/main/examples/bayern.svg" alt="Static Bayern palette preview for Soccer Activity Display" width="800">
+</p>
+
+Palette examples and the embed parameters are documented in the [Soccer Activity Display README](https://github.com/AlexBybye/soccer-activity-display#palette-previews).
+
 
 
 ### Outdated
@@ -1636,7 +1652,7 @@ A simple badge to display your followers, stars, and repositories
 
 The servers of these projects are down. But they are still interesting for inspiration or forking.
 
-### 98 . [Github Trends](https://github.com/avgupta456/github-trends)
+### 102 . [Github Trends](https://github.com/avgupta456/github-trends)
 Level up your GitHub profile readme with customizable cards including LOC statistics!
 
 📍 For example :
@@ -1644,7 +1660,7 @@ Level up your GitHub profile readme with customizable cards including LOC statis
   <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" width=720>
 </p>
 
-### 99 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
+### 103 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
 Showcase your github stats on your profile README.md
 
 📍 For example :
@@ -1652,7 +1668,7 @@ Showcase your github stats on your profile README.md
   <img src="readme.png" width=720 alt="readme.png">
 </p>
 
-### 100 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+### 104 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 Google lighthouse stats of your website that you can put in readme
 
 📍 For example :
@@ -1660,7 +1676,7 @@ Google lighthouse stats of your website that you can put in readme
   <img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" width=720 alt="Readme Pagespeed Insights">
 </p>
 
-### 101 . [Wrapped](https://github.com/neat-run/wrapped)
+### 105 . [Wrapped](https://github.com/neat-run/wrapped)
 GitHub Wrapped, inspired by Spotify Wrapped
 
 📍 For example :
@@ -1668,7 +1684,7 @@ GitHub Wrapped, inspired by Spotify Wrapped
   <img src="wrapped.png" style="max-width: 100%;" max-width="100%" alt="Wrapped">
 </p>
 
-### 102 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
+### 106 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
 Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
 
 📍 For example :
@@ -1680,13 +1696,13 @@ Pimp my README is an open source profile builder that you can use to add some co
   </a>
 </p>
 
-### 103 . [Code Statistic](https://github.com/zmh-program/code-statistic)
+### 107 . [Code Statistic](https://github.com/zmh-program/code-statistic)
 Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
 
-### 104 . [Random Memer](https://github.com/techytushar/random-memer)
+### 108 . [Random Memer](https://github.com/techytushar/random-memer)
 Returns random meme images scraped from Memedroid
 
-### 105 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
+### 109 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
 This project provides a badge for sharing your current book in your github profile.
 
 📍 For example :
@@ -1694,7 +1710,7 @@ This project provides a badge for sharing your current book in your github profi
   <img alt="GoodReads" src="https://goodreads-readme.vercel.app/api/book" style="max-width: 100%;">
 </p>
 
-### 106 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
+### 110 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
 Show npm packages downloads ⏬ in GitHub README
 
 📍 For example :
@@ -1729,7 +1745,7 @@ Show npm packages downloads ⏬ in GitHub README
 </tbody>
 </table>
 
-### 107 . [Star History](https://github.com/lucabubi/star-history)
+### 111 . [Star History](https://github.com/lucabubi/star-history)
 A Stunning star history chart generator for Github Repositories
 
 📍 For example :
@@ -1737,7 +1753,7 @@ A Stunning star history chart generator for Github Repositories
   <img src="https://api.star-history.com/svg?repos=mdn/js-examples&type=Date" alt="Red Chart">
 </p>
 
-### 108 . [terminal-profile-card](https://github.com/GhadiChender/terminal-profile-card)
+### 112 . [terminal-profile-card](https://github.com/GhadiChender/terminal-profile-card)
 🖥️ Neofetch-style terminal card for your profile README — an ASCII portrait beside a system-info pane, rendered to plain SVG that you commit to your repo. Nothing is generated at request time, so there is no hosted endpoint to rate-limit or return a 503 at the top of your profile. Ships two themes and swaps them with `<picture>` and `prefers-color-scheme`; the info pane, colours and character grid are all driven by a TOML config.
 
 📍 For example :
@@ -1745,7 +1761,7 @@ A Stunning star history chart generator for Github Repositories
   <img width="720" src="https://raw.githubusercontent.com/GhadiChender/terminal-profile-card/main/examples/dark.svg" alt="terminal profile card">
 </p>
 
-### 109 . [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac)
+### 113 . [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac)
 Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity
 
 📍 For example :
@@ -1753,7 +1769,7 @@ Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity
   <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&width=360" alt="GitHub Readme Zodiac card" width="360">
 </p>
 
-### 110 . [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac)
+### 114 . [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac)
 Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity
 
 📍 For example :
