@@ -1629,7 +1629,7 @@ A simple badge to display your followers, stars, and repositories
 </p>
 
 ### 101 . [Soccer Activity Display](https://github.com/AlexBybye/soccer-activity-display)
-A soccer-themed SVG activity graph that turns up to 200 recent public GitHub events into an attack-pulse chart on a football pitch. It analyzes recent working habits instead of copying the contribution calendar: weighted actions, active days, repositories, dominant event type (play style), and the daily pulse are computed server-side, with a football marking the peak-activity day. Selectable club-inspired color presets keep the same chart style while changing only the accent colors.
+A soccer-themed SVG activity graph that turns up to 200 recent public GitHub events into an attack-pulse chart on a football pitch. It analyzes recent working habits instead of copying the contribution calendar: weighted actions, active days, repositories, dominant event type (play style), and the daily pulse are computed server-side, with a football marking the peak-activity day. Selectable club-inspired color presets keep the same chart style while changing only the accent colors. Presets include Bayern, Real Madrid, Inter Milan, Barcelona, Dortmund, and Manchester City.
 
 📍 For example :
 <p align="center">
