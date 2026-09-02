@@ -1638,6 +1638,10 @@ A soccer-themed SVG activity graph that turns up to 200 recent public GitHub eve
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexBybye/soccer-activity-display/main/examples/bayern.svg" alt="Static Bayern palette preview for Soccer Activity Display" width="800">
+</p>
+
 Palette examples and the embed parameters are documented in the [Soccer Activity Display README](https://github.com/AlexBybye/soccer-activity-display#palette-previews).
 
 
