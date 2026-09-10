@@ -369,7 +369,7 @@ Stardev هر کاربر و مخزن گیت‌هاب را بر اساس زبان 
   <img src="todoist-stat.png/" width=400 alt="Todoist Readme">
 </p>
 
-### 2 . [GitHub Stats Extended](https://github.com/anuraghazra/github-readme-stats)
+### 2 . [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)
 آمار تولید شده به صورت دینامیک برای READMEهای گیت‌هاب شما
 
 📍 به عنوان مثال :

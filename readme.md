@@ -378,7 +378,7 @@ Topmate is a platform to connect 1:1 with your audience & monetise your time bet
 <details>
  <summary><strong>Click to expand list (1~50)</strong></summary>
 
-### 1 . [GitHub Stats Extended](https://github.com/anuraghazra/github-readme-stats)
+### 1 . [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)
 Dynamically generate GitHub stats for your READMEs.
 
 📍 For example :
