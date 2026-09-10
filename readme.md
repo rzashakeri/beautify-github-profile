@@ -1761,6 +1761,14 @@ Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub 
   <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360" alt="GitHub Readme Chinese Zodiac card" width="360">
 </p>
 
+### 111 . [vinilo](https://github.com/icortesb/vinilo)
+Your recently played Spotify tracks as a static SVG, built inside your own GitHub Actions and committed to your own branch — no third-party service holds your token
+
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icortesb/icortesb/output/vinilo-dark.svg" alt="vinilo card" width="400">
+</p>
+
 </details>
 
 </details>
