@@ -378,13 +378,25 @@ Topmate is a platform to connect 1:1 with your audience & monetise your time bet
 <details>
  <summary><strong>Click to expand list (1~50)</strong></summary>
 
-### 1 . [github readme stats](https://github.com/anuraghazra/github-readme-stats)
-Dynamically generated stats for your github readmes
+### 1 . [GitHub Stats Extended](https://github.com/anuraghazra/github-readme-stats)
+Dynamically generate GitHub stats for your READMEs.
 
 📍 For example :
 <p align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" style="max-width: 100%;" width=400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="max-width: 100%;" width=400>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show=issues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&hide=contribs&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show=issues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&hide=contribs&theme=light_github" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=light_github" />
+  </picture>
 </p>
 
 ### 2 . [Profile Summary For Github](https://github.com/tipsy/profile-summary-for-github)
