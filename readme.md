@@ -1628,6 +1628,16 @@ A simple badge to display your followers, stars, and repositories
   <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/footer-autumn.svg" width="384" alt="An animated autumn garden footer with a cat" />
 </p>
 
+### 101 . [readme-mark](https://github.com/SylphxAI/readme-mark)
+
+Animated banners, badges, typing text, tech icons, and GitHub stats, streak and trophy cards, each from one URL, with no token or signup. A web studio at [mark.sylphx.com](https://mark.sylphx.com) builds the URLs. Existing capsule-render, shields.io, skill-icons, readme-typing-svg and github-readme-stats URLs work with only the host changed.
+
+📍 For example :
+
+<p align="center">
+  <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&color=0:0F172A,50:5B8CFF,100:FF8A3D&height=160&text=Hello%2C%20README&desc=One%20URL%20per%20image" width="100%" alt="readme-mark waving banner" />
+</p>
+
 
 
 ### Outdated
