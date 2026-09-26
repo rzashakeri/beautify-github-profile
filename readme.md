@@ -1761,6 +1761,14 @@ Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub 
   <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360" alt="GitHub Readme Chinese Zodiac card" width="360">
 </p>
 
+### 111 . [Readme Portrait](https://github.com/kimjusnu/readme_portrait)
+Turns your GitHub avatar or any photo into an animated colour ASCII portrait that types itself out inside a terminal-window SVG. Pure SMIL, so it plays inside the README `<img>` and is never blank where animation does not run. Web studio (runs in the browser), `npx readme-portrait <username>` CLI and a GitHub Action that redraws it when your avatar changes.
+
+📍 For example :
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kimjusnu/readme_portrait/main/assets/gallery/mona_lisa.svg" alt="Readme Portrait example" width="360">
+</p>
+
 </details>
 
 </details>
