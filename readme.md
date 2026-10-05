@@ -1800,6 +1800,14 @@ Showcase your skills on your Github readme or resumé with ease ✨
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 </p>
 
+### 4 . [icon-marquee](https://github.com/gian-gg/icon-marquee)
+Scrolling marquees and static rows of tech icons, served as SVG — drop one into your README with a plain `<img>` tag
+
+📍 For example :
+<p align="center">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,nextjs,svelte,vue,tailwind,bun,nodejs,docker,postgres,redis,go,rust,python&width=1000" alt="icon-marquee">
+</p>
+
 ---
 
 </details>
