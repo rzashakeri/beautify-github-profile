@@ -1628,7 +1628,13 @@ A simple badge to display your followers, stars, and repositories
   <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/footer-autumn.svg" width="384" alt="An animated autumn garden footer with a cat" />
 </p>
 
+### 101 . [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii)
+Terminal-style ASCII SVGs of your GitHub contribution graph, stats, streak, and neofetch card — embed with a single URL
 
+📍 For example :
+<p align="center">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=mac&scale=0.6" alt="GitHub README Insight Terminal ASCII" width="720">
+</p>
 
 ### Outdated
 <details>
