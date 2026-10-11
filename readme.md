@@ -1761,6 +1761,14 @@ Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub 
   <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360" alt="GitHub Readme Chinese Zodiac card" width="360">
 </p>
 
+### 111 . [gh-stats](https://gh-stats.com)
+One SVG card for your whole profile: a score out of 100, contribution timeline, top collaborators, language breakdown, commit streaks and tags worked out from your repos. Five themes, GitHub dark/light auto-switching, one line of markdown, no signup.
+
+📍 For example :
+<p align="center">
+  <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
+</p>
+
 </details>
 
 </details>
