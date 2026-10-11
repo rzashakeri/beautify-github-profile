@@ -368,6 +368,16 @@ A badge generator service that counts views on your markdown file.
 ### 30 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
 Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
 
+### 31 . [terminal-shields](https://github.com/seuthootDev/terminal-shields)
+Shields-style badges drawn as compact neon terminal one-liners. Same URL idea as Shields.io, with themes, Simple Icons logos, and live GitHub/npm badges.
+
+📍 For example :
+<p align="center">
+  <img src="https://terminal-shields.vercel.app/badge/build-passing-brightgreen" alt="build">
+  <img src="https://terminal-shields.vercel.app/badge/qml-41CD52?logo=qt&theme=amber" alt="qt">
+  <img src="https://terminal-shields.vercel.app/github/stars/seuthootDev/terminal-shields" alt="stars">
+</p>
+
 </details>
 
 ---
@@ -378,13 +388,25 @@ Topmate is a platform to connect 1:1 with your audience & monetise your time bet
 <details>
  <summary><strong>Click to expand list (1~50)</strong></summary>
 
-### 1 . [github readme stats](https://github.com/anuraghazra/github-readme-stats)
-Dynamically generated stats for your github readmes
+### 1 . [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)
+Dynamically generate GitHub stats for your READMEs.
 
 📍 For example :
 <p align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" style="max-width: 100%;" width=400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="max-width: 100%;" width=400>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show=issues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&hide=contribs&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show=issues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&hide=contribs&theme=light_github" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=light_github" />
+  </picture>
 </p>
 
 ### 2 . [Profile Summary For Github](https://github.com/tipsy/profile-summary-for-github)
@@ -1628,7 +1650,15 @@ A simple badge to display your followers, stars, and repositories
   <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/footer-autumn.svg" width="384" alt="An animated autumn garden footer with a cat" />
 </p>
 
-### 101 . [readme-mark](https://github.com/SylphxAI/readme-mark)
+### 101 . [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii)
+Terminal-style ASCII SVGs of your GitHub contribution graph, stats, streak, and neofetch card — embed with a single URL
+
+📍 For example :
+<p align="center">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=mac&scale=0.6" alt="GitHub README Insight Terminal ASCII" width="720">
+</p>
+
+### 102 . [readme-mark](https://github.com/SylphxAI/readme-mark)
 
 Animated banners, badges, typing text, tech icons, and GitHub stats, streak and trophy cards, each from one URL, with no token or signup. A web studio at [mark.sylphx.com](https://mark.sylphx.com) builds the URLs. Existing capsule-render, shields.io, skill-icons, readme-typing-svg and github-readme-stats URLs work with only the host changed.
 
@@ -1637,8 +1667,6 @@ Animated banners, badges, typing text, tech icons, and GitHub stats, streak and 
 <p align="center">
   <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&color=0:0F172A,50:5B8CFF,100:FF8A3D&height=160&text=Hello%2C%20README&desc=One%20URL%20per%20image" width="100%" alt="readme-mark waving banner" />
 </p>
-
-
 
 ### Outdated
 <details>
@@ -1771,6 +1799,14 @@ Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub 
   <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&width=360" alt="GitHub Readme Chinese Zodiac card" width="360">
 </p>
 
+### 111 . [gh-stats](https://gh-stats.com)
+One SVG card for your whole profile: a score out of 100, contribution timeline, top collaborators, language breakdown, commit streaks and tags worked out from your repos. Five themes, GitHub dark/light auto-switching, one line of markdown, no signup.
+
+📍 For example :
+<p align="center">
+  <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
+</p>
+
 </details>
 
 </details>
@@ -1808,6 +1844,14 @@ Showcase your skills on your Github readme or resumé with ease ✨
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+</p>
+
+### 4 . [icon-marquee](https://github.com/gian-gg/icon-marquee)
+Scrolling marquees and static rows of tech icons, served as SVG — drop one into your README with a plain `<img>` tag
+
+📍 For example :
+<p align="center">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=js,ts,react,nextjs,svelte,vue,tailwind,bun,nodejs,docker,postgres,redis,go,rust,python&width=1000" alt="icon-marquee">
 </p>
 
 ---
