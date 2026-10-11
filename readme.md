@@ -368,6 +368,16 @@ A badge generator service that counts views on your markdown file.
 ### 30 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
 Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
 
+### 31 . [terminal-shields](https://github.com/seuthootDev/terminal-shields)
+Shields-style badges drawn as compact neon terminal one-liners. Same URL idea as Shields.io, with themes, Simple Icons logos, and live GitHub/npm badges.
+
+📍 For example :
+<p align="center">
+  <img src="https://terminal-shields.vercel.app/badge/build-passing-brightgreen" alt="build">
+  <img src="https://terminal-shields.vercel.app/badge/qml-41CD52?logo=qt&theme=amber" alt="qt">
+  <img src="https://terminal-shields.vercel.app/github/stars/seuthootDev/terminal-shields" alt="stars">
+</p>
+
 </details>
 
 ---
