@@ -1807,6 +1807,14 @@ One SVG card for your whole profile: a score out of 100, contribution timeline, 
   <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
 </p>
 
+### 112 . [AI-Atlas](https://getaiatlas.com/?ref=beautify-github-profile)
+A live card that maps your AI engineering skills across six fields (Machine Learning, Computer Vision, Data Science, NLP & LLMs, AI Agents, MLOps), scored from the code in your public repositories rather than stars or followers, with a global leaderboard rank. Map your profile once and the card updates whenever you rescan. One line of markdown, free.
+
+📍 For example :
+<p align="center">
+  <img width="420" src="https://getaiatlas.com/api/badge/pop123-ux" alt="AI-Atlas card">
+</p>
+
 </details>
 
 </details>
