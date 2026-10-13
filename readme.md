@@ -1668,6 +1668,16 @@ Animated banners, badges, typing text, tech icons, and GitHub stats, streak and 
   <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&color=0:0F172A,50:5B8CFF,100:FF8A3D&height=160&text=Hello%2C%20README&desc=One%20URL%20per%20image" width="100%" alt="readme-mark waving banner" />
 </p>
 
+### 103 . [GitCard Studio](https://github.com/creativecodeco/gitcard-studio)
+
+Dynamic SVG cards generator & live API for GitHub stats, language distribution, commit habits matrix, contribution streak, developer rank, and sponsor tiers with a real-time web studio at [gitcard-studio.creativecode.com.co](https://gitcard-studio.creativecode.com.co/).
+
+📍 For example :
+
+<p align="center">
+  <img src="https://gitcard-studio.creativecode.com.co/api/cards/stats?username=creativecodeco&theme=dark" alt="GitCard Studio Stats Card" width="495" />
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
