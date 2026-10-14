@@ -1668,6 +1668,14 @@ Animated banners, badges, typing text, tech icons, and GitHub stats, streak and 
   <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&color=0:0F172A,50:5B8CFF,100:FF8A3D&height=160&text=Hello%2C%20README&desc=One%20URL%20per%20image" width="100%" alt="readme-mark waving banner" />
 </p>
 
+### 103 . [github-metrics](https://github.com/vsmutok/github-metrics)
+Your whole GitHub story as one live SVG card: activity, streaks, top languages, repository stats, achievement trophies and LeetCode/Codeforces/CodeChef stats. Ships 32 themes and 3 card styles, every section is toggleable, and it needs nothing but an `<img>` in your README.
+
+📍 For example :
+<p align="center">
+  <img width="420" src="https://ghmetric.vercel.app/api/profile?username=vsmutok" alt="github-metrics card">
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
@@ -1805,14 +1813,6 @@ One SVG card for your whole profile: a score out of 100, contribution timeline, 
 📍 For example :
 <p align="center">
   <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
-</p>
-
-### 112 . [github-metrics](https://github.com/vsmutok/github-metrics)
-Your whole GitHub story as one live SVG card: activity, streaks, top languages, repository stats, achievement trophies and LeetCode/Codeforces/CodeChef stats. Ships 32 themes and 3 card styles, every section is toggleable, and it needs nothing but an `<img>` in your README.
-
-📍 For example :
-<p align="center">
-  <img width="420" src="https://ghmetric.vercel.app/api/profile?username=vsmutok" alt="github-metrics card">
 </p>
 
 </details>
