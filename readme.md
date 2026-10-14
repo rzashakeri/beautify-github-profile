@@ -1807,6 +1807,14 @@ One SVG card for your whole profile: a score out of 100, contribution timeline, 
   <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
 </p>
 
+### 112 . [github-metrics](https://github.com/vsmutok/github-metrics)
+Your whole GitHub story as one live SVG card: activity, streaks, top languages, repository stats, achievement trophies and LeetCode/Codeforces/CodeChef stats. Ships 32 themes and 3 card styles, every section is toggleable, and it needs nothing but an `<img>` in your README.
+
+📍 For example :
+<p align="center">
+  <img width="420" src="https://ghmetric.vercel.app/api/profile?username=vsmutok" alt="github-metrics card">
+</p>
+
 </details>
 
 </details>
