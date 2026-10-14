@@ -1673,7 +1673,7 @@ Your whole GitHub story as one live SVG card: activity, streaks, top languages, 
 
 📍 For example :
 <p align="center">
-  <img width="420" src="https://ghmetric.vercel.app/api/profile?username=vsmutok" alt="github-metrics card">
+  <img width="630" src="[https://ghmetric.vercel.app/api/profile?username=vsmutok](https://ghmetric.vercel.app/api/profile?username=vsmutok&theme=github-light&style=modern)" alt="github-metrics card">
 </p>
 
 ### Outdated
