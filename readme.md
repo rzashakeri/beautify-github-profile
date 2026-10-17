@@ -1807,11 +1807,17 @@ One SVG card for your whole profile: a score out of 100, contribution timeline, 
   <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
 </p>
 
-</details>
+### 112 . [Terminal Typing SVG](https://github.com/VaidikV/terminal-typing-svg)
+
+Terminal-style typing animations, GitHub stats cards, and contribution heatmaps rendered as SVG via a Cloudflare Worker.
+
+📍 For example :
+
+![Terminal Typing SVG demo](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;terminal-typing-svg;%24%20cat%20mission.txt;beautiful%20typing%20animations%20for%20your%20README;no%20server.%20no%20php.%20just%20a%20url.)
 
 </details>
 
-## ✅ Icons 👇
+</details>## ✅ Icons 👇
 <details>
  <summary><strong>Click to expand list</strong></summary>
 
