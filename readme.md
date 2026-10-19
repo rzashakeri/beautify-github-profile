@@ -1841,6 +1841,14 @@ A live card that maps your AI engineering skills across six fields (Machine Lear
   <img width="420" src="https://getaiatlas.com/api/badge/pop123-ux" alt="AI-Atlas card">
 </p>
 
+### 113 . [Contribution FX](https://github.com/Sur1ive/contribution-fx)
+Turn your contribution graph into an animated SVG: Game of Life, sorting, ripples, fireworks or gravity. Five palettes with light/dark variants, generated daily by a zero-dependency GitHub Action. Try it with your username in the [playground](https://sur1ive.github.io/contribution-fx/).
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fireworks-light.svg" alt="Contribution FX fireworks effect">
+</p>
+
 </details>
 
 </details>
