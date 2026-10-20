@@ -1849,6 +1849,14 @@ Turn your contribution graph into an animated SVG: Game of Life, sorting, ripple
   <img width="720" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fireworks-light.svg" alt="Contribution FX fireworks effect">
 </p>
 
+### 114 . [Gradients Studio README header](https://www.gradients.studio/readme-header?utm_source=github&utm_medium=directory&utm_content=beautify-github-profile)
+Gradient header images for a profile or repo README: pick a palette, type a title, paste one line of Markdown. Real grain, served from a CDN.
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://www.gradients.studio/img?preset=aurora&w=1280&h=320&text=beautify-github-profile" alt="Gradient README header">
+</p>
+
 </details>
 
 </details>
