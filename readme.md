@@ -1849,6 +1849,14 @@ Turn your contribution graph into an animated SVG: Game of Life, sorting, ripple
   <img width="720" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fireworks-light.svg" alt="Contribution FX fireworks effect">
 </p>
 
+### 115 . [Terminal Typing SVG](https://github.com/VaidikV/terminal-typing-svg)
+
+Terminal-style typing animations, GitHub stats cards, and contribution heatmaps rendered as SVG via a Cloudflare Worker.
+
+📍 For example :
+
+![Terminal Typing SVG demo](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;terminal-typing-svg;%24%20cat%20mission.txt;beautiful%20typing%20animations%20for%20your%20README;no%20server.%20no%20php.%20just%20a%20url.)
+
 </details>
 
 </details>
