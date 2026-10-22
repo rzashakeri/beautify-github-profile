@@ -380,6 +380,14 @@ Shields-style badges drawn as compact neon terminal one-liners. Same URL idea as
 
 </details>
 
+### 32 . [b59.link view counter badge](https://github.com/icedsg/b59-view-counter-badge)
+A profile views counter that needs no sign-up: add `count=1` to the badge address and each load of the image counts as a view, so it works in a profile README where no script can run. Snippets for Markdown, HTML, React, Astro, Hugo and Jekyll.
+
+📍 For example :
+<p align="center">
+  <img src="https://b59.link/badge.svg?id=09f2e391-6eb5-4b9c-ab92-86cd4cd65adb" alt="views">
+</p>
+
 ---
 
 </details>
