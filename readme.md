@@ -1702,6 +1702,16 @@ Dynamic SVG cards generator & live API for GitHub stats, language distribution, 
   <img src="https://gitcard-studio.creativecode.com.co/api/cards/stats?username=creativecodeco&theme=dark" alt="GitCard Studio Stats Card" width="495" />
 </p>
 
+### 104 . [devtypes.com](https://devtypes.com)
+
+Sign in with GitHub and get your four-letter dev type, one of 16, read once from your own public activity and printed as a thermal-style receipt. Copy the ready snippet to embed the ticket (animated SVG or PNG) or the itemised slip in your profile README. The sign-in token is revoked right after the read. Also has variants for Zodiac signs, D&D class, Greek patron deity, and more.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://devtypes.com/OGBC"><img src="https://devtypes.com/sample/OGBC-slip.png" width="480" alt="devtypes card for the dev type OGBC, the Night Editor" /></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
