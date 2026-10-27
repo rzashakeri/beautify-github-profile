@@ -1875,6 +1875,16 @@ Terminal-style typing animations, GitHub stats cards, and contribution heatmaps 
 
 ![Terminal Typing SVG demo](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;terminal-typing-svg;%24%20cat%20mission.txt;beautiful%20typing%20animations%20for%20your%20README;no%20server.%20no%20php.%20just%20a%20url.)
 
+### 116 . [Readme X Cards](https://github.com/seuthootDev/readme-x-cards)
+
+X (Twitter) profile, latest post and multi-post cards for your README as SVG. Six themes, light/dark mode via `<picture>`, no token or sign-up. Build the snippet on the [generator page](https://readme-x-cards.vercel.app).
+
+📍 For example :
+
+<p align="center">
+  <img width="450" src="https://readme-x-cards.vercel.app/api/profile?user=Seuthoot&theme=aurora" alt="Readme X Cards profile card">
+</p>
+
 </details>
 
 </details>
