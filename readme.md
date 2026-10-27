@@ -1875,6 +1875,14 @@ Terminal-style typing animations, GitHub stats cards, and contribution heatmaps 
 
 ![Terminal Typing SVG demo](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;terminal-typing-svg;%24%20cat%20mission.txt;beautiful%20typing%20animations%20for%20your%20README;no%20server.%20no%20php.%20just%20a%20url.)
 
+### 116 . [Gradients Studio README header](https://www.gradients.studio/readme-header?utm_source=github&utm_medium=directory&utm_content=beautify-github-profile)
+Gradient header images for a profile or repo README: pick a palette, type a title, paste one line of Markdown. Real grain, served from a CDN.
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://www.gradients.studio/img?preset=aurora&w=1280&h=320&text=beautify-github-profile" alt="Gradient README header">
+</p>
+
 </details>
 
 </details>
