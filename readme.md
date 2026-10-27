@@ -380,6 +380,14 @@ Shields-style badges drawn as compact neon terminal one-liners. Same URL idea as
 
 </details>
 
+### 32 . [b59.link view counter badge](https://github.com/icedsg/b59-view-counter-badge)
+A profile views counter that needs no sign-up: add `count=1` to the badge address and each load of the image counts as a view, so it works in a profile README where no script can run. Snippets for Markdown, HTML, React, Astro, Hugo and Jekyll.
+
+📍 For example :
+<p align="center">
+  <img src="https://b59.link/badge.svg?id=09f2e391-6eb5-4b9c-ab92-86cd4cd65adb" alt="views">
+</p>
+
 ---
 
 </details>
@@ -1694,6 +1702,16 @@ Dynamic SVG cards generator & live API for GitHub stats, language distribution, 
   <img src="https://gitcard-studio.creativecode.com.co/api/cards/stats?username=creativecodeco&theme=dark" alt="GitCard Studio Stats Card" width="495" />
 </p>
 
+### 104 . [devtypes.com](https://devtypes.com)
+
+Sign in with GitHub and get your four-letter dev type, one of 16, read once from your own public activity and printed as a thermal-style receipt. Copy the ready snippet to embed the ticket (animated SVG or PNG) or the itemised slip in your profile README. The sign-in token is revoked right after the read. Also has variants for Zodiac signs, D&D class, Greek patron deity, and more.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://devtypes.com/OGBC"><img src="https://devtypes.com/sample/OGBC-slip.png" width="480" alt="devtypes card for the dev type OGBC, the Night Editor" /></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
@@ -1849,7 +1867,15 @@ Turn your contribution graph into an animated SVG: Game of Life, sorting, ripple
   <img width="720" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fireworks-light.svg" alt="Contribution FX fireworks effect">
 </p>
 
-### 114 . [Gradients Studio README header](https://www.gradients.studio/readme-header?utm_source=github&utm_medium=directory&utm_content=beautify-github-profile)
+### 115 . [Terminal Typing SVG](https://github.com/VaidikV/terminal-typing-svg)
+
+Terminal-style typing animations, GitHub stats cards, and contribution heatmaps rendered as SVG via a Cloudflare Worker.
+
+📍 For example :
+
+![Terminal Typing SVG demo](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;terminal-typing-svg;%24%20cat%20mission.txt;beautiful%20typing%20animations%20for%20your%20README;no%20server.%20no%20php.%20just%20a%20url.)
+
+### 116 . [Gradients Studio README header](https://www.gradients.studio/readme-header?utm_source=github&utm_medium=directory&utm_content=beautify-github-profile)
 Gradient header images for a profile or repo README: pick a palette, type a title, paste one line of Markdown. Real grain, served from a CDN.
 
 📍 For example :
