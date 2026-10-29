@@ -380,6 +380,14 @@ Shields-style badges drawn as compact neon terminal one-liners. Same URL idea as
 
 </details>
 
+### 32 . [b59.link view counter badge](https://github.com/icedsg/b59-view-counter-badge)
+A profile views counter that needs no sign-up: add `count=1` to the badge address and each load of the image counts as a view, so it works in a profile README where no script can run. Snippets for Markdown, HTML, React, Astro, Hugo and Jekyll.
+
+📍 For example :
+<p align="center">
+  <img src="https://b59.link/badge.svg?id=09f2e391-6eb5-4b9c-ab92-86cd4cd65adb" alt="views">
+</p>
+
 ---
 
 </details>
@@ -1650,7 +1658,23 @@ A simple badge to display your followers, stars, and repositories
   <img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/footer-autumn.svg" width="384" alt="An animated autumn garden footer with a cat" />
 </p>
 
-### 101 . [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii)
+### 101 . [Soccer Activity Display](https://github.com/AlexBybye/soccer-activity-display)
+A soccer-themed SVG activity graph that turns up to 200 recent public GitHub events into an attack-pulse chart on a football pitch. It analyzes recent working habits instead of copying the contribution calendar: weighted actions, active days, repositories, dominant event type (play style), and the daily pulse are computed server-side, with a football marking the peak-activity day. Selectable club-inspired color presets keep the same chart style while changing only the accent colors. Presets include Bayern, Real Madrid, Inter Milan, Barcelona, Dortmund, and Manchester City.
+
+📍 For example :
+<p align="center">
+  <a href="https://github.com/AlexBybye/soccer-activity-display">
+    <img src="https://github-readme-attack-pulse.github-readme-attack-pulse.workers.dev/graph?username=AlexBybye&amp;club=bayern" alt="AlexBybye GitHub activity rendered as a soccer attack-pulse graph" width="800">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexBybye/soccer-activity-display/main/examples/bayern.svg" alt="Static Bayern palette preview for Soccer Activity Display" width="800">
+</p>
+
+Palette examples and the embed parameters are documented in the [Soccer Activity Display README](https://github.com/AlexBybye/soccer-activity-display#palette-previews).
+
+### 102 . [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii)
 Terminal-style ASCII SVGs of your GitHub contribution graph, stats, streak, and neofetch card — embed with a single URL
 
 📍 For example :
@@ -1658,7 +1682,7 @@ Terminal-style ASCII SVGs of your GitHub contribution graph, stats, streak, and 
   <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=mac&scale=0.6" alt="GitHub README Insight Terminal ASCII" width="720">
 </p>
 
-### 102 . [readme-mark](https://github.com/SylphxAI/readme-mark)
+### 103 . [readme-mark](https://github.com/SylphxAI/readme-mark)
 
 Animated banners, badges, typing text, tech icons, and GitHub stats, streak and trophy cards, each from one URL, with no token or signup. A web studio at [mark.sylphx.com](https://mark.sylphx.com) builds the URLs. Existing capsule-render, shields.io, skill-icons, readme-typing-svg and github-readme-stats URLs work with only the host changed.
 
@@ -1668,12 +1692,32 @@ Animated banners, badges, typing text, tech icons, and GitHub stats, streak and 
   <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?type=waving&color=0:0F172A,50:5B8CFF,100:FF8A3D&height=160&text=Hello%2C%20README&desc=One%20URL%20per%20image" width="100%" alt="readme-mark waving banner" />
 </p>
 
-### 103 . [github-metrics](https://github.com/vsmutok/github-metrics)
+### 103 . [GitCard Studio](https://github.com/creativecodeco/gitcard-studio)
+
+Dynamic SVG cards generator & live API for GitHub stats, language distribution, commit habits matrix, contribution streak, developer rank, and sponsor tiers with a real-time web studio at [gitcard-studio.creativecode.com.co](https://gitcard-studio.creativecode.com.co/).
+
+📍 For example :
+
+<p align="center">
+  <img src="https://gitcard-studio.creativecode.com.co/api/cards/stats?username=creativecodeco&theme=dark" alt="GitCard Studio Stats Card" width="495" />
+</p>
+
+### 104 . [devtypes.com](https://devtypes.com)
+
+Sign in with GitHub and get your four-letter dev type, one of 16, read once from your own public activity and printed as a thermal-style receipt. Copy the ready snippet to embed the ticket (animated SVG or PNG) or the itemised slip in your profile README. The sign-in token is revoked right after the read. Also has variants for Zodiac signs, D&D class, Greek patron deity, and more.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://devtypes.com/OGBC"><img src="https://devtypes.com/sample/OGBC-slip.png" width="480" alt="devtypes card for the dev type OGBC, the Night Editor" /></a>
+</p>
+
+### 105 . [github-metrics](https://github.com/vsmutok/github-metrics)
 Your whole GitHub story as one live SVG card: activity, streaks, top languages, repository stats, achievement trophies and LeetCode/Codeforces/CodeChef stats. Ships 32 themes and 3 card styles, every section is toggleable, and it needs nothing but an `<img>` in your README.
 
 📍 For example :
 <p align="center">
-  <img width="630" src="[https://ghmetric.vercel.app/api/profile?username=vsmutok](https://ghmetric.vercel.app/api/profile?username=vsmutok&theme=github-light&style=modern)" alt="github-metrics card">
+  <img width="630" src="https://ghmetric.vercel.app/api/profile?username=vsmutok&theme=github-light&style=modern" alt="github-metrics card">
 </p>
 
 ### Outdated
@@ -1682,7 +1726,7 @@ Your whole GitHub story as one live SVG card: activity, streaks, top languages, 
 
 The servers of these projects are down. But they are still interesting for inspiration or forking.
 
-### 98 . [Github Trends](https://github.com/avgupta456/github-trends)
+### 102 . [Github Trends](https://github.com/avgupta456/github-trends)
 Level up your GitHub profile readme with customizable cards including LOC statistics!
 
 📍 For example :
@@ -1690,7 +1734,7 @@ Level up your GitHub profile readme with customizable cards including LOC statis
   <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" width=720>
 </p>
 
-### 99 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
+### 103 . [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats)
 Showcase your github stats on your profile README.md
 
 📍 For example :
@@ -1698,7 +1742,7 @@ Showcase your github stats on your profile README.md
   <img src="readme.png" width=720 alt="readme.png">
 </p>
 
-### 100 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+### 104 . [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 Google lighthouse stats of your website that you can put in readme
 
 📍 For example :
@@ -1706,7 +1750,7 @@ Google lighthouse stats of your website that you can put in readme
   <img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" width=720 alt="Readme Pagespeed Insights">
 </p>
 
-### 101 . [Wrapped](https://github.com/neat-run/wrapped)
+### 105 . [Wrapped](https://github.com/neat-run/wrapped)
 GitHub Wrapped, inspired by Spotify Wrapped
 
 📍 For example :
@@ -1714,7 +1758,7 @@ GitHub Wrapped, inspired by Spotify Wrapped
   <img src="wrapped.png" style="max-width: 100%;" max-width="100%" alt="Wrapped">
 </p>
 
-### 102 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
+### 106 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
 Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
 
 📍 For example :
@@ -1726,13 +1770,13 @@ Pimp my README is an open source profile builder that you can use to add some co
   </a>
 </p>
 
-### 103 . [Code Statistic](https://github.com/zmh-program/code-statistic)
+### 107 . [Code Statistic](https://github.com/zmh-program/code-statistic)
 Dynamically generate your GitHub statistic card! The user card is used to count the languages of all projects under the user and generate statistics, calculate total stars earned, forks acquired, followers, watchers, number of open issues, etc.
 
-### 104 . [Random Memer](https://github.com/techytushar/random-memer)
+### 108 . [Random Memer](https://github.com/techytushar/random-memer)
 Returns random meme images scraped from Memedroid
 
-### 105 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
+### 109 . [Goodreads Readme](https://github.com/arg3t/goodreads-readme)
 This project provides a badge for sharing your current book in your github profile.
 
 📍 For example :
@@ -1740,7 +1784,7 @@ This project provides a badge for sharing your current book in your github profi
   <img alt="GoodReads" src="https://goodreads-readme.vercel.app/api/book" style="max-width: 100%;">
 </p>
 
-### 106 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
+### 110 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
 Show npm packages downloads ⏬ in GitHub README
 
 📍 For example :
@@ -1775,7 +1819,7 @@ Show npm packages downloads ⏬ in GitHub README
 </tbody>
 </table>
 
-### 107 . [Star History](https://github.com/lucabubi/star-history)
+### 111 . [Star History](https://github.com/lucabubi/star-history)
 A Stunning star history chart generator for Github Repositories
 
 📍 For example :
@@ -1783,7 +1827,7 @@ A Stunning star history chart generator for Github Repositories
   <img src="https://api.star-history.com/svg?repos=mdn/js-examples&type=Date" alt="Red Chart">
 </p>
 
-### 108 . [terminal-profile-card](https://github.com/GhadiChender/terminal-profile-card)
+### 112 . [terminal-profile-card](https://github.com/GhadiChender/terminal-profile-card)
 🖥️ Neofetch-style terminal card for your profile README — an ASCII portrait beside a system-info pane, rendered to plain SVG that you commit to your repo. Nothing is generated at request time, so there is no hosted endpoint to rate-limit or return a 503 at the top of your profile. Ships two themes and swaps them with `<picture>` and `prefers-color-scheme`; the info pane, colours and character grid are all driven by a TOML config.
 
 📍 For example :
@@ -1791,7 +1835,7 @@ A Stunning star history chart generator for Github Repositories
   <img width="720" src="https://raw.githubusercontent.com/GhadiChender/terminal-profile-card/main/examples/dark.svg" alt="terminal profile card">
 </p>
 
-### 109 . [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac)
+### 113 . [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac)
 Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity
 
 📍 For example :
@@ -1799,7 +1843,7 @@ Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity
   <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&width=360" alt="GitHub Readme Zodiac card" width="360">
 </p>
 
-### 110 . [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac)
+### 114 . [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac)
 Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity
 
 📍 For example :
@@ -1813,6 +1857,40 @@ One SVG card for your whole profile: a score out of 100, contribution timeline, 
 📍 For example :
 <p align="center">
   <img width="420" src="https://gh-stats.com/api/ShayManor" alt="gh-stats card">
+</p>
+
+### 112 . [AI-Atlas](https://getaiatlas.com/?ref=beautify-github-profile)
+A live card that maps your AI engineering skills across six fields (Machine Learning, Computer Vision, Data Science, NLP & LLMs, AI Agents, MLOps), scored from the code in your public repositories rather than stars or followers, with a global leaderboard rank. Map your profile once and the card updates whenever you rescan. One line of markdown, free.
+
+📍 For example :
+<p align="center">
+  <img width="420" src="https://getaiatlas.com/api/badge/pop123-ux" alt="AI-Atlas card">
+</p>
+
+### 113 . [Contribution FX](https://github.com/Sur1ive/contribution-fx)
+Turn your contribution graph into an animated SVG: Game of Life, sorting, ripples, fireworks or gravity. Five palettes with light/dark variants, generated daily by a zero-dependency GitHub Action. Try it with your username in the [playground](https://sur1ive.github.io/contribution-fx/).
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fireworks-light.svg" alt="Contribution FX fireworks effect">
+</p>
+
+### 115 . [Terminal Typing SVG](https://github.com/VaidikV/terminal-typing-svg)
+
+Terminal-style typing animations, GitHub stats cards, and contribution heatmaps rendered as SVG via a Cloudflare Worker.
+
+📍 For example :
+
+![Terminal Typing SVG demo](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;terminal-typing-svg;%24%20cat%20mission.txt;beautiful%20typing%20animations%20for%20your%20README;no%20server.%20no%20php.%20just%20a%20url.)
+
+### 116 . [Readme X Cards](https://github.com/seuthootDev/readme-x-cards)
+
+X (Twitter) profile, latest post and multi-post cards for your README as SVG. Six themes, light/dark mode via `<picture>`, no token or sign-up. Build the snippet on the [generator page](https://readme-x-cards.vercel.app).
+
+📍 For example :
+
+<p align="center">
+  <img width="450" src="https://readme-x-cards.vercel.app/api/profile?user=Seuthoot&theme=aurora" alt="Readme X Cards profile card">
 </p>
 
 </details>
