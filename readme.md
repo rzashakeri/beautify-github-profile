@@ -1712,6 +1712,14 @@ Sign in with GitHub and get your four-letter dev type, one of 16, read once from
   <a href="https://devtypes.com/OGBC"><img src="https://devtypes.com/sample/OGBC-slip.png" width="480" alt="devtypes card for the dev type OGBC, the Night Editor" /></a>
 </p>
 
+### 105 . [github-metrics](https://github.com/vsmutok/github-metrics)
+Your whole GitHub story as one live SVG card: activity, streaks, top languages, repository stats, achievement trophies and LeetCode/Codeforces/CodeChef stats. Ships 32 themes and 3 card styles, every section is toggleable, and it needs nothing but an `<img>` in your README.
+
+📍 For example :
+<p align="center">
+  <img width="630" src="https://ghmetric.vercel.app/api/profile?username=vsmutok&theme=github-light&style=modern" alt="github-metrics card">
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
