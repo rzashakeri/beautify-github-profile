@@ -1720,6 +1720,16 @@ Your whole GitHub story as one live SVG card: activity, streaks, top languages, 
   <img width="630" src="https://ghmetric.vercel.app/api/profile?username=vsmutok&theme=github-light&style=modern" alt="github-metrics card">
 </p>
 
+### 106 . [commits.sh](https://commits.sh/badges)
+
+Your GitHub contributions as a stock chart: a year of daily contribution candles, plus 52-week commits, peak week, busiest day, active days and streaks. Works for any username with no token or sign-up, with light/dark via `<picture>`. Copy the snippet from the [badge page](https://commits.sh/badges); an optional Mac app adds AI token usage cards.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://commits.sh/maxmoneycash"><picture><source media="(prefers-color-scheme: light)" srcset="https://commits.sh/api/badge?handle=maxmoneycash&style=pro-classic&theme=light"><img width="480" src="https://commits.sh/api/badge?handle=maxmoneycash&style=pro-classic&theme=dark" alt="commits.sh GitHub activity card"></picture></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
