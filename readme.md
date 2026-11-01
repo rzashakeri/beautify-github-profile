@@ -1720,6 +1720,14 @@ Your whole GitHub story as one live SVG card: activity, streaks, top languages, 
   <img width="630" src="https://ghmetric.vercel.app/api/profile?username=vsmutok&theme=github-light&style=modern" alt="github-metrics card">
 </p>
 
+### 106 . [Byteland](https://byteland.dev/readme)
+Your GitHub profile as a pixel-art building in a night city. Every repository is a room, and the ones you pushed to in the last 30 days have their lights on. Type a username on the page and copy one line of markdown; no sign-up, no token. The card is drawn on the server from public GitHub data and refreshes itself.
+
+📍 For example :
+<p align="center">
+  <a href="https://byteland.dev/@kaanisthatyou"><img width="600" src="https://byteland.dev/card/kaanisthatyou.svg" alt="Byteland building card"></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
