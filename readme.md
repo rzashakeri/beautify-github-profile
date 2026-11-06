@@ -1728,6 +1728,14 @@ Your GitHub profile as a pixel-art building in a night city. Every repository is
   <a href="https://byteland.dev/@kaanisthatyou"><img width="600" src="https://byteland.dev/card/kaanisthatyou.svg" alt="Byteland building card"></a>
 </p>
 
+### 107 . [cute-readme](https://github.com/kimjungminn24/cute-readme)
+A pixel toolbox for your GitHub profile: a mini room editor, a block README builder, link badges, repo cards, a now playing music card, an about me card with typing text, and a guestbook built on GitHub Discussions. Everything is plain SVG made in the browser or by a GitHub Action, so there is no server to keep alive.
+
+📍 For example :
+<p align="center">
+  <a href="https://github.com/kimjungminn24/cute-readme"><img width="600" src="https://raw.githubusercontent.com/kimjungminn24/cute-readme/main/docs/room.svg" alt="cute-readme mini room"></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
