@@ -1921,6 +1921,16 @@ X (Twitter) profile, latest post and multi-post cards for your README as SVG. Si
   <img width="450" src="https://readme-x-cards.vercel.app/api/profile?user=Seuthoot&theme=aurora" alt="Readme X Cards profile card">
 </p>
 
+### 117 . [GitHub Planet](https://github.com/nitr0yukkuri/githubplanet)
+
+Turns your public GitHub activity into an interactive 3D planet and shareable profile cards and GIFs for your profile README.
+
+📍 For example :
+
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif" alt="GitHub Planet profile card">
+</p>
+
 </details>
 
 </details>
