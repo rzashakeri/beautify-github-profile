@@ -1736,6 +1736,18 @@ A pixel toolbox for your GitHub profile: a mini room editor, a block README buil
   <a href="https://github.com/kimjungminn24/cute-readme"><img width="600" src="https://raw.githubusercontent.com/kimjungminn24/cute-readme/main/docs/room.svg" alt="cute-readme mini room"></a>
 </p>
 
+### 108 . [Drago](https://github.com/Deepak-Kambala/Drago)
+
+🐉 An animated dragon companion living in your GitHub README that breathes, blinks, and physically evolves through 13 tiers from your real GitHub activity (commits, streaks, and PRs) with dynamic cyberpunk HUD status cards.
+
+📍 For example:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/drago/main/assets/dragon.gif" width="550" alt="Drago Evolving Dragon" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/drago/main/assets/dragon-status.svg" width="550" alt="Drago Status Card" />
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
