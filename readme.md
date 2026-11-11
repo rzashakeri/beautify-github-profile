@@ -2069,6 +2069,14 @@ Generate beautiful, dynamic GitHub profile cards in seconds — Netflix, X (Twit
   <img src="https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&status=BUILDING+AI+AGENTS&focus=Agentic+workflows+%26+open-source&accent=%23A78BFA" alt="cinematic profile card" width="49%" />
 </p>
 
+### 11 . [GitSkins](https://www.gitskins.com/readme-builder)
+Type a GitHub username and GitSkins fills 30+ README designs with your real repos, languages and contributions, including animated headers, 3D contribution cities and stat cards. Copy the Markdown or publish it to your profile in one click. Free designs plus optional Pro ones.
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://www.gitskins.com/og/readme.jpg" alt="GitSkins README generator">
+</p>
+
 ---
 
 </details>
