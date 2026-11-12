@@ -1758,6 +1758,16 @@ Turns your public GitHub activity into an interactive 3D planet and shareable pr
   <img width="450" src="https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif" alt="GitHub Planet profile card">
 </p>
 
+### 110 . [GitShine README stats card](https://gitshine.com/readme-stats)
+
+An animated card with your last twelve months of contributions, all-time total, longest and current streak, stars and top languages. One line of Markdown, four themes (auto light/dark, dark, light, night) and a compact layout; no token or sign-up.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://gitshine.com/stats/torvalds"><img width="600" src="https://gitshine.com/card/torvalds" alt="GitShine README stats card"></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
