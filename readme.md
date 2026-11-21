@@ -389,6 +389,17 @@ A profile views counter that needs no sign-up: add `count=1` to the badge addres
   <img src="https://b59.link/badge.svg?id=09f2e391-6eb5-4b9c-ab92-86cd4cd65adb" alt="views">
 </p>
 
+### 33 . [Discord server badge](https://disdex.io/tools/badge)
+A member count badge and a 30-day growth chart for your Discord server. Nothing to turn on in the server and no bot to add: paste the server's invite link or ID and copy the Markdown.
+
+📍 For example :
+<p align="center">
+  <img src="https://disdex.io/badge/302094807046684672.svg?show=both" alt="Discord server badge">
+</p>
+<p align="center">
+  <img width="420" src="https://disdex.io/badge/302094807046684672/growth.svg" alt="Discord server growth chart">
+</p>
+
 ---
 
 </details>
