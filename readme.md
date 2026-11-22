@@ -1780,6 +1780,21 @@ An animated card with your last twelve months of contributions, all-time total, 
   <a href="https://gitshine.com/stats/torvalds"><img width="600" src="https://gitshine.com/card/torvalds" alt="GitShine README stats card"></a>
 </p>
 
+### 111 . [Commit History](https://github.com/peetzweg/commit-history)
+
+A star-history, but for commits. Watch any GitHub user's commits stack up across their whole lifetime — as one satisfying, rising chart.
+
+📍 For example :
+
+<div align="center">
+  <a href="https://commit-history.com/torvalds">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/torvalds?theme=dark" />
+      <img alt="Linus Torvalds' commit history" src="https://commit-history.com/embed/torvalds" />
+    </picture>
+  </a>
+</div>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
