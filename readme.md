@@ -1795,6 +1795,21 @@ A star-history, but for commits. Watch any GitHub user's commits stack up across
   </a>
 </div>
 
+### 112 . [Glancecard](https://github.com/gfazioli/glancecard)
+
+A GitHub Action that renders a card of your profile, and one for each repository you pick, every day inside your own repository: no server, no third-party service, just the token every workflow already gets. Seventeen looks, from a dark/light pair that follows the reader's GitHub theme to a green phosphor monitor and a fanfold printout.
+
+📍 For example :
+
+<div align="center">
+  <a href="https://github.com/gfazioli/glancecard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gfazioli/gfazioli/master/glancecard/profile-dark.svg" />
+      <img width="600" alt="Glancecard profile card" src="https://raw.githubusercontent.com/gfazioli/gfazioli/master/glancecard/profile-light.svg" />
+    </picture>
+  </a>
+</div>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
