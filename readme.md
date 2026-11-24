@@ -1968,6 +1968,16 @@ X (Twitter) profile, latest post and multi-post cards for your README as SVG. Si
   <img width="450" src="https://readme-x-cards.vercel.app/api/profile?user=Seuthoot&theme=aurora" alt="Readme X Cards profile card">
 </p>
 
+### 117 . [Stard](https://github.com/armanckeser/stard)
+
+Cards made from your GitHub stars: your top four repos as posters, short reviews in your own words, and your GitHub Lists. Each poster is filled up to a line showing how busy the repo was over the past year. Type any username, pick the repos and copy the Markdown. No token or sign-in.
+
+📍 For example :
+
+<p align="center">
+  <img width="720" src="https://stard.armanckeser.com/api/card/top4.svg?user=octocat&repos=astral-sh%2Fuv%2Cimmich-app%2Fimmich%2CBurntSushi%2Fripgrep%2Csveltejs%2Fsvelte" alt="Stard top four card">
+</p>
+
 </details>
 
 </details>
