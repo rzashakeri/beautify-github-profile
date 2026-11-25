@@ -1993,6 +1993,16 @@ Cards made from your GitHub stars: your top four repos as posters, short reviews
   <img width="720" src="https://stard.armanckeser.com/api/card/top4.svg?user=octocat&repos=astral-sh%2Fuv%2Cimmich-app%2Fimmich%2CBurntSushi%2Fripgrep%2Csveltejs%2Fsvelte" alt="Stard top four card">
 </p>
 
+### 118 . [Markdown Chess](https://github.com/DBordeleau/markdown-chess)
+
+A chess game for your profile README that visitors play by clicking the board itself. Click a piece, then click a square, and it moves. Every visitor shares one board. It runs on a Cloudflare Worker that fits in the free plan, and the README has the steps to host your own.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://github.com/DBordeleau"><img width="272" src="https://profile-chess.bannon-pay.workers.dev/board.svg" alt="Markdown Chess board"></a>
+</p>
+
 </details>
 
 </details>
