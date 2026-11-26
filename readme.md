@@ -1810,6 +1810,28 @@ A GitHub Action that renders a card of your profile, and one for each repository
   </a>
 </div>
 
+### 113 . [Contribution FX](https://github.com/Sur1ive/contribution-fx)
+Turn your contribution graph into animated SVG art: candlestick stock charts, Game of Life, neon signs, constellations, circuit boards and more, in light and dark. Generated daily by a zero-dependency GitHub Action; try it with your username in the [playground](https://sur1ive.github.io/contribution-fx/).
+
+📍 For example :
+
+<div align="center">
+  <a href="https://github.com/Sur1ive/contribution-fx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fx2-dark.svg" />
+      <img width="720" alt="Contribution FX fx2: the contribution graph as a candlestick chart" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fx2-light.svg" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/life-dark.svg" />
+      <img width="720" alt="Contribution FX life: the contribution graph seeding Conway's Game of Life" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/life-light.svg" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/neon-dark.svg" />
+      <img width="720" alt="Contribution FX neon: the contribution graph as a flickering neon sign" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/neon-light.svg" />
+    </picture>
+  </a>
+</div>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
@@ -1955,14 +1977,6 @@ A live card that maps your AI engineering skills across six fields (Machine Lear
 📍 For example :
 <p align="center">
   <img width="420" src="https://getaiatlas.com/api/badge/pop123-ux" alt="AI-Atlas card">
-</p>
-
-### 113 . [Contribution FX](https://github.com/Sur1ive/contribution-fx)
-Turn your contribution graph into an animated SVG: Game of Life, sorting, ripples, fireworks or gravity. Five palettes with light/dark variants, generated daily by a zero-dependency GitHub Action. Try it with your username in the [playground](https://sur1ive.github.io/contribution-fx/).
-
-📍 For example :
-<p align="center">
-  <img width="720" src="https://raw.githubusercontent.com/Sur1ive/contribution-fx/main/examples/fireworks-light.svg" alt="Contribution FX fireworks effect">
 </p>
 
 ### 115 . [Terminal Typing SVG](https://github.com/VaidikV/terminal-typing-svg)
